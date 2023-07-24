@@ -2,12 +2,14 @@
 # 기본 데이터 타입과 큐&스택, 배열
 
 ## Int와 UInt
+[velog](https://velog.io/@jingni1115/Swift-로드맵Int)
 
 * Int: +, - 부호를 포함한 정수
     * 2,147,483,648 ~ 2,147,483,647 사이 숫자를 표현
 * UInt: Int 중 - 부호를 포함하지 않는 0을 포함한 양의 정수
 
 ## Float와 Double: 소수점을 표현하는 데이터 타입
+[velog](https://velog.io/@jingni1115/Float-and-Double)
 
 * Float: 32비트의 부동소수 표현
 * Double: 64비트의 부동소수 표현
