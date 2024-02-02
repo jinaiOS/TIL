@@ -8,6 +8,3 @@
 
 ### Categories
 
-- [CSS](#css)
-
-### [CSS](#css)
