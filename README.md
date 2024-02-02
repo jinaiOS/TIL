@@ -1,18 +1,13 @@
 # TIL
-## Today I Learned!
+> Today I Learned
 
-## • Swift
+### 2 most recent TILs
 
-[Swift란?](https://github.com/jingni1115/TIL/blob/c601b6b445472a039f150b0c8f85c1de68d9f3c6/Swift/About%20Swift.md)
+- [How to turn people into frogs](Magic/turn-people-into-frogs.md) - 25 Apr 20 20:42 +0800
+- [How to add CSS borders](CSS/how-to-add-borders.md) - 25 Apr 20 15:50 +0800
 
-[ARC, 누수해결법](https://github.com/jingni1115/TIL/blob/c601b6b445472a039f150b0c8f85c1de68d9f3c6/Swift/%EB%AC%B8%EB%B2%95/ARC%2C%20Memory.md)
+### Categories
 
-[기본 데이터 타입과 큐&스택, 배열](https://github.com/jingni1115/TIL/blob/c601b6b445472a039f150b0c8f85c1de68d9f3c6/Swift/%EB%AC%B8%EB%B2%95/Basic.md)
+- [CSS](#css)
 
-[객체지향 프로그래밍 패러다임(OOP)](https://github.com/jingni1115/TIL/blob/c601b6b445472a039f150b0c8f85c1de68d9f3c6/Swift/%EB%AC%B8%EB%B2%95/OOP.md)
-
-[Optional](https://github.com/jingni1115/TIL/blob/c601b6b445472a039f150b0c8f85c1de68d9f3c6/Swift/%EB%AC%B8%EB%B2%95/Optional.md)
-
-[Property](https://github.com/jingni1115/TIL/blob/c601b6b445472a039f150b0c8f85c1de68d9f3c6/Swift/%EB%AC%B8%EB%B2%95/Property.md)
-
-[연산자와 반복문](https://github.com/jingni1115/TIL/blob/c601b6b445472a039f150b0c8f85c1de68d9f3c6/Swift/%EB%AC%B8%EB%B2%95/calculation%26repeat.md)
+### [CSS](#css)
