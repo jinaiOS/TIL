@@ -5,17 +5,25 @@ Today I Learned!!
 
 ### 3 most recent study
 - [Alamofire.md]("./Library/Alamofire.md") - Sat Feb 03 2024
-- [Data Access.md]("./Swift/Data_Access.md") - Sat Feb 03 2024
-- [About Swift.md]("./Swift/About_Swift.md") - Sat Feb 03 2024
+- [Failed to verify code signature.md]("./ErrorResolve/Failed_to_verify_code_signature.md") - Sat Feb 03 2024
+- [Stored property 'productData' without initial value prevents synthesized initializers.md]("./ErrorResolve/Stored_property_'productData'_without_initial_value_prevents_synthesized_initializers.md") - Sat Feb 03 2024
 
 ### Categories
 - [Library/Alamofire.md](#Library/Alamofire.md)
+- [ErrorResolve](#ErrorResolve)
 - [Swift](#Swift)
 - [CS/Database.md](#CS/Database.md)
-- [Error Resolve](#Error Resolve)
 - [Knowledge/C, C++, C# difference.md](#Knowledge/C, C++, C# difference.md)
 
 ### [Library/Alamofire.md](#Library/Alamofire.md)
+
+### [ErrorResolve](#ErrorResolve)
+- [Failed to verify code signature.md]("./ErrorResolve/Failed_to_verify_code_signature.md") - Sat Feb 03 2024
+- [Stored property 'productData' without initial value prevents synthesized initializers.md]("./ErrorResolve/Stored_property_'productData'_without_initial_value_prevents_synthesized_initializers.md") - Sat Feb 03 2024
+- [The document “” could not be autosaved. The file doesn’t exist.md]("./ErrorResolve/The_document_“”_could_not_be_autosaved._The_file_doesn’t_exist.md") - Sat Feb 03 2024
+- [Invalid update: invalid number of rows in section 1.md]("./ErrorResolve/Invalid_update:_invalid_number_of_rows_in_section_1.md") - Sat Feb 03 2024
+- [Xcode Can't build in device.md]("./ErrorResolve/Xcode_Can't_build_in_device.md") - Sat Feb 03 2024
+- [Distill failed for unknown reasons.md]("./ErrorResolve/Distill_failed_for_unknown_reasons.md") - Sat Feb 03 2024
 
 ### [Swift](#Swift)
 - [Data Access.md]("./Swift/Data_Access.md") - Sat Feb 03 2024
@@ -68,14 +76,6 @@ Today I Learned!!
 - [Singleton.md]("./Swift/Singleton.md") - Sat Feb 03 2024
 
 ### [CS/Database.md](#CS/Database.md)
-
-### [Error Resolve](#Error Resolve)
-- [Failed to verify code signature.md]("./Error_Resolve/Failed_to_verify_code_signature.md") - Sat Feb 03 2024
-- [Stored property 'productData' without initial value prevents synthesized initializers.md]("./Error_Resolve/Stored_property_'productData'_without_initial_value_prevents_synthesized_initializers.md") - Sat Feb 03 2024
-- [The document “” could not be autosaved. The file doesn’t exist.md]("./Error_Resolve/The_document_“”_could_not_be_autosaved._The_file_doesn’t_exist.md") - Sat Feb 03 2024
-- [Invalid update: invalid number of rows in section 1.md]("./Error_Resolve/Invalid_update:_invalid_number_of_rows_in_section_1.md") - Sat Feb 03 2024
-- [Xcode Can't build in device.md]("./Error_Resolve/Xcode_Can't_build_in_device.md") - Sat Feb 03 2024
-- [Distill failed for unknown reasons.md]("./Error_Resolve/Distill_failed_for_unknown_reasons.md") - Sat Feb 03 2024
 
 ### [Knowledge/C, C++, C# difference.md](#Knowledge/C, C++, C# difference.md)
 
