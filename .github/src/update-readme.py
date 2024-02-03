@@ -81,8 +81,8 @@ only_files.sort(key=lambda file: file[2], reverse=True)
 
 # README.md 파일을 열어 파일 경로를 추가
 with open("README.md", "w") as f:
-    f.write("# mathematics\n")
-    f.write("A collection of notes and solutions on various mathematical topics.\n\n")
+    f.write("# TIL\n")
+    f.write("Today I Learned!!\n\n")
     f.write("---\n\n")
 
     most = 3
