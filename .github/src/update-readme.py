@@ -5,30 +5,6 @@ import re
 # 탐색할 root 경로
 dir_path = "."
 
-# ignore 파일을 읽어서 패턴 목록을 리스트로 저장
-with open('./.github/config/.ignore', 'r') as f:
-    ignore = f.readlines()
-patterns = []
-for p in ignore:
-    pattern = r""
-    for c in p.strip():
-        if c == '*':
-            pattern = pattern + r".*"
-        elif c in ".^$*+?{}[]|()":  # 메타 문자
-            pattern = pattern + r"[{}]".format(c)
-        else:
-            pattern = pattern + r'{}'.format(c)
-    patterns.append(pattern)
-
-    
-# ignore 패턴과 일치하는지 확인하는 함수
-def check_ignore_pattern(item_path):
-    for pattern in patterns:
-        if re.fullmatch(pattern, item_path[(len(dir_path)+1):]):  # 항상 붙는 "[dir_path]/" 제거
-            return True
-    return False
-
-
 def find_target(path, level):
     file_list = []
     # 하위 디렉토리 순환
