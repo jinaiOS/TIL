@@ -88,24 +88,18 @@ with open("README.md", "w") as f:
     most = 3
     f.write("### {} most recent study\n".format(most))
     for i in range(most):
-        f.write("- [{}](\"{}\") - {}\n".format(only_files[i][0], only_files[i][1].replace(' ', '_'), only_files[i][2]))
+        title = only_files[i][0]
+        link = title.replace(' ', '_')  # Replace spaces with underscores
+        f.write("- [{}]({}) - {}\n".format(title, link, only_files[i][2]))
     f.write("\n")
-
 
     file_list.sort(key=lambda file: file[2], reverse=True)
     f.write("### Categories\n")
     for file in file_list:
-        f.write("- [{}](#{})\n".format(file[0], file[0]))
+        f.write("- [{}]({#{}})\n".format(file[0], file[0]))
     f.write("\n")
 
-
     for file in file_list:
-        f.write("### [{}](#{})\n".format(file[0], file[0]))
+        f.write("### [{}]({#{}})\n".format(file[0], file[0]))
         print_file_list(f, file[3], 0)
         f.write("\n")
-
-    '''for target in file_list:
-        for level in range(target[0]):
-            f.write("  ")
-        
-        f.write("- [{}](\"{}\") - {}\n".format(target[1], target[2].replace(' ', '_'), target[3]))'''
