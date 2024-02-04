@@ -82,7 +82,6 @@ Today I Learned!!
       - [Contents.swift]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/Contents.swift") - Sun Feb 04 2024
   - [2024.02.01]("./Swift/2024.02/2024.02.01")
     - [2024.02.01.md]("./Swift/2024.02/2024.02.01/2024.02.01.md") - Sun Feb 04 2024
-    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.01/Swift_마스터_스쿨_30기.md") - Sun Feb 04 2024
     - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.01/Swift_마스터_스쿨_30기.md") - Sun Feb 04 2024
 - [urlCache.md]("./Swift/urlCache.md") - Sun Feb 04 2024
 - [Grammar]("./Swift/Grammar")
