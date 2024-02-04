@@ -20,14 +20,12 @@ for p in ignore:
             pattern = pattern + r'{}'.format(c)
     patterns.append(pattern)
 
-    
 # ignore 패턴과 일치하는지 확인하는 함수
 def check_ignore_pattern(item_path):
     for pattern in patterns:
         if re.fullmatch(pattern, item_path[(len(dir_path)+1):]):  # 항상 붙는 "[dir_path]/" 제거
             return True
     return False
-
 
 def find_target(path, level):
     file_list = []
@@ -59,7 +57,6 @@ def find_target(path, level):
 
     return file_list
        
-
 # 재귀적으로 파일 출력
 def print_file_list(f, file_list, level):
     file_list.sort(key=lambda file: file[2], reverse=True)
@@ -72,7 +69,6 @@ def print_file_list(f, file_list, level):
         else:  # 디렉토리면 날짜 빼고 출력
             f.write("- [{}](\"{}\")\n".format(file[0], file[1].replace(' ', '_')))
             print_file_list(f, file[3], level+1)
-
 
 only_files = []
 file_list = find_target(dir_path, 0)
@@ -94,14 +90,12 @@ with open("README.md", "w") as f:
     f.write("\n")
 
     file_list.sort(key=lambda file: file[2], reverse=True)
-f.write("### Categories\n")
-for file in file_list:
-    f.write("- [{}]({{#{}}})\n".format(file[0], file[0]))
-    f.write("\n")
+    f.write("### Categories\n")
+    for file in file_list:
+        f.write("- [{}]({{#{}}})\n".format(file[0], file[0]))
+        f.write("\n")
 
-for file in file_list:
-    f.write("### [{}]({{#{}}})\n".format(file[0], file[0]))
-    print_file_list(f, file[3], 0)
-    f.write("\n")
-
-
+    for file in file_list:
+        f.write("### [{}]({{#{}}})\n".format(file[0], file[0]))
+        print_file_list(f, file[3], 0)
+        f.write("\n")
