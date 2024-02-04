@@ -4,20 +4,24 @@ Today I Learned!!
 ---
 
 ### 3 most recent study
-- [Alamofire.md]("./Library/Alamofire.md") - Sun Feb 04 2024
-- [Failed to verify code signature.md]("./ErrorResolve/Failed_to_verify_code_signature.md") - Sun Feb 04 2024
-- [Stored property 'productData' without initial value prevents synthesized initializers.md]("./ErrorResolve/Stored_property_'productData'_without_initial_value_prevents_synthesized_initializers.md") - Sun Feb 04 2024
+- [Alamofire.md](Alamofire.md) - Sun Feb 04 2024
+- [Failed to verify code signature.md](Failed_to_verify_code_signature.md) - Sun Feb 04 2024
+- [Stored property 'productData' without initial value prevents synthesized initializers.md](Stored_property_'productData'_without_initial_value_prevents_synthesized_initializers.md) - Sun Feb 04 2024
 
 ### Categories
-- [Library/Alamofire.md](#Library/Alamofire.md)
-- [ErrorResolve](#ErrorResolve)
-- [Swift](#Swift)
-- [CS/Database.md](#CS/Database.md)
-- [Knowledge/C, C++, C# difference.md](#Knowledge/C, C++, C# difference.md)
+- [Library/Alamofire.md]({#Library/Alamofire.md})
 
-### [Library/Alamofire.md](#Library/Alamofire.md)
+- [ErrorResolve]({#ErrorResolve})
 
-### [ErrorResolve](#ErrorResolve)
+- [Swift]({#Swift})
+
+- [CS/Database.md]({#CS/Database.md})
+
+- [Knowledge/C, C++, C# difference.md]({#Knowledge/C, C++, C# difference.md})
+
+### [Library/Alamofire.md]({#Library/Alamofire.md})
+
+### [ErrorResolve]({#ErrorResolve})
 - [Failed to verify code signature.md]("./ErrorResolve/Failed_to_verify_code_signature.md") - Sun Feb 04 2024
 - [Stored property 'productData' without initial value prevents synthesized initializers.md]("./ErrorResolve/Stored_property_'productData'_without_initial_value_prevents_synthesized_initializers.md") - Sun Feb 04 2024
 - [The document “” could not be autosaved. The file doesn’t exist.md]("./ErrorResolve/The_document_“”_could_not_be_autosaved._The_file_doesn’t_exist.md") - Sun Feb 04 2024
@@ -25,7 +29,7 @@ Today I Learned!!
 - [Xcode Can't build in device.md]("./ErrorResolve/Xcode_Can't_build_in_device.md") - Sun Feb 04 2024
 - [Distill failed for unknown reasons.md]("./ErrorResolve/Distill_failed_for_unknown_reasons.md") - Sun Feb 04 2024
 
-### [Swift](#Swift)
+### [Swift]({#Swift})
 - [Data Access.md]("./Swift/Data_Access.md") - Sun Feb 04 2024
 - [About Swift.md]("./Swift/About_Swift.md") - Sun Feb 04 2024
 - [2024.01]("./Swift/2024.01")
@@ -91,7 +95,7 @@ Today I Learned!!
   - [Optional.md]("./Swift/Grammar/Optional.md") - Sun Feb 04 2024
 - [Singleton.md]("./Swift/Singleton.md") - Sun Feb 04 2024
 
-### [CS/Database.md](#CS/Database.md)
+### [CS/Database.md]({#CS/Database.md})
 
-### [Knowledge/C, C++, C# difference.md](#Knowledge/C, C++, C# difference.md)
+### [Knowledge/C, C++, C# difference.md]({#Knowledge/C, C++, C# difference.md})
 
