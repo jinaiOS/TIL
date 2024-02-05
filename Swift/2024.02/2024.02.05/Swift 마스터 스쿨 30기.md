@@ -178,6 +178,7 @@ a.formSymmetricDifference(b)
 # Enum
 
 - 한정된 사례(case)
+- 원시값, 연관값
 
 ```swift
 enum Weekday {
@@ -192,5 +193,55 @@ enum Weekday {
 
 enum CompassPoint {
 	case north, south, east, west
+}
+
+Weekday(rawValue: 0)
+Weekday.monday.rawValue
+```
+
+# Optional
+
+```swift
+enum Optional<Wrapped> {
+	case some(Wrapped)
+	case none // nil과 동일
+}
+```
+
+- Unwrapping: 옵셔널 벗기기!
+
+## 연관값이 있는 경우
+
+```swift
+if case Weekday.monday() = day { }
+
+for case let Weekday.monday() in list { }
+```
+
+- 특정 케이스만 다룰 수 있음
+
+## 옵셔널 패턴
+
+```swift
+switch a {
+case let z?:
+	print(z) // .some 간소화
+case nil:
+	print("nil")
+}
+```
+
+# @unknown 키워드
+
+- Swift 5.0 ~
+- 모든 케이스를 다루지 않은 경우 경고를 통해 알려줌
+- “Switch must be exhaustive”
+
+```swift
+switch a {
+case .b:
+	print("b")
+@unknown default:
+	print("c")
 }
 ```
