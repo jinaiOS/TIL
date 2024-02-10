@@ -20,6 +20,9 @@ class ViewController: UIViewController {
     
     let rpsImg = [#imageLiteral(resourceName: "scissors"), #imageLiteral(resourceName: "rock"), #imageLiteral(resourceName: "paper")]
     
+    var myChoice: RPS = .paper
+    var comChoice: RPS = .paper
+    
     override func viewDidLoad() {
         super.viewDidLoad()
      
@@ -32,10 +35,13 @@ class ViewController: UIViewController {
         switch sender {
         case btnScissors:
             imgMySelect.image = rpsImg[0]
+            myChoice = .scissors
         case btnRock:
             imgMySelect.image = rpsImg[1]
+            myChoice = .rock
         default:
             imgMySelect.image = rpsImg[2]
+            myChoice = .paper
         }
     }
 
@@ -52,15 +58,26 @@ class ViewController: UIViewController {
         switch imgComputerSelect.image {
         case rpsImg[0]:
             lblComputerSelect.text = "가위"
+            comChoice = .scissors
         case rpsImg[1]:
             lblComputerSelect.text = "바위"
+            comChoice = .rock
         default:
             lblComputerSelect.text = "보"
+            comChoice = .paper
         }
         
-        if imgComputerSelect.image == imgMySelect.image {
-            lblResult.text = "무승부"
-        } 
+        if myChoice == comChoice {
+            lblResult.text = "비겼다"
+        } else if myChoice == .rock && comChoice == .scissors {
+            lblResult.text = "이겼다"
+        } else if myChoice == .paper && comChoice == .rock {
+            lblResult.text = "이겼다"
+        } else if myChoice == .scissors && comChoice == .paper {
+            lblResult.text = "이겼다"
+        } else {
+            lblResult.text = "졌다"
+        }
     }
 }
 
