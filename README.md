@@ -59,10 +59,45 @@ Today I Learned!!
         - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Sat Feb 10 2024
       - [contents.xcplayground]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/contents.xcplayground") - Sat Feb 10 2024
   - [2024.02.06/2024.02.06.md]("./Swift/2024.02/2024.02.06/2024.02.06.md") - Sat Feb 10 2024
-  - [2024.02.05/2024.02.05.md]("./Swift/2024.02/2024.02.05/2024.02.05.md") - Sat Feb 10 2024
+  - [2024.02.05]("./Swift/2024.02/2024.02.05")
+    - [2024.02.05.md]("./Swift/2024.02/2024.02.05/2024.02.05.md") - Sat Feb 10 2024
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.05/Swift_마스터_스쿨_30기.md") - Sat Feb 10 2024
   - [2024.02.02/2024.02.02.md]("./Swift/2024.02/2024.02.02/2024.02.02.md") - Sat Feb 10 2024
-  - [2024.02.10/2024.02.10.md]("./Swift/2024.02/2024.02.10/2024.02.10.md") - Sat Feb 10 2024
-  - [2024.02.01/2024.02.01.md]("./Swift/2024.02/2024.02.01/2024.02.01.md") - Sat Feb 10 2024
+  - [2024.02.10]("./Swift/2024.02/2024.02.10")
+    - [RandomBingo]("./Swift/2024.02/2024.02.10/RandomBingo")
+      - [RandomBingo/main.swift]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo/main.swift") - Sat Feb 10 2024
+      - [RandomBingo.xcodeproj]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj")
+        - [project.xcworkspace]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace")
+          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Sat Feb 10 2024
+          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Sat Feb 10 2024
+          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Sat Feb 10 2024
+        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Sat Feb 10 2024
+        - [project.pbxproj]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.pbxproj") - Sat Feb 10 2024
+    - [2024.02.10.md]("./Swift/2024.02/2024.02.10/2024.02.10.md") - Sat Feb 10 2024
+    - [RandomBingoMobile]("./Swift/2024.02/2024.02.10/RandomBingoMobile")
+      - [RandomBingoMobile.xcodeproj]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj")
+        - [project.xcworkspace]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace")
+          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Sat Feb 10 2024
+          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Sat Feb 10 2024
+          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Sat Feb 10 2024
+        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Sat Feb 10 2024
+        - [project.pbxproj]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.pbxproj") - Sat Feb 10 2024
+      - [RandomBingoMobile]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile")
+        - [SceneDelegate.swift]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/SceneDelegate.swift") - Sat Feb 10 2024
+        - [Assets.xcassets]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets")
+          - [AccentColor.colorset/Contents.json]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets/AccentColor.colorset/Contents.json") - Sat Feb 10 2024
+          - [Contents.json]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets/Contents.json") - Sat Feb 10 2024
+          - [AppIcon.appiconset/Contents.json]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets/AppIcon.appiconset/Contents.json") - Sat Feb 10 2024
+        - [Base.lproj]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Base.lproj")
+          - [Main.storyboard]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Base.lproj/Main.storyboard") - Sat Feb 10 2024
+          - [LaunchScreen.storyboard]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Base.lproj/LaunchScreen.storyboard") - Sat Feb 10 2024
+        - [ViewController.swift]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/ViewController.swift") - Sat Feb 10 2024
+        - [Info.plist]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Info.plist") - Sat Feb 10 2024
+        - [AppDelegate.swift]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/AppDelegate.swift") - Sat Feb 10 2024
+  - [2024.02.08/Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.08/Swift_마스터_스쿨_30기.md") - Sat Feb 10 2024
+  - [2024.02.01]("./Swift/2024.02/2024.02.01")
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.01/Swift_마스터_스쿨_30기.md") - Sat Feb 10 2024
+    - [2024.02.01.md]("./Swift/2024.02/2024.02.01/2024.02.01.md") - Sat Feb 10 2024
   - [2024.02.03/Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.03/Swift_마스터_스쿨_30기.md") - Sat Feb 10 2024
   - [2024.02.09]("./Swift/2024.02/2024.02.09")
     - [RPSGame]("./Swift/2024.02/2024.02.09/RPSGame")
