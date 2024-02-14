@@ -11,7 +11,7 @@ Today I Learned!!
 ### Categories
 - [ErrorResolve]({#ErrorResolve})
 
-- [Android/2024.02/2024.02.14]({#Android/2024.02/2024.02.14})
+- [Android]({#Android})
 
 - [Library/Alamofire.md]({#Library/Alamofire.md})
 
@@ -29,61 +29,64 @@ Today I Learned!!
 - [Invalid update: invalid number of rows in section 1.md]("./ErrorResolve/Invalid_update:_invalid_number_of_rows_in_section_1.md") - Wed Feb 14 2024
 - [Xcode Can't build in device.md]("./ErrorResolve/Xcode_Can't_build_in_device.md") - Wed Feb 14 2024
 
-### [Android/2024.02/2024.02.14]({#Android/2024.02/2024.02.14})
-- [gradlew.bat]("./Android/2024.02/2024.02.14/gradlew.bat") - Wed Feb 14 2024
-- [app]("./Android/2024.02/2024.02.14/app")
-  - [src]("./Android/2024.02/2024.02.14/app/src")
-    - [androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt]("./Android/2024.02/2024.02.14/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt") - Wed Feb 14 2024
-    - [main]("./Android/2024.02/2024.02.14/app/src/main")
-      - [res]("./Android/2024.02/2024.02.14/app/src/main/res")
-        - [mipmap-xhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi")
-          - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi/ic_launcher.webp") - Wed Feb 14 2024
-          - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp") - Wed Feb 14 2024
-        - [mipmap-xxxhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi")
-          - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp") - Wed Feb 14 2024
-          - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp") - Wed Feb 14 2024
-        - [xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml")
-          - [backup_rules.xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml/backup_rules.xml") - Wed Feb 14 2024
-          - [data_extraction_rules.xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml/data_extraction_rules.xml") - Wed Feb 14 2024
-        - [mipmap-hdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi")
-          - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi/ic_launcher.webp") - Wed Feb 14 2024
-          - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp") - Wed Feb 14 2024
-        - [mipmap-anydpi-v26]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26")
-          - [ic_launcher.xml]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml") - Wed Feb 14 2024
-          - [ic_launcher_round.xml]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml") - Wed Feb 14 2024
-        - [mipmap-xxhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi")
-          - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp") - Wed Feb 14 2024
-          - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp") - Wed Feb 14 2024
-        - [values]("./Android/2024.02/2024.02.14/app/src/main/res/values")
-          - [themes.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/themes.xml") - Wed Feb 14 2024
-          - [colors.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/colors.xml") - Wed Feb 14 2024
-          - [strings.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/strings.xml") - Wed Feb 14 2024
-        - [mipmap-mdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi")
-          - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi/ic_launcher.webp") - Wed Feb 14 2024
-          - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp") - Wed Feb 14 2024
-        - [drawable]("./Android/2024.02/2024.02.14/app/src/main/res/drawable")
-          - [ic_launcher_foreground.xml]("./Android/2024.02/2024.02.14/app/src/main/res/drawable/ic_launcher_foreground.xml") - Wed Feb 14 2024
-          - [ic_launcher_background.xml]("./Android/2024.02/2024.02.14/app/src/main/res/drawable/ic_launcher_background.xml") - Wed Feb 14 2024
-      - [AndroidManifest.xml]("./Android/2024.02/2024.02.14/app/src/main/AndroidManifest.xml") - Wed Feb 14 2024
-      - [java/com/example/myapplication]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication")
-        - [MainActivity.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/MainActivity.kt") - Wed Feb 14 2024
-        - [ui/theme]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme")
-          - [Color.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Color.kt") - Wed Feb 14 2024
-          - [Theme.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Theme.kt") - Wed Feb 14 2024
-          - [Type.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Type.kt") - Wed Feb 14 2024
-    - [test/java/com/example/myapplication/ExampleUnitTest.kt]("./Android/2024.02/2024.02.14/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt") - Wed Feb 14 2024
-  - [.gitignore]("./Android/2024.02/2024.02.14/app/.gitignore") - Wed Feb 14 2024
-  - [proguard-rules.pro]("./Android/2024.02/2024.02.14/app/proguard-rules.pro") - Wed Feb 14 2024
-  - [build.gradle.kts]("./Android/2024.02/2024.02.14/app/build.gradle.kts") - Wed Feb 14 2024
-- [gradle.properties]("./Android/2024.02/2024.02.14/gradle.properties") - Wed Feb 14 2024
-- [2024.02.14.md]("./Android/2024.02/2024.02.14/2024.02.14.md") - Wed Feb 14 2024
-- [.gitignore]("./Android/2024.02/2024.02.14/.gitignore") - Wed Feb 14 2024
-- [gradle/wrapper]("./Android/2024.02/2024.02.14/gradle/wrapper")
-  - [gradle-wrapper.jar]("./Android/2024.02/2024.02.14/gradle/wrapper/gradle-wrapper.jar") - Wed Feb 14 2024
-  - [gradle-wrapper.properties]("./Android/2024.02/2024.02.14/gradle/wrapper/gradle-wrapper.properties") - Wed Feb 14 2024
-- [settings.gradle.kts]("./Android/2024.02/2024.02.14/settings.gradle.kts") - Wed Feb 14 2024
-- [build.gradle.kts]("./Android/2024.02/2024.02.14/build.gradle.kts") - Wed Feb 14 2024
-- [gradlew]("./Android/2024.02/2024.02.14/gradlew") - Wed Feb 14 2024
+### [Android]({#Android})
+- [2024.02.14.md]("./Android/2024.02.14.md") - Wed Feb 14 2024
+- [2024.02/2024.02.14]("./Android/2024.02/2024.02.14")
+  - [gradlew.bat]("./Android/2024.02/2024.02.14/gradlew.bat") - Wed Feb 14 2024
+  - [app]("./Android/2024.02/2024.02.14/app")
+    - [src]("./Android/2024.02/2024.02.14/app/src")
+      - [androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt]("./Android/2024.02/2024.02.14/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt") - Wed Feb 14 2024
+      - [main]("./Android/2024.02/2024.02.14/app/src/main")
+        - [res]("./Android/2024.02/2024.02.14/app/src/main/res")
+          - [mipmap-xhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi")
+            - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi/ic_launcher.webp") - Wed Feb 14 2024
+            - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp") - Wed Feb 14 2024
+          - [mipmap-xxxhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi")
+            - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp") - Wed Feb 14 2024
+            - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp") - Wed Feb 14 2024
+          - [xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml")
+            - [backup_rules.xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml/backup_rules.xml") - Wed Feb 14 2024
+            - [data_extraction_rules.xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml/data_extraction_rules.xml") - Wed Feb 14 2024
+          - [mipmap-hdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi")
+            - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi/ic_launcher.webp") - Wed Feb 14 2024
+            - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp") - Wed Feb 14 2024
+          - [mipmap-anydpi-v26]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26")
+            - [ic_launcher.xml]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml") - Wed Feb 14 2024
+            - [ic_launcher_round.xml]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml") - Wed Feb 14 2024
+          - [mipmap-xxhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi")
+            - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp") - Wed Feb 14 2024
+            - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp") - Wed Feb 14 2024
+          - [values]("./Android/2024.02/2024.02.14/app/src/main/res/values")
+            - [themes.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/themes.xml") - Wed Feb 14 2024
+            - [colors.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/colors.xml") - Wed Feb 14 2024
+            - [strings.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/strings.xml") - Wed Feb 14 2024
+          - [mipmap-mdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi")
+            - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi/ic_launcher.webp") - Wed Feb 14 2024
+            - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp") - Wed Feb 14 2024
+          - [drawable]("./Android/2024.02/2024.02.14/app/src/main/res/drawable")
+            - [ic_launcher_foreground.xml]("./Android/2024.02/2024.02.14/app/src/main/res/drawable/ic_launcher_foreground.xml") - Wed Feb 14 2024
+            - [ic_launcher_background.xml]("./Android/2024.02/2024.02.14/app/src/main/res/drawable/ic_launcher_background.xml") - Wed Feb 14 2024
+        - [AndroidManifest.xml]("./Android/2024.02/2024.02.14/app/src/main/AndroidManifest.xml") - Wed Feb 14 2024
+        - [java]("./Android/2024.02/2024.02.14/app/src/main/java")
+          - [sample.kt]("./Android/2024.02/2024.02.14/app/src/main/java/sample.kt") - Wed Feb 14 2024
+          - [com/example/myapplication]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication")
+            - [MainActivity.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/MainActivity.kt") - Wed Feb 14 2024
+            - [ui/theme]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme")
+              - [Color.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Color.kt") - Wed Feb 14 2024
+              - [Theme.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Theme.kt") - Wed Feb 14 2024
+              - [Type.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Type.kt") - Wed Feb 14 2024
+      - [test/java/com/example/myapplication/ExampleUnitTest.kt]("./Android/2024.02/2024.02.14/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt") - Wed Feb 14 2024
+    - [.gitignore]("./Android/2024.02/2024.02.14/app/.gitignore") - Wed Feb 14 2024
+    - [proguard-rules.pro]("./Android/2024.02/2024.02.14/app/proguard-rules.pro") - Wed Feb 14 2024
+    - [build.gradle.kts]("./Android/2024.02/2024.02.14/app/build.gradle.kts") - Wed Feb 14 2024
+  - [gradle.properties]("./Android/2024.02/2024.02.14/gradle.properties") - Wed Feb 14 2024
+  - [.gitignore]("./Android/2024.02/2024.02.14/.gitignore") - Wed Feb 14 2024
+  - [gradle/wrapper]("./Android/2024.02/2024.02.14/gradle/wrapper")
+    - [gradle-wrapper.jar]("./Android/2024.02/2024.02.14/gradle/wrapper/gradle-wrapper.jar") - Wed Feb 14 2024
+    - [gradle-wrapper.properties]("./Android/2024.02/2024.02.14/gradle/wrapper/gradle-wrapper.properties") - Wed Feb 14 2024
+  - [settings.gradle.kts]("./Android/2024.02/2024.02.14/settings.gradle.kts") - Wed Feb 14 2024
+  - [build.gradle.kts]("./Android/2024.02/2024.02.14/build.gradle.kts") - Wed Feb 14 2024
+  - [gradlew]("./Android/2024.02/2024.02.14/gradlew") - Wed Feb 14 2024
 
 ### [Library/Alamofire.md]({#Library/Alamofire.md})
 
