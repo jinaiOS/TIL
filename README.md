@@ -206,6 +206,7 @@ Today I Learned!!
           - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Mon Feb 19 2024
         - [project.pbxproj]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.pbxproj") - Mon Feb 19 2024
         - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Mon Feb 19 2024
+  - [2024.02.20/2024.02.20.md]("./Swift/2024.02/2024.02.20/2024.02.20.md") - Mon Feb 19 2024
   - [2024.02.10]("./Swift/2024.02/2024.02.10")
     - [RandomBingoMobile]("./Swift/2024.02/2024.02.10/RandomBingoMobile")
       - [RandomBingoMobile]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile")
