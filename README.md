@@ -17,7 +17,7 @@ Today I Learned!!
 
 - [Library/Alamofire.md]({#Library/Alamofire.md})
 
-- [CS/Database.md]({#CS/Database.md})
+- [CS]({#CS})
 
 - [Swift]({#Swift})
 
@@ -95,7 +95,9 @@ Today I Learned!!
 
 ### [Library/Alamofire.md]({#Library/Alamofire.md})
 
-### [CS/Database.md]({#CS/Database.md})
+### [CS]({#CS})
+- [Database.md]("./CS/Database.md") - Mon Feb 19 2024
+- [CDN.md]("./CS/CDN.md") - Mon Feb 19 2024
 
 ### [Swift]({#Swift})
 - [Data Access.md]("./Swift/Data_Access.md") - Mon Feb 19 2024
