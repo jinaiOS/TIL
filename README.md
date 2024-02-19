@@ -237,6 +237,7 @@ Today I Learned!!
           - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Mon Feb 19 2024
         - [project.pbxproj]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.pbxproj") - Mon Feb 19 2024
         - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Mon Feb 19 2024
+  - [2024.02.19/2024.02.19.md]("./Swift/2024.02/2024.02.19/2024.02.19.md") - Mon Feb 19 2024
 - [urlCache.md]("./Swift/urlCache.md") - Mon Feb 19 2024
 - [2024.01]("./Swift/2024.01")
   - [2024.01.31]("./Swift/2024.01/2024.01.31")
