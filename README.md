@@ -11,6 +11,8 @@ Today I Learned!!
 ### Categories
 - [ErrorResolve]({#ErrorResolve})
 
+- [Link.md]({#Link.md})
+
 - [Android]({#Android})
 
 - [Library/Alamofire.md]({#Library/Alamofire.md})
@@ -29,6 +31,8 @@ Today I Learned!!
 - [Failed to verify code signature.md]("./ErrorResolve/Failed_to_verify_code_signature.md") - Mon Feb 19 2024
 - [Invalid update: invalid number of rows in section 1.md]("./ErrorResolve/Invalid_update:_invalid_number_of_rows_in_section_1.md") - Mon Feb 19 2024
 - [Xcode Can't build in device.md]("./ErrorResolve/Xcode_Can't_build_in_device.md") - Mon Feb 19 2024
+
+### [Link.md]({#Link.md})
 
 ### [Android]({#Android})
 - [2024.02.14.md]("./Android/2024.02.14.md") - Mon Feb 19 2024
