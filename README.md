@@ -95,6 +95,7 @@ Today I Learned!!
     - [build.gradle.kts]("./Android/2024.02/2024.02.14/build.gradle.kts") - Sat Feb 24 2024
     - [gradlew]("./Android/2024.02/2024.02.14/gradlew") - Sat Feb 24 2024
   - [2024.02.23/2024.02.23.md]("./Android/2024.02/2024.02.23/2024.02.23.md") - Sat Feb 24 2024
+- [Collections.md]("./Android/Collections.md") - Sat Feb 24 2024
 - [Hello World.md]("./Android/Hello_World.md") - Sat Feb 24 2024
 
 ### [Library/Alamofire.md]({#Library/Alamofire.md})
