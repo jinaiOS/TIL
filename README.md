@@ -36,6 +36,7 @@ Today I Learned!!
 
 ### [Android]({#Android})
 - [2024.02.14.md]("./Android/2024.02.14.md") - Sat Feb 24 2024
+- [Basic types.md]("./Android/Basic_types.md") - Sat Feb 24 2024
 - [2024.02]("./Android/2024.02")
   - [2024.02.14]("./Android/2024.02/2024.02.14")
     - [gradlew.bat]("./Android/2024.02/2024.02.14/gradlew.bat") - Sat Feb 24 2024
