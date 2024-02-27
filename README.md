@@ -28,6 +28,7 @@ Today I Learned!!
 - [The document “” could not be autosaved. The file doesn’t exist.md]("./ErrorResolve/The_document_“”_could_not_be_autosaved._The_file_doesn’t_exist.md") - Tue Feb 27 2024
 - [.gitignore에 xcuserdata를 넣었는데 실행 되지 않는다.md]("./ErrorResolve/.gitignore에_xcuserdata를_넣었는데_실행_되지_않는다.md") - Tue Feb 27 2024
 - [Distill failed for unknown reasons.md]("./ErrorResolve/Distill_failed_for_unknown_reasons.md") - Tue Feb 27 2024
+- [IPHONEOS_DEPLOYMENT_TARGET.md]("./ErrorResolve/IPHONEOS_DEPLOYMENT_TARGET.md") - Tue Feb 27 2024
 - [Failed to verify code signature.md]("./ErrorResolve/Failed_to_verify_code_signature.md") - Tue Feb 27 2024
 - [Invalid update: invalid number of rows in section 1.md]("./ErrorResolve/Invalid_update:_invalid_number_of_rows_in_section_1.md") - Tue Feb 27 2024
 - [Xcode Can't build in device.md]("./ErrorResolve/Xcode_Can't_build_in_device.md") - Tue Feb 27 2024
