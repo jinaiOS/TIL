@@ -241,6 +241,7 @@ Today I Learned!!
 
 ### [Android]({#Android})
 - [* -> red 표시(특정 문자 색상 변경).md]("./Android/*_->_red_표시(특정_문자_색상_변경).md") - Tue Mar 12 2024
+- [String to Date.md]("./Android/String_to_Date.md") - Tue Mar 12 2024
 - [2024.03/2024.03.05/2024.03.05.md]("./Android/2024.03/2024.03.05/2024.03.05.md") - Tue Mar 12 2024
 - [2024.02]("./Android/2024.02")
   - [2024.02.23/2024.02.23.md]("./Android/2024.02/2024.02.23/2024.02.23.md") - Tue Mar 12 2024
