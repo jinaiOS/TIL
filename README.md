@@ -44,6 +44,7 @@ Today I Learned!!
 - [2024.03/2024.03.05/2024.03.05.md]("./Android/2024.03/2024.03.05/2024.03.05.md") - Thu Mar 28 2024
 - [Control flow.md]("./Android/Control_flow.md") - Thu Mar 28 2024
 - [Collections.md]("./Android/Collections.md") - Thu Mar 28 2024
+- [텍스트 모든 공백, 줄바꿈 등 빼기.md]("./Android/텍스트_모든_공백,_줄바꿈_등_빼기.md") - Thu Mar 28 2024
 - [2024.02.14.md]("./Android/2024.02.14.md") - Thu Mar 28 2024
 - [Hello World.md]("./Android/Hello_World.md") - Thu Mar 28 2024
 - [키보드 타입.md]("./Android/키보드_타입.md") - Thu Mar 28 2024
