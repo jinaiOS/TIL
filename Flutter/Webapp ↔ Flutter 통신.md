@@ -16,7 +16,7 @@ class _MyAppState extends State<MyApp> {
   final GlobalKey webViewKey = GlobalKey();
 
   InAppWebViewController? webViewController;
-  final urlController = TextEditingController(text: "https://app.p-ple.kr");
+  final urlController = TextEditingController(text: "");
 
   @override
   Widget build(BuildContext context) {
