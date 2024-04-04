@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
               onWebViewCreated: (controller) {
                 webViewController = controller;
 
-                controller.addJavaScriptHandler(
+                controller.addJavaScriptHandler( // 자바스크립트 통신 코드!!
                   handlerName: 'nativeUrlOpenBrowser',
                   callback: (args) {
                     nativeUrlOpenBrowser(args[0]);
