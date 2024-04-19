@@ -4,13 +4,11 @@ Today I Learned!!
 ---
 
 ### 3 most recent study
-- [Privacy Reason.md](Privacy_Reason.md) - Fri Apr 19 2024
 - [Guideline 2.1 - Performance - App Completenes.md](Guideline_2.1_-_Performance_-_App_Completenes.md) - Fri Apr 19 2024
 - [2.1 App Completeness - ipad 일 때 고려해야 함.md](2.1_App_Completeness_-_ipad_일_때_고려해야_함.md) - Fri Apr 19 2024
+- [Guideline 4.0 - Design.md](Guideline_4.0_-_Design.md) - Fri Apr 19 2024
 
 ### Categories
-- [앱 심사/Privacy Reason.md]({#앱 심사/Privacy Reason.md})
-
 - [앱 심사]({#앱 심사})
 
 - [ErrorResolve]({#ErrorResolve})
@@ -30,8 +28,6 @@ Today I Learned!!
 - [Android]({#Android})
 
 - [Flutter/Webapp ↔ Flutter 통신.md]({#Flutter/Webapp ↔ Flutter 통신.md})
-
-### [앱 심사/Privacy Reason.md]({#앱 심사/Privacy Reason.md})
 
 ### [앱 심사]({#앱 심사})
 - [Guideline 2.1 - Performance - App Completenes.md]("./앱_심사/Guideline_2.1_-_Performance_-_App_Completenes.md") - Fri Apr 19 2024
