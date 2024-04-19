@@ -6,7 +6,7 @@ Today I Learned!!
 ### 3 most recent study
 - [Guideline 2.1 - Performance - App Completenes.md](Guideline_2.1_-_Performance_-_App_Completenes.md) - Fri Apr 19 2024
 - [2.1 App Completeness - ipad 일 때 고려해야 함.md](2.1_App_Completeness_-_ipad_일_때_고려해야_함.md) - Fri Apr 19 2024
-- [Failed to verify code signature.md](Failed_to_verify_code_signature.md) - Fri Apr 19 2024
+- [Guideline 4.0 - Design.md](Guideline_4.0_-_Design.md) - Fri Apr 19 2024
 
 ### Categories
 - [앱 심사]({#앱 심사})
@@ -19,7 +19,7 @@ Today I Learned!!
 
 - [CS]({#CS})
 
-- [iOS 심사]({#iOS 심사})
+- [iOS 심사/Privacy Reason.md]({#iOS 심사/Privacy Reason.md})
 
 - [Swift]({#Swift})
 
@@ -34,6 +34,7 @@ Today I Learned!!
 ### [앱 심사]({#앱 심사})
 - [Guideline 2.1 - Performance - App Completenes.md]("./앱_심사/Guideline_2.1_-_Performance_-_App_Completenes.md") - Fri Apr 19 2024
 - [2.1 App Completeness - ipad 일 때 고려해야 함.md]("./앱_심사/2.1_App_Completeness_-_ipad_일_때_고려해야_함.md") - Fri Apr 19 2024
+- [Guideline 4.0 - Design.md]("./앱_심사/Guideline_4.0_-_Design.md") - Fri Apr 19 2024
 
 ### [ErrorResolve]({#ErrorResolve})
 - [Failed to verify code signature.md]("./ErrorResolve/Failed_to_verify_code_signature.md") - Fri Apr 19 2024
@@ -54,9 +55,7 @@ Today I Learned!!
 - [서버의 종류.md]("./CS/서버의_종류.md") - Fri Apr 19 2024
 - [CDN.md]("./CS/CDN.md") - Fri Apr 19 2024
 
-### [iOS 심사]({#iOS 심사})
-- [Guideline 4.0 - Design.md]("./iOS_심사/Guideline_4.0_-_Design.md") - Fri Apr 19 2024
-- [Privacy Reason.md]("./iOS_심사/Privacy_Reason.md") - Fri Apr 19 2024
+### [iOS 심사/Privacy Reason.md]({#iOS 심사/Privacy Reason.md})
 
 ### [Swift]({#Swift})
 - [urlCache.md]("./Swift/urlCache.md") - Fri Apr 19 2024
