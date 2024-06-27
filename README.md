@@ -4,9 +4,9 @@ Today I Learned!!
 ---
 
 ### 3 most recent study
-- [ExampleUnitTest.kt](ExampleUnitTest.kt) - Thu Jun 27 2024
-- [MainActivity.kt](MainActivity.kt) - Thu Jun 27 2024
-- [Type.kt](Type.kt) - Thu Jun 27 2024
+- [ExampleUnitTest.java](ExampleUnitTest.java) - Thu Jun 27 2024
+- [AndroidManifest.xml](AndroidManifest.xml) - Thu Jun 27 2024
+- [ic_launcher_foreground.xml](ic_launcher_foreground.xml) - Thu Jun 27 2024
 
 ### Categories
 - [Android]({#Android})
@@ -33,14 +33,8 @@ Today I Learned!!
 - [ViewPager]("./Android/ViewPager")
   - [app]("./Android/ViewPager/app")
     - [src]("./Android/ViewPager/app/src")
-      - [test/java/com/firstpartners/viewpager/ExampleUnitTest.kt]("./Android/ViewPager/app/src/test/java/com/firstpartners/viewpager/ExampleUnitTest.kt") - Thu Jun 27 2024
+      - [test/java/com/firstpartners/viewpager/ExampleUnitTest.java]("./Android/ViewPager/app/src/test/java/com/firstpartners/viewpager/ExampleUnitTest.java") - Thu Jun 27 2024
       - [main]("./Android/ViewPager/app/src/main")
-        - [java/com/firstpartners/viewpager]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager")
-          - [MainActivity.kt]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/MainActivity.kt") - Thu Jun 27 2024
-          - [ui/theme]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/ui/theme")
-            - [Type.kt]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/ui/theme/Type.kt") - Thu Jun 27 2024
-            - [Color.kt]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/ui/theme/Color.kt") - Thu Jun 27 2024
-            - [Theme.kt]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/ui/theme/Theme.kt") - Thu Jun 27 2024
         - [AndroidManifest.xml]("./Android/ViewPager/app/src/main/AndroidManifest.xml") - Thu Jun 27 2024
         - [res]("./Android/ViewPager/app/src/main/res")
           - [drawable]("./Android/ViewPager/app/src/main/res/drawable")
@@ -49,6 +43,7 @@ Today I Learned!!
           - [mipmap-anydpi-v26]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26")
             - [ic_launcher_round.xml]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml") - Thu Jun 27 2024
             - [ic_launcher.xml]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml") - Thu Jun 27 2024
+          - [values-night/themes.xml]("./Android/ViewPager/app/src/main/res/values-night/themes.xml") - Thu Jun 27 2024
           - [mipmap-xxhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi")
             - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp") - Thu Jun 27 2024
             - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp") - Thu Jun 27 2024
@@ -71,7 +66,7 @@ Today I Learned!!
           - [mipmap-hdpi]("./Android/ViewPager/app/src/main/res/mipmap-hdpi")
             - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp") - Thu Jun 27 2024
             - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-hdpi/ic_launcher.webp") - Thu Jun 27 2024
-      - [androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.kt]("./Android/ViewPager/app/src/androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.kt") - Thu Jun 27 2024
+      - [androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.java]("./Android/ViewPager/app/src/androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.java") - Thu Jun 27 2024
     - [build.gradle]("./Android/ViewPager/app/build.gradle") - Thu Jun 27 2024
     - [proguard-rules.pro]("./Android/ViewPager/app/proguard-rules.pro") - Thu Jun 27 2024
     - [.gitignore]("./Android/ViewPager/app/.gitignore") - Thu Jun 27 2024
