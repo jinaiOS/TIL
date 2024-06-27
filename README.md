@@ -97,6 +97,7 @@ Today I Learned!!
 - [Java/Exoplayer → AndroidX Media3.md]("./Android/Java/Exoplayer_→_AndroidX_Media3.md") - Thu Jun 27 2024
 - [String to Date.md]("./Android/String_to_Date.md") - Thu Jun 27 2024
 - [Control flow.md]("./Android/Control_flow.md") - Thu Jun 27 2024
+- [PraticeViewPager]("./Android/PraticeViewPager") - Thu Jun 27 2024
 - [Collections.md]("./Android/Collections.md") - Thu Jun 27 2024
 - [웹앱 인터페이스 설정.md]("./Android/웹앱_인터페이스_설정.md") - Thu Jun 27 2024
 - [image file 크기 낮추기.md]("./Android/image_file_크기_낮추기.md") - Thu Jun 27 2024
