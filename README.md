@@ -4,9 +4,9 @@ Today I Learned!!
 ---
 
 ### 3 most recent study
+- [.gitignore](.gitignore) - Thu Jun 27 2024
 - [2024.02.23.md](2024.02.23.md) - Thu Jun 27 2024
 - [2024.02.28.md](2024.02.28.md) - Thu Jun 27 2024
-- [2024.02.27.md](2024.02.27.md) - Thu Jun 27 2024
 
 ### Categories
 - [Android]({#Android})
@@ -30,6 +30,7 @@ Today I Learned!!
 - [ErrorResolve]({#ErrorResolve})
 
 ### [Android]({#Android})
+- [ViewPager/.gitignore]("./Android/ViewPager/.gitignore") - Thu Jun 27 2024
 - [2024.02]("./Android/2024.02")
   - [2024.02.23/2024.02.23.md]("./Android/2024.02/2024.02.23/2024.02.23.md") - Thu Jun 27 2024
   - [2024.02.28/2024.02.28.md]("./Android/2024.02/2024.02.28/2024.02.28.md") - Thu Jun 27 2024
