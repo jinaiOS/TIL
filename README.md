@@ -4,9 +4,9 @@ Today I Learned!!
 ---
 
 ### 3 most recent study
-- [.gitignore](.gitignore) - Thu Jun 27 2024
-- [2024.02.23.md](2024.02.23.md) - Thu Jun 27 2024
-- [2024.02.28.md](2024.02.28.md) - Thu Jun 27 2024
+- [ExampleUnitTest.kt](ExampleUnitTest.kt) - Thu Jun 27 2024
+- [MainActivity.kt](MainActivity.kt) - Thu Jun 27 2024
+- [Type.kt](Type.kt) - Thu Jun 27 2024
 
 ### Categories
 - [Android]({#Android})
@@ -30,7 +30,62 @@ Today I Learned!!
 - [ErrorResolve]({#ErrorResolve})
 
 ### [Android]({#Android})
-- [ViewPager/.gitignore]("./Android/ViewPager/.gitignore") - Thu Jun 27 2024
+- [ViewPager]("./Android/ViewPager")
+  - [app]("./Android/ViewPager/app")
+    - [src]("./Android/ViewPager/app/src")
+      - [test/java/com/firstpartners/viewpager/ExampleUnitTest.kt]("./Android/ViewPager/app/src/test/java/com/firstpartners/viewpager/ExampleUnitTest.kt") - Thu Jun 27 2024
+      - [main]("./Android/ViewPager/app/src/main")
+        - [java/com/firstpartners/viewpager]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager")
+          - [MainActivity.kt]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/MainActivity.kt") - Thu Jun 27 2024
+          - [ui/theme]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/ui/theme")
+            - [Type.kt]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/ui/theme/Type.kt") - Thu Jun 27 2024
+            - [Color.kt]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/ui/theme/Color.kt") - Thu Jun 27 2024
+            - [Theme.kt]("./Android/ViewPager/app/src/main/java/com/firstpartners/viewpager/ui/theme/Theme.kt") - Thu Jun 27 2024
+        - [AndroidManifest.xml]("./Android/ViewPager/app/src/main/AndroidManifest.xml") - Thu Jun 27 2024
+        - [res]("./Android/ViewPager/app/src/main/res")
+          - [drawable]("./Android/ViewPager/app/src/main/res/drawable")
+            - [ic_launcher_foreground.xml]("./Android/ViewPager/app/src/main/res/drawable/ic_launcher_foreground.xml") - Thu Jun 27 2024
+            - [ic_launcher_background.xml]("./Android/ViewPager/app/src/main/res/drawable/ic_launcher_background.xml") - Thu Jun 27 2024
+          - [mipmap-anydpi-v26]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26")
+            - [ic_launcher_round.xml]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml") - Thu Jun 27 2024
+            - [ic_launcher.xml]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml") - Thu Jun 27 2024
+          - [mipmap-xxhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi")
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp") - Thu Jun 27 2024
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp") - Thu Jun 27 2024
+          - [mipmap-xhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xhdpi")
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp") - Thu Jun 27 2024
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xhdpi/ic_launcher.webp") - Thu Jun 27 2024
+          - [values]("./Android/ViewPager/app/src/main/res/values")
+            - [themes.xml]("./Android/ViewPager/app/src/main/res/values/themes.xml") - Thu Jun 27 2024
+            - [strings.xml]("./Android/ViewPager/app/src/main/res/values/strings.xml") - Thu Jun 27 2024
+            - [colors.xml]("./Android/ViewPager/app/src/main/res/values/colors.xml") - Thu Jun 27 2024
+          - [mipmap-mdpi]("./Android/ViewPager/app/src/main/res/mipmap-mdpi")
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp") - Thu Jun 27 2024
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-mdpi/ic_launcher.webp") - Thu Jun 27 2024
+          - [xml]("./Android/ViewPager/app/src/main/res/xml")
+            - [data_extraction_rules.xml]("./Android/ViewPager/app/src/main/res/xml/data_extraction_rules.xml") - Thu Jun 27 2024
+            - [backup_rules.xml]("./Android/ViewPager/app/src/main/res/xml/backup_rules.xml") - Thu Jun 27 2024
+          - [mipmap-xxxhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xxxhdpi")
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp") - Thu Jun 27 2024
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp") - Thu Jun 27 2024
+          - [mipmap-hdpi]("./Android/ViewPager/app/src/main/res/mipmap-hdpi")
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp") - Thu Jun 27 2024
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-hdpi/ic_launcher.webp") - Thu Jun 27 2024
+      - [androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.kt]("./Android/ViewPager/app/src/androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.kt") - Thu Jun 27 2024
+    - [build.gradle]("./Android/ViewPager/app/build.gradle") - Thu Jun 27 2024
+    - [proguard-rules.pro]("./Android/ViewPager/app/proguard-rules.pro") - Thu Jun 27 2024
+    - [.gitignore]("./Android/ViewPager/app/.gitignore") - Thu Jun 27 2024
+  - [build.gradle]("./Android/ViewPager/build.gradle") - Thu Jun 27 2024
+  - [gradlew.bat]("./Android/ViewPager/gradlew.bat") - Thu Jun 27 2024
+  - [gradle.properties]("./Android/ViewPager/gradle.properties") - Thu Jun 27 2024
+  - [.gitignore]("./Android/ViewPager/.gitignore") - Thu Jun 27 2024
+  - [gradle]("./Android/ViewPager/gradle")
+    - [libs.versions.toml]("./Android/ViewPager/gradle/libs.versions.toml") - Thu Jun 27 2024
+    - [wrapper]("./Android/ViewPager/gradle/wrapper")
+      - [gradle-wrapper.jar]("./Android/ViewPager/gradle/wrapper/gradle-wrapper.jar") - Thu Jun 27 2024
+      - [gradle-wrapper.properties]("./Android/ViewPager/gradle/wrapper/gradle-wrapper.properties") - Thu Jun 27 2024
+  - [settings.gradle]("./Android/ViewPager/settings.gradle") - Thu Jun 27 2024
+  - [gradlew]("./Android/ViewPager/gradlew") - Thu Jun 27 2024
 - [2024.02]("./Android/2024.02")
   - [2024.02.23/2024.02.23.md]("./Android/2024.02/2024.02.23/2024.02.23.md") - Thu Jun 27 2024
   - [2024.02.28/2024.02.28.md]("./Android/2024.02/2024.02.28/2024.02.28.md") - Thu Jun 27 2024
@@ -98,7 +153,6 @@ Today I Learned!!
 - [Java/Exoplayer → AndroidX Media3.md]("./Android/Java/Exoplayer_→_AndroidX_Media3.md") - Thu Jun 27 2024
 - [String to Date.md]("./Android/String_to_Date.md") - Thu Jun 27 2024
 - [Control flow.md]("./Android/Control_flow.md") - Thu Jun 27 2024
-- [PraticeViewPager]("./Android/PraticeViewPager") - Thu Jun 27 2024
 - [Collections.md]("./Android/Collections.md") - Thu Jun 27 2024
 - [웹앱 인터페이스 설정.md]("./Android/웹앱_인터페이스_설정.md") - Thu Jun 27 2024
 - [image file 크기 낮추기.md]("./Android/image_file_크기_낮추기.md") - Thu Jun 27 2024
