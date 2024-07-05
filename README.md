@@ -150,6 +150,7 @@ Today I Learned!!
   - ['execute(Params...)' is deprecated.md]("./Android/Java/'execute(Params...)'_is_deprecated.md") - Fri Jul 05 2024
   - [string to int.md]("./Android/Java/string_to_int.md") - Fri Jul 05 2024
   - [ViewBinding.md]("./Android/Java/ViewBinding.md") - Fri Jul 05 2024
+  - [migration/'create(okhttp3.MediaType, java.lang.String)' is deprecated.md]("./Android/Java/migration/'create(okhttp3.MediaType,_java.lang.String)'_is_deprecated.md") - Fri Jul 05 2024
   - [Exoplayer → AndroidX Media3.md]("./Android/Java/Exoplayer_→_AndroidX_Media3.md") - Fri Jul 05 2024
 - [String to Date.md]("./Android/String_to_Date.md") - Fri Jul 05 2024
 - [Control flow.md]("./Android/Control_flow.md") - Fri Jul 05 2024
