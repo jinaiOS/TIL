@@ -17,7 +17,7 @@ Today I Learned!!
 
 - [Firebase]({#Firebase})
 
-- [Frontend/Frontend?.md]({#Frontend/Frontend?.md})
+- [Frontend]({#Frontend})
 
 - [CS]({#CS})
 
@@ -259,7 +259,9 @@ Today I Learned!!
 - [이미지 수신하기.md]("./Firebase/이미지_수신하기.md") - Thu Aug 01 2024
 - [Firebase Cloud Message api key.md]("./Firebase/Firebase_Cloud_Message_api_key.md") - Thu Aug 01 2024
 
-### [Frontend/Frontend?.md]({#Frontend/Frontend?.md})
+### [Frontend]({#Frontend})
+- [VS Code.md]("./Frontend/VS_Code.md") - Thu Aug 01 2024
+- [Frontend?.md]("./Frontend/Frontend?.md") - Thu Aug 01 2024
 
 ### [CS]({#CS})
 - [서버의 종류.md]("./CS/서버의_종류.md") - Thu Aug 01 2024
