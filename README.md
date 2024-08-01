@@ -261,6 +261,7 @@ Today I Learned!!
 
 ### [Frontend]({#Frontend})
 - [VS Code.md]("./Frontend/VS_Code.md") - Thu Aug 01 2024
+- [HTML(HyperText Markup Language).md]("./Frontend/HTML(HyperText_Markup_Language).md") - Thu Aug 01 2024
 - [Frontend?.md]("./Frontend/Frontend?.md") - Thu Aug 01 2024
 
 ### [CS]({#CS})
