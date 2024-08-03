@@ -85,6 +85,7 @@ Today I Learned!!
   - [migration]("./Android/Java/migration")
     - [JCenter → Maven Central.md]("./Android/Java/migration/JCenter_→_Maven_Central.md") - Sat Aug 03 2024
     - ['getColor(int)' is deprecated as of API 23 ("Marshmallow"; Android 6.0).md]("./Android/Java/migration/'getColor(int)'_is_deprecated_as_of_API_23_("Marshmallow";_Android_6.0).md") - Sat Aug 03 2024
+    - [Pageindicatorview → ViewPager2.md]("./Android/Java/migration/Pageindicatorview_→_ViewPager2.md") - Sat Aug 03 2024
     - ['create(okhttp3.MediaType, java.lang.String)' is deprecated.md]("./Android/Java/migration/'create(okhttp3.MediaType,_java.lang.String)'_is_deprecated.md") - Sat Aug 03 2024
   - [ViewBinding.md]("./Android/Java/ViewBinding.md") - Sat Aug 03 2024
   - ['execute(Params...)' is deprecated.md]("./Android/Java/'execute(Params...)'_is_deprecated.md") - Sat Aug 03 2024
