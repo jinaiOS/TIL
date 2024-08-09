@@ -45,6 +45,7 @@ Today I Learned!!
   - [CSS.md]("./Frontend/CSS/CSS.md") - Fri Aug 09 2024
   - [당근마켓 클론코딩.md]("./Frontend/CSS/당근마켓_클론코딩.md") - Fri Aug 09 2024
 - [javascript]("./Frontend/javascript")
+  - [CSS와 이벤트 다루기.md]("./Frontend/javascript/CSS와_이벤트_다루기.md") - Fri Aug 09 2024
   - [문법 - 변수, 객체.md]("./Frontend/javascript/문법_-_변수,_객체.md") - Fri Aug 09 2024
   - [javascript 역할.md]("./Frontend/javascript/javascript_역할.md") - Fri Aug 09 2024
   - [함수와 조건문.md]("./Frontend/javascript/함수와_조건문.md") - Fri Aug 09 2024
