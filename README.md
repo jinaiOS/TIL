@@ -211,6 +211,7 @@ Today I Learned!!
 
 ### [Knowledge]({#Knowledge})
 - [C, C++, C# difference.md]("./Knowledge/C,_C++,_C#_difference.md") - Fri Aug 09 2024
+- [프레임워크와 라이브러리 차이.md]("./Knowledge/프레임워크와_라이브러리_차이.md") - Fri Aug 09 2024
 - [version.md]("./Knowledge/version.md") - Fri Aug 09 2024
 
 ### [앱 심사]({#앱 심사})
