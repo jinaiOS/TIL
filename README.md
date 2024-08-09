@@ -47,6 +47,7 @@ Today I Learned!!
 - [javascript]("./Frontend/javascript")
   - [문법 - 변수, 객체.md]("./Frontend/javascript/문법_-_변수,_객체.md") - Fri Aug 09 2024
   - [javascript 역할.md]("./Frontend/javascript/javascript_역할.md") - Fri Aug 09 2024
+  - [함수와 조건문.md]("./Frontend/javascript/함수와_조건문.md") - Fri Aug 09 2024
 - [VS Code.md]("./Frontend/VS_Code.md") - Fri Aug 09 2024
 - [Frontend?.md]("./Frontend/Frontend?.md") - Fri Aug 09 2024
 
