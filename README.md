@@ -44,6 +44,7 @@ Today I Learned!!
   - [flexbox와 position.md]("./Frontend/CSS/flexbox와_position.md") - Fri Aug 09 2024
   - [CSS.md]("./Frontend/CSS/CSS.md") - Fri Aug 09 2024
   - [당근마켓 클론코딩.md]("./Frontend/CSS/당근마켓_클론코딩.md") - Fri Aug 09 2024
+- [javascript/javascript 역할.md]("./Frontend/javascript/javascript_역할.md") - Fri Aug 09 2024
 - [VS Code.md]("./Frontend/VS_Code.md") - Fri Aug 09 2024
 - [Frontend?.md]("./Frontend/Frontend?.md") - Fri Aug 09 2024
 
