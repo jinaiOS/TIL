@@ -1,3 +1,4 @@
+# Tuist
 - Xcode 프로젝트 생성과 유지관리를 편하게 하는 것을 목표로 하는 CLI 도구
     - CLI(Command line Interface): 컴퓨터의 운영 체제와 상호 작용하는 명령을 입력할 수 있는 텍스트 기반 인터페이스
 - Project.swift 파일을 기반으로 프로젝트 생성
