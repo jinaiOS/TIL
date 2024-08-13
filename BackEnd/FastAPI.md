@@ -25,4 +25,4 @@ pip install uvicorn[standard]
 uvicorn main:pop --reload
 ```
 
-- [localhost](http://localhost) 주소 뒤에 docs 를 붙이면 문서화된 swagger가 나옴
+- localhost 주소 뒤에 docs 를 붙이면 문서화된 swagger가 나옴
