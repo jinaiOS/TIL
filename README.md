@@ -31,7 +31,7 @@ Today I Learned!!
 
 - [CS]({#CS})
 
-- [BackEnd/BackEnd.md]({#BackEnd/BackEnd.md})
+- [BackEnd]({#BackEnd})
 
 ### [Library/Alamofire.md]({#Library/Alamofire.md})
 
@@ -444,5 +444,7 @@ Today I Learned!!
 - [Database.md]("./CS/Database.md") - Tue Aug 13 2024
 - [CDN.md]("./CS/CDN.md") - Tue Aug 13 2024
 
-### [BackEnd/BackEnd.md]({#BackEnd/BackEnd.md})
+### [BackEnd]({#BackEnd})
+- [Python.md]("./BackEnd/Python.md") - Tue Aug 13 2024
+- [BackEnd.md]("./BackEnd/BackEnd.md") - Tue Aug 13 2024
 
