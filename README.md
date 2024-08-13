@@ -445,6 +445,7 @@ Today I Learned!!
 - [CDN.md]("./CS/CDN.md") - Tue Aug 13 2024
 
 ### [BackEnd]({#BackEnd})
+- [FastAPI.md]("./BackEnd/FastAPI.md") - Tue Aug 13 2024
 - [API.md]("./BackEnd/API.md") - Tue Aug 13 2024
 - [Python.md]("./BackEnd/Python.md") - Tue Aug 13 2024
 - [BackEnd.md]("./BackEnd/BackEnd.md") - Tue Aug 13 2024
