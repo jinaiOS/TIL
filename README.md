@@ -447,6 +447,7 @@ Today I Learned!!
 
 ### [BackEnd]({#BackEnd})
 - [FastAPI.md]("./BackEnd/FastAPI.md") - Wed Aug 14 2024
+- [백엔드에게 정보를 보내는 방식.md]("./BackEnd/백엔드에게_정보를_보내는_방식.md") - Wed Aug 14 2024
 - [API.md]("./BackEnd/API.md") - Wed Aug 14 2024
 - [Python.md]("./BackEnd/Python.md") - Wed Aug 14 2024
 - [BackEnd.md]("./BackEnd/BackEnd.md") - Wed Aug 14 2024
