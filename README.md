@@ -452,4 +452,5 @@ Today I Learned!!
 - [Python.md]("./BackEnd/Python.md") - Sun Aug 18 2024
 - [CRUD.md]("./BackEnd/CRUD.md") - Sun Aug 18 2024
 - [BackEnd.md]("./BackEnd/BackEnd.md") - Sun Aug 18 2024
+- [Web Socket.md]("./BackEnd/Web_Socket.md") - Sun Aug 18 2024
 
