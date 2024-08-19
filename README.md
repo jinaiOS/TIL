@@ -449,6 +449,7 @@ Today I Learned!!
 - [FastAPI.md]("./BackEnd/FastAPI.md") - Mon Aug 19 2024
 - [deta space로 메모앱 배포하기.md]("./BackEnd/deta_space로_메모앱_배포하기.md") - Mon Aug 19 2024
 - [백엔드에게 정보를 보내는 방식.md]("./BackEnd/백엔드에게_정보를_보내는_방식.md") - Mon Aug 19 2024
+- [데이터베이스.md]("./BackEnd/데이터베이스.md") - Mon Aug 19 2024
 - [API.md]("./BackEnd/API.md") - Mon Aug 19 2024
 - [Python.md]("./BackEnd/Python.md") - Mon Aug 19 2024
 - [CRUD.md]("./BackEnd/CRUD.md") - Mon Aug 19 2024
