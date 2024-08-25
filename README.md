@@ -52,6 +52,7 @@ Today I Learned!!
   - [문법 - 변수, 객체.md]("./Frontend/javascript/문법_-_변수,_객체.md") - Sun Aug 25 2024
   - [javascript 역할.md]("./Frontend/javascript/javascript_역할.md") - Sun Aug 25 2024
   - [함수와 조건문.md]("./Frontend/javascript/함수와_조건문.md") - Sun Aug 25 2024
+- [거대한 프로그램을 만들기 위한 번들러의 이해.md]("./Frontend/거대한_프로그램을_만들기_위한_번들러의_이해.md") - Sun Aug 25 2024
 - [VS Code.md]("./Frontend/VS_Code.md") - Sun Aug 25 2024
 - [Frontend?.md]("./Frontend/Frontend?.md") - Sun Aug 25 2024
 
