@@ -451,6 +451,7 @@ Today I Learned!!
 ### [BackEnd]({#BackEnd})
 - [서버는 우리를 모른다! Stateless.md]("./BackEnd/서버는_우리를_모른다!_Stateless.md") - Mon Aug 26 2024
 - [SQL문 기초.md]("./BackEnd/SQL문_기초.md") - Mon Aug 26 2024
+- [컴퓨터 OS 기본.md]("./BackEnd/컴퓨터_OS_기본.md") - Mon Aug 26 2024
 - [데이터베이스를 시각적으로 볼 수 있는 ERD.md]("./BackEnd/데이터베이스를_시각적으로_볼_수_있는_ERD.md") - Mon Aug 26 2024
 - [FastAPI.md]("./BackEnd/FastAPI.md") - Mon Aug 26 2024
 - [deta space로 메모앱 배포하기.md]("./BackEnd/deta_space로_메모앱_배포하기.md") - Mon Aug 26 2024
