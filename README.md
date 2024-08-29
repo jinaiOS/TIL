@@ -467,6 +467,7 @@ Today I Learned!!
 - [IntelliJ IDEA.md]("./BackEnd/IntelliJ_IDEA.md") - Thu Aug 29 2024
 - [PyMongo.md]("./BackEnd/PyMongo.md") - Thu Aug 29 2024
 - [BackEnd.md]("./BackEnd/BackEnd.md") - Thu Aug 29 2024
+- [JAVA 메인 메소드.md]("./BackEnd/JAVA_메인_메소드.md") - Thu Aug 29 2024
 - [Web Socket.md]("./BackEnd/Web_Socket.md") - Thu Aug 29 2024
 - [브라우저가 닫혀도 로그인 유지하는 방법.md]("./BackEnd/브라우저가_닫혀도_로그인_유지하는_방법.md") - Thu Aug 29 2024
 
