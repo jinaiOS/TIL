@@ -462,6 +462,7 @@ Today I Learned!!
 - [From 태그와 POST API를 이용해 이미지 저장하기.md]("./BackEnd/From_태그와_POST_API를_이용해_이미지_저장하기.md") - Thu Aug 29 2024
 - [API.md]("./BackEnd/API.md") - Thu Aug 29 2024
 - [Python.md]("./BackEnd/Python.md") - Thu Aug 29 2024
+- [컴퓨터 OS 심화.md]("./BackEnd/컴퓨터_OS_심화.md") - Thu Aug 29 2024
 - [CRUD.md]("./BackEnd/CRUD.md") - Thu Aug 29 2024
 - [IntelliJ IDEA.md]("./BackEnd/IntelliJ_IDEA.md") - Thu Aug 29 2024
 - [PyMongo.md]("./BackEnd/PyMongo.md") - Thu Aug 29 2024
