@@ -460,7 +460,9 @@ Today I Learned!!
       - [ChuncheonTicket2.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket2.java") - Fri Aug 30 2024
       - [ChuncheonTicket1.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket1.java") - Fri Aug 30 2024
       - [ChuncheonTicket3.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket3.java") - Fri Aug 30 2024
-    - [chapter_14/Encoding.java]("./BackEnd/HelloWorld/src/chapter_14/Encoding.java") - Fri Aug 30 2024
+    - [chapter_14]("./BackEnd/HelloWorld/src/chapter_14")
+      - [StringFormat.java]("./BackEnd/HelloWorld/src/chapter_14/StringFormat.java") - Fri Aug 30 2024
+      - [Encoding.java]("./BackEnd/HelloWorld/src/chapter_14/Encoding.java") - Fri Aug 30 2024
     - [chapter_13]("./BackEnd/HelloWorld/src/chapter_13")
       - [ImplicitCasting2.java]("./BackEnd/HelloWorld/src/chapter_13/ImplicitCasting2.java") - Fri Aug 30 2024
       - [ImplicitCasting1.java]("./BackEnd/HelloWorld/src/chapter_13/ImplicitCasting1.java") - Fri Aug 30 2024
