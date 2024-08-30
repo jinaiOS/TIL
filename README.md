@@ -454,7 +454,9 @@ Today I Learned!!
 - [컴퓨터 OS 기본.md]("./BackEnd/컴퓨터_OS_기본.md") - Fri Aug 30 2024
 - [Java?.md]("./BackEnd/Java?.md") - Fri Aug 30 2024
 - [데이터베이스를 시각적으로 볼 수 있는 ERD.md]("./BackEnd/데이터베이스를_시각적으로_볼_수_있는_ERD.md") - Fri Aug 30 2024
-- [HelloWorld/.gitignore]("./BackEnd/HelloWorld/.gitignore") - Fri Aug 30 2024
+- [HelloWorld]("./BackEnd/HelloWorld")
+  - [.gitignore]("./BackEnd/HelloWorld/.gitignore") - Fri Aug 30 2024
+  - [.idea/.gitignore]("./BackEnd/HelloWorld/.idea/.gitignore") - Fri Aug 30 2024
 - [FastAPI.md]("./BackEnd/FastAPI.md") - Fri Aug 30 2024
 - [deta space로 메모앱 배포하기.md]("./BackEnd/deta_space로_메모앱_배포하기.md") - Fri Aug 30 2024
 - [백엔드에게 정보를 보내는 방식.md]("./BackEnd/백엔드에게_정보를_보내는_방식.md") - Fri Aug 30 2024
