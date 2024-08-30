@@ -470,6 +470,9 @@ Today I Learned!!
       - [FloatRange.java]("./BackEnd/HelloWorld/src/chapter_13/FloatRange.java") - Fri Aug 30 2024
       - [IntegerRange.java]("./BackEnd/HelloWorld/src/chapter_13/IntegerRange.java") - Fri Aug 30 2024
     - [Main.java]("./BackEnd/HelloWorld/src/Main.java") - Fri Aug 30 2024
+    - [chapter_16]("./BackEnd/HelloWorld/src/chapter_16")
+      - [AvocadoSituation.java]("./BackEnd/HelloWorld/src/chapter_16/AvocadoSituation.java") - Fri Aug 30 2024
+      - [avocardo.png]("./BackEnd/HelloWorld/src/chapter_16/avocardo.png") - Fri Aug 30 2024
     - [chapter_15]("./BackEnd/HelloWorld/src/chapter_15")
       - [SymbolicConstant.java]("./BackEnd/HelloWorld/src/chapter_15/SymbolicConstant.java") - Fri Aug 30 2024
       - [Literal.java]("./BackEnd/HelloWorld/src/chapter_15/Literal.java") - Fri Aug 30 2024
