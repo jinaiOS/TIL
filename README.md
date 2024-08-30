@@ -460,6 +460,7 @@ Today I Learned!!
       - [ChuncheonTicket2.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket2.java") - Fri Aug 30 2024
       - [ChuncheonTicket1.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket1.java") - Fri Aug 30 2024
       - [ChuncheonTicket3.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket3.java") - Fri Aug 30 2024
+    - [chapter_14/Encoding.java]("./BackEnd/HelloWorld/src/chapter_14/Encoding.java") - Fri Aug 30 2024
     - [chapter_13]("./BackEnd/HelloWorld/src/chapter_13")
       - [ImplicitCasting2.java]("./BackEnd/HelloWorld/src/chapter_13/ImplicitCasting2.java") - Fri Aug 30 2024
       - [ImplicitCasting1.java]("./BackEnd/HelloWorld/src/chapter_13/ImplicitCasting1.java") - Fri Aug 30 2024
@@ -485,6 +486,7 @@ Today I Learned!!
 - [컴퓨터 OS 심화.md]("./BackEnd/컴퓨터_OS_심화.md") - Fri Aug 30 2024
 - [CRUD.md]("./BackEnd/CRUD.md") - Fri Aug 30 2024
 - [IntelliJ IDEA.md]("./BackEnd/IntelliJ_IDEA.md") - Fri Aug 30 2024
+- [Java 문자열.md]("./BackEnd/Java_문자열.md") - Fri Aug 30 2024
 - [PyMongo.md]("./BackEnd/PyMongo.md") - Fri Aug 30 2024
 - [BackEnd.md]("./BackEnd/BackEnd.md") - Fri Aug 30 2024
 - [JAVA 메인 메소드.md]("./BackEnd/JAVA_메인_메소드.md") - Fri Aug 30 2024
