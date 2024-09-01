@@ -520,4 +520,5 @@ Today I Learned!!
 - [Web Socket.md]("./BackEnd/Web_Socket.md") - Sun Sep 01 2024
 - [브라우저가 닫혀도 로그인 유지하는 방법.md]("./BackEnd/브라우저가_닫혀도_로그인_유지하는_방법.md") - Sun Sep 01 2024
 - [Java Type.md]("./BackEnd/Java_Type.md") - Sun Sep 01 2024
+- [Java array.md]("./BackEnd/Java_array.md") - Sun Sep 01 2024
 
