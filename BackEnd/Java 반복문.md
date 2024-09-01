@@ -99,3 +99,148 @@ public class ForLoop {
     }
 }
 ```
+
+## 이중 반복문
+
+```java
+public class Gugudan {
+    public static void main(String[] args) {
+        // 구구단
+        int dan;
+        int hang;
+
+        for(dan = 2; dan <= 9; dan++) {
+            for(hang = 2; hang <= 9; hang++) {
+                int result = dan * hang;
+                System.out.printf("%d * %d = %d\n", dan, hang, result);
+            }
+            System.out.println();
+        }
+    }
+}
+```
+
+```java
+public class starTriangle {
+    public static void main(String[] args) {
+        // *
+        // **
+        // ***
+        // ****
+        // *****
+        // ******
+        // *******
+        // ********
+        // *********
+        int row;
+        int column;
+
+        for(row = 1; row <= 9; row++) {
+            for(column = 1; column <= row; column++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+}
+```
+
+## 반복문 제어
+
+### continue
+
+```java
+public class OddNumberTotal {
+    public static void main(String[] args) {
+        // 0~100까지 홀수를 더한 값은 2500
+        int total = 0;
+
+        for(int i = 1; i <= 100; i++) {
+            if (i % 2 == 0) {
+                continue;
+            }
+            System.out.println(i);
+            total += i;
+        }
+        System.out.printf("0~100까지 홀수를 더한 값은 %d", total);
+    }
+}
+```
+
+```java
+public class ThreeSixNineGame {
+    public static void main(String[] args) {
+        // 1,2,짝,4,5,짝,7,8,짝,10,11,짝,13,14,짝,16,17,짝,19,20,짝,22,23,짝,25,26,짝,28,29,짝,
+        for (int num = 1; num <= 30; num++) {
+            if (num % 3 == 0) {
+                System.out.print("짝,");
+                continue;
+            }
+            System.out.printf("%d,", num);
+        }
+    }
+}
+```
+
+### break
+
+```java
+public class Break {
+    public static void main(String[] args) {
+        // 모든 수를 더한 값은 45
+        int sum = 0;
+
+        for (int i = 1; i <= 100; i++) {
+            if (i == 10) {
+                break;
+            }
+            sum += i;
+        }
+        System.out.printf("모든 수를 더한 값은 %d", sum);
+    }
+}
+```
+
+```java
+public class EndlessLoop {
+    public static void main(String[] args) {
+        // tip: 분 단위로 하면 계산할 예정.
+        // 아 공부하기 싫다, 30분 부터 해야지.
+        // 미친 08분이네
+        // 아.. 공부하기 싫다 30분부터 해야지
+        // 헐 34분이잖아
+        // 그럼 그냥 정각되면 해야겠다.
+        // 지금 시간은 9 정각이네!
+        // 미친 08분이네
+        // 아.. 공부하기 싫다 30분부터 해야지
+        // 헐 34분이잖아
+        // 그럼 그냥 정각되면 해야겠다.
+        // 지금 시간은 10 정각이네!
+        final int WAKE_UP_TIME = 8 * 60;
+        final int END_DAY = 24 * 60;
+
+        int now = WAKE_UP_TIME;
+
+        System.out.println("아 공부하기 싫다, 30분 부터 해야지.");
+        while (now < END_DAY) {
+            now ++;
+            int hour = now / 60;
+
+            if (now % 60 == 0) {
+                System.out.printf("지금 시간은 %d 정각이네!\n", hour);
+            }
+            if (hour == 10) {
+                break;
+            }
+            if (now % 60 == 34) {
+                System.out.println("헐 34분이잖아");
+                System.out.println("그럼 그냥 정각되면 해야겠다.");
+            }
+            if (now % 60 == 8) {
+                System.out.println("미친 08분이네");
+                System.out.println("아.. 공부하기 싫다 30분부터 해야지");
+            }
+        }
+    }
+}
+```
