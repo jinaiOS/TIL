@@ -2,23 +2,21 @@ package chapter_18;
 
 public class ForLoop {
     public static void main(String[] args) {
-        // 1 ~ 10까지 다 더 할건데, for-loop
-        // 55
-        // 55
-        int sum = 0;
-        int sum2 = 0;
-        int num2 = 0;
+        int age = 20;
+        String result;
 
-        for (int num=1; num<=10; num++) {
-            sum += num;
+        if (age > 18) {
+            result = "청소년 관람불가";
+        } else if (age > 14) {
+            result = "15세 이상 관람가";
+        } else if (age > 11) {
+            result = "12세 이상 관람가";
+        } else if (age > -1) {
+            result = "전체 관람가";
+        } else {
+            result = "유아 관람불가";
         }
 
-        for (; num2<=10;) {
-            sum2 += num2;
-            num2++;
-        }
-
-        System.out.println(sum);
-        System.out.println(sum2);
+        System.out.println(result);
     }
 }
