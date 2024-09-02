@@ -486,6 +486,10 @@ Today I Learned!!
       - [Taxi.java]("./BackEnd/HelloWorld/src/chapter_17/Taxi.java") - Mon Sep 02 2024
       - [StarbucksCoupon.java]("./BackEnd/HelloWorld/src/chapter_17/StarbucksCoupon.java") - Mon Sep 02 2024
       - [Medal.java]("./BackEnd/HelloWorld/src/chapter_17/Medal.java") - Mon Sep 02 2024
+    - [chapter_20]("./BackEnd/HelloWorld/src/chapter_20")
+      - [ArrayIndex.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayIndex.java") - Mon Sep 02 2024
+      - [ArrayFor.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayFor.java") - Mon Sep 02 2024
+      - [ArrayDeclaration.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayDeclaration.java") - Mon Sep 02 2024
     - [chapter_19]("./BackEnd/HelloWorld/src/chapter_19")
       - [EndlessLoop.java]("./BackEnd/HelloWorld/src/chapter_19/EndlessLoop.java") - Mon Sep 02 2024
       - [Gugudan.java]("./BackEnd/HelloWorld/src/chapter_19/Gugudan.java") - Mon Sep 02 2024
