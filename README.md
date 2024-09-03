@@ -523,6 +523,7 @@ Today I Learned!!
 - [백엔드에게 정보를 보내는 방식.md]("./BackEnd/백엔드에게_정보를_보내는_방식.md") - Tue Sep 03 2024
 - [컴퓨터 간단 구조.md]("./BackEnd/컴퓨터_간단_구조.md") - Tue Sep 03 2024
 - [데이터베이스.md]("./BackEnd/데이터베이스.md") - Tue Sep 03 2024
+- [Java 메소드.md]("./BackEnd/Java_메소드.md") - Tue Sep 03 2024
 - [From 태그와 POST API를 이용해 이미지 저장하기.md]("./BackEnd/From_태그와_POST_API를_이용해_이미지_저장하기.md") - Tue Sep 03 2024
 - [API.md]("./BackEnd/API.md") - Tue Sep 03 2024
 - [Python.md]("./BackEnd/Python.md") - Tue Sep 03 2024
