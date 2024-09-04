@@ -1,4 +1,4 @@
-package chapter_22;
+package chapter_24;
 
 public class Scores {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chapter_22;
+package chapter_24;
 
 public class MethodExamples {
     // 일반적인 입력값, 출력값도 있는 경우
