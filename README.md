@@ -427,6 +427,7 @@ Today I Learned!!
 - [PyMongo.md]("./BackEnd/PyMongo.md") - Fri Sep 06 2024
 - [FastAPI.md]("./BackEnd/FastAPI.md") - Fri Sep 06 2024
 - [Java 클래스와 객체.md]("./BackEnd/Java_클래스와_객체.md") - Fri Sep 06 2024
+- [Java static과 변수 유효범위.md]("./BackEnd/Java_static과_변수_유효범위.md") - Fri Sep 06 2024
 - [Java 자기 자신을 가르키는 “this”.md]("./BackEnd/Java_자기_자신을_가르키는_“this”.md") - Fri Sep 06 2024
 - [Java array 복사와 다차원 array.md]("./BackEnd/Java_array_복사와_다차원_array.md") - Fri Sep 06 2024
 - [데이터베이스를 시각적으로 볼 수 있는 ERD.md]("./BackEnd/데이터베이스를_시각적으로_볼_수_있는_ERD.md") - Fri Sep 06 2024
