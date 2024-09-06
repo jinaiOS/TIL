@@ -1,4 +1,4 @@
-package chapter_25;
+package chapter_27;
 
 public class Teacher {
     // 학교 정보
@@ -8,8 +8,8 @@ public class Teacher {
     public Subject subject;
 
     // 기본 정보
-    public String name;
-    public String gender;
+    private String name;
+    private String gender;
 
     // 행위
     public void teach(Student student, String subjectName) {
@@ -26,9 +26,14 @@ public class Teacher {
         gender = pGender;
 
         Subject newSubject = new Subject();
-        newSubject.subjectName = pSubjectName;
-        newSubject.subjectCode = pSubjectCode;
+        newSubject.setSubjectName(pSubjectName);
+        newSubject.setSubjectCode(pSubjectCode);
 
         subject = newSubject;
+    }
+
+    // getter
+    public String getName() {
+        return name;
     }
 }

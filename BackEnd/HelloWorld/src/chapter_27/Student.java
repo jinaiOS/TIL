@@ -1,11 +1,11 @@
-package chapter_25;
+package chapter_27;
 
 public class Student {
     // 속성
-    public String schoolName;
-    public int classYear; // 몇 학년
-    public int classroomNumber; // 몇 반
-    public int studentNumber; // 몇 번
+    private String schoolName;
+    private int classYear; // 몇 학년
+    private int classroomNumber; // 몇 반
+    private int studentNumber; // 몇 번
 
     // 기본 정보
     public String name;
@@ -13,7 +13,7 @@ public class Student {
 
     // 행위
     public void study(Teacher teacher, String subjectName) {
-        String teacherName = teacher.name;
+        String teacherName = teacher.getName();
         System.out.printf("학생: 저는 %s 선생님에게 %s 과목을 배웁니다.\n", teacherName, subjectName);
     }
 
