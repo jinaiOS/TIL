@@ -458,6 +458,9 @@ Today I Learned!!
     - [chapter_14]("./BackEnd/HelloWorld/src/chapter_14")
       - [StringFormat.java]("./BackEnd/HelloWorld/src/chapter_14/StringFormat.java") - Fri Sep 06 2024
       - [Encoding.java]("./BackEnd/HelloWorld/src/chapter_14/Encoding.java") - Fri Sep 06 2024
+    - [chapter_30]("./BackEnd/HelloWorld/src/chapter_30")
+      - [StaticTest.java]("./BackEnd/HelloWorld/src/chapter_30/StaticTest.java") - Fri Sep 06 2024
+      - [Student.java]("./BackEnd/HelloWorld/src/chapter_30/Student.java") - Fri Sep 06 2024
     - [chapter_20]("./BackEnd/HelloWorld/src/chapter_20")
       - [ArrayIndex.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayIndex.java") - Fri Sep 06 2024
       - [ArrayFor.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayFor.java") - Fri Sep 06 2024
