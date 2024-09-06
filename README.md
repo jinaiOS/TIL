@@ -461,6 +461,12 @@ Today I Learned!!
       - [ArrayIndex.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayIndex.java") - Fri Sep 06 2024
       - [ArrayFor.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayFor.java") - Fri Sep 06 2024
       - [ArrayDeclaration.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayDeclaration.java") - Fri Sep 06 2024
+    - [chapter_29]("./BackEnd/HelloWorld/src/chapter_29")
+      - [Customer.java]("./BackEnd/HelloWorld/src/chapter_29/Customer.java") - Fri Sep 06 2024
+      - [Coffee.java]("./BackEnd/HelloWorld/src/chapter_29/Coffee.java") - Fri Sep 06 2024
+      - [Casher.java]("./BackEnd/HelloWorld/src/chapter_29/Casher.java") - Fri Sep 06 2024
+      - [CoffeeShopSituation.java]("./BackEnd/HelloWorld/src/chapter_29/CoffeeShopSituation.java") - Fri Sep 06 2024
+      - [Barista.java]("./BackEnd/HelloWorld/src/chapter_29/Barista.java") - Fri Sep 06 2024
     - [chapter_15]("./BackEnd/HelloWorld/src/chapter_15")
       - [Literal.java]("./BackEnd/HelloWorld/src/chapter_15/Literal.java") - Fri Sep 06 2024
       - [SymbolicConstant.java]("./BackEnd/HelloWorld/src/chapter_15/SymbolicConstant.java") - Fri Sep 06 2024
@@ -519,6 +525,10 @@ Today I Learned!!
       - [Question.java]("./BackEnd/HelloWorld/src/chapter_26/Question.java") - Fri Sep 06 2024
       - [InstanceTest.java]("./BackEnd/HelloWorld/src/chapter_26/InstanceTest.java") - Fri Sep 06 2024
       - [ClassroomDay.java]("./BackEnd/HelloWorld/src/chapter_26/ClassroomDay.java") - Fri Sep 06 2024
+    - [Question/NaverCloud/Week2Day2]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2")
+      - [Main1.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Main1.java") - Fri Sep 06 2024
+      - [StudentManagementSystem.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/StudentManagementSystem.java") - Fri Sep 06 2024
+      - [Student.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Student.java") - Fri Sep 06 2024
     - [Main.java]("./BackEnd/HelloWorld/src/Main.java") - Fri Sep 06 2024
 - [Java 문자열.md]("./BackEnd/Java_문자열.md") - Fri Sep 06 2024
 - [Java Type.md]("./BackEnd/Java_Type.md") - Fri Sep 06 2024
