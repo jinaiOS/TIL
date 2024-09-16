@@ -540,10 +540,14 @@ Today I Learned!!
       - [Question.java]("./BackEnd/HelloWorld/src/chapter_26/Question.java") - Mon Sep 16 2024
       - [InstanceTest.java]("./BackEnd/HelloWorld/src/chapter_26/InstanceTest.java") - Mon Sep 16 2024
       - [ClassroomDay.java]("./BackEnd/HelloWorld/src/chapter_26/ClassroomDay.java") - Mon Sep 16 2024
-    - [Question/NaverCloud/Week2Day2]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2")
-      - [Main1.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Main1.java") - Mon Sep 16 2024
-      - [StudentManagementSystem.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/StudentManagementSystem.java") - Mon Sep 16 2024
-      - [Student.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Student.java") - Mon Sep 16 2024
+    - [Question/NaverCloud]("./BackEnd/HelloWorld/src/Question/NaverCloud")
+      - [Week2Day2]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2")
+        - [Main1.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Main1.java") - Mon Sep 16 2024
+        - [StudentManagementSystem.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/StudentManagementSystem.java") - Mon Sep 16 2024
+        - [Student.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Student.java") - Mon Sep 16 2024
+      - [Week2Day3]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day3")
+        - [StudentScore.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day3/StudentScore.java") - Mon Sep 16 2024
+        - [Main.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day3/Main.java") - Mon Sep 16 2024
     - [Main.java]("./BackEnd/HelloWorld/src/Main.java") - Mon Sep 16 2024
 - [Java 문자열.md]("./BackEnd/Java_문자열.md") - Mon Sep 16 2024
 - [Java Type.md]("./BackEnd/Java_Type.md") - Mon Sep 16 2024
