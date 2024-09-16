@@ -15,4 +15,13 @@ public class FishChild extends Fish {
     public void setEatable(boolean eatable) {
         this.eatable = eatable;
     }
+
+    public void becomeDanger() {
+        this.havingPoison = true;
+    }
+
+    @Override
+    void eat(String food) {
+        System.out.printf("나, 물고기는 %s를 아주 열심히 먹고 있습니다.\n", food);
+    }
 }

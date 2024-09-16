@@ -1,4 +1,4 @@
-package chapter_31;
+package chapter_32.fish;
 
 public class Fish {
     // 속성
@@ -56,5 +56,17 @@ public class Fish {
 
     public boolean isHavingPoison() {
         return havingPoison;
+    }
+
+    Fish() {
+        System.out.println("부모 물고기가 만들어지고 있습니다.");
+    }
+
+    public Fish(String sex, boolean havingPoison, String startSpawningDate, String endSpawningDate, String leavingSea) {
+        this.sex = sex;
+        this.havingPoison = havingPoison;
+        this.startSpawningDate = startSpawningDate;
+        this.endSpawningDate = endSpawningDate;
+        this.leavingSea = leavingSea;
     }
 }
