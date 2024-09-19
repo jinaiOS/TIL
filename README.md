@@ -4,617 +4,622 @@ Today I Learned!!
 ---
 
 ### 3 most recent study
-- [이미지 수신하기.md](이미지_수신하기.md) - Wed Sep 18 2024
-- [Firebase Cloud Message api key.md](Firebase_Cloud_Message_api_key.md) - Wed Sep 18 2024
-- [Firestore 배열 내용 수정하기.md](Firestore_배열_내용_수정하기.md) - Wed Sep 18 2024
+- [2.1 App Completeness - ipad 일 때 고려해야 함.md](2.1_App_Completeness_-_ipad_일_때_고려해야_함.md) - Thu Sep 19 2024
+- [앱 심사 시 필요 항목.md](앱_심사_시_필요_항목.md) - Thu Sep 19 2024
+- [Guideline 4.0 - Design.md](Guideline_4.0_-_Design.md) - Thu Sep 19 2024
 
 ### Categories
-- [Firebase]({#Firebase})
-
 - [앱 심사]({#앱 심사})
 
-- [Knowledge]({#Knowledge})
+- [BackEnd]({#BackEnd})
 
 - [ErrorResolve]({#ErrorResolve})
 
-- [Android]({#Android})
+- [Firebase]({#Firebase})
 
 - [Flutter/Webapp ↔ Flutter 통신.md]({#Flutter/Webapp ↔ Flutter 통신.md})
 
 - [Swift]({#Swift})
 
-- [Library/Alamofire.md]({#Library/Alamofire.md})
-
 - [Link.md]({#Link.md})
 
-- [BackEnd]({#BackEnd})
+- [Android]({#Android})
 
-- [Frontend]({#Frontend})
+- [Knowledge]({#Knowledge})
 
 - [CS]({#CS})
 
-### [Firebase]({#Firebase})
-- [이미지 수신하기.md]("./Firebase/이미지_수신하기.md") - Wed Sep 18 2024
-- [Firebase Cloud Message api key.md]("./Firebase/Firebase_Cloud_Message_api_key.md") - Wed Sep 18 2024
-- [Firestore 배열 내용 수정하기.md]("./Firebase/Firestore_배열_내용_수정하기.md") - Wed Sep 18 2024
+- [Frontend]({#Frontend})
+
+- [Library/Alamofire.md]({#Library/Alamofire.md})
 
 ### [앱 심사]({#앱 심사})
-- [Guideline 2.1 - Performance - App Completenes.md]("./앱_심사/Guideline_2.1_-_Performance_-_App_Completenes.md") - Wed Sep 18 2024
-- [Privacy Manifest.md]("./앱_심사/Privacy_Manifest.md") - Wed Sep 18 2024
-- [2.1 App Completeness - ipad 일 때 고려해야 함.md]("./앱_심사/2.1_App_Completeness_-_ipad_일_때_고려해야_함.md") - Wed Sep 18 2024
-- [Guideline 4.0 - Design.md]("./앱_심사/Guideline_4.0_-_Design.md") - Wed Sep 18 2024
-- [앱 심사 시 필요 항목.md]("./앱_심사/앱_심사_시_필요_항목.md") - Wed Sep 18 2024
+- [2.1 App Completeness - ipad 일 때 고려해야 함.md]("./앱_심사/2.1_App_Completeness_-_ipad_일_때_고려해야_함.md") - Thu Sep 19 2024
+- [앱 심사 시 필요 항목.md]("./앱_심사/앱_심사_시_필요_항목.md") - Thu Sep 19 2024
+- [Guideline 4.0 - Design.md]("./앱_심사/Guideline_4.0_-_Design.md") - Thu Sep 19 2024
+- [Privacy Manifest.md]("./앱_심사/Privacy_Manifest.md") - Thu Sep 19 2024
+- [Guideline 2.1 - Performance - App Completenes.md]("./앱_심사/Guideline_2.1_-_Performance_-_App_Completenes.md") - Thu Sep 19 2024
 
-### [Knowledge]({#Knowledge})
-- [C, C++, C# difference.md]("./Knowledge/C,_C++,_C#_difference.md") - Wed Sep 18 2024
-- [프레임워크와 라이브러리 차이.md]("./Knowledge/프레임워크와_라이브러리_차이.md") - Wed Sep 18 2024
-- [version.md]("./Knowledge/version.md") - Wed Sep 18 2024
+### [BackEnd]({#BackEnd})
+- [Java array.md]("./BackEnd/Java_array.md") - Thu Sep 19 2024
+- [컴퓨터 OS 심화.md]("./BackEnd/컴퓨터_OS_심화.md") - Thu Sep 19 2024
+- [컴퓨터 OS 기본.md]("./BackEnd/컴퓨터_OS_기본.md") - Thu Sep 19 2024
+- [Java 다형성.md]("./BackEnd/Java_다형성.md") - Thu Sep 19 2024
+- [HelloWorld]("./BackEnd/HelloWorld")
+  - [src]("./BackEnd/HelloWorld/src")
+    - [chapter_26]("./BackEnd/HelloWorld/src/chapter_26")
+      - [InstanceTest.java]("./BackEnd/HelloWorld/src/chapter_26/InstanceTest.java") - Thu Sep 19 2024
+      - [ClassroomDay.java]("./BackEnd/HelloWorld/src/chapter_26/ClassroomDay.java") - Thu Sep 19 2024
+      - [Question.java]("./BackEnd/HelloWorld/src/chapter_26/Question.java") - Thu Sep 19 2024
+    - [chapter_15]("./BackEnd/HelloWorld/src/chapter_15")
+      - [Literal.java]("./BackEnd/HelloWorld/src/chapter_15/Literal.java") - Thu Sep 19 2024
+      - [SymbolicConstant.java]("./BackEnd/HelloWorld/src/chapter_15/SymbolicConstant.java") - Thu Sep 19 2024
+    - [chapter_19]("./BackEnd/HelloWorld/src/chapter_19")
+      - [starTriangle.java]("./BackEnd/HelloWorld/src/chapter_19/starTriangle.java") - Thu Sep 19 2024
+      - [Break.java]("./BackEnd/HelloWorld/src/chapter_19/Break.java") - Thu Sep 19 2024
+      - [Gugudan.java]("./BackEnd/HelloWorld/src/chapter_19/Gugudan.java") - Thu Sep 19 2024
+      - [EndlessLoop.java]("./BackEnd/HelloWorld/src/chapter_19/EndlessLoop.java") - Thu Sep 19 2024
+      - [ThreeSixNineGame.java]("./BackEnd/HelloWorld/src/chapter_19/ThreeSixNineGame.java") - Thu Sep 19 2024
+      - [OddNumberTotal.java]("./BackEnd/HelloWorld/src/chapter_19/OddNumberTotal.java") - Thu Sep 19 2024
+    - [chapter_14]("./BackEnd/HelloWorld/src/chapter_14")
+      - [StringFormat.java]("./BackEnd/HelloWorld/src/chapter_14/StringFormat.java") - Thu Sep 19 2024
+      - [Encoding.java]("./BackEnd/HelloWorld/src/chapter_14/Encoding.java") - Thu Sep 19 2024
+    - [chapter_17]("./BackEnd/HelloWorld/src/chapter_17")
+      - [ParkingLotMission.java]("./BackEnd/HelloWorld/src/chapter_17/ParkingLotMission.java") - Thu Sep 19 2024
+      - [Medal.java]("./BackEnd/HelloWorld/src/chapter_17/Medal.java") - Thu Sep 19 2024
+      - [StarbucksCoupon.java]("./BackEnd/HelloWorld/src/chapter_17/StarbucksCoupon.java") - Thu Sep 19 2024
+      - [Taxi.java]("./BackEnd/HelloWorld/src/chapter_17/Taxi.java") - Thu Sep 19 2024
+    - [chapter_18]("./BackEnd/HelloWorld/src/chapter_18")
+      - [ForLoop.java]("./BackEnd/HelloWorld/src/chapter_18/ForLoop.java") - Thu Sep 19 2024
+      - [Operator.java]("./BackEnd/HelloWorld/src/chapter_18/Operator.java") - Thu Sep 19 2024
+      - [WhileLoop.java]("./BackEnd/HelloWorld/src/chapter_18/WhileLoop.java") - Thu Sep 19 2024
+    - [chapter_20]("./BackEnd/HelloWorld/src/chapter_20")
+      - [ArrayDeclaration.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayDeclaration.java") - Thu Sep 19 2024
+      - [ArrayFor.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayFor.java") - Thu Sep 19 2024
+      - [ArrayIndex.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayIndex.java") - Thu Sep 19 2024
+    - [chapter_33]("./BackEnd/HelloWorld/src/chapter_33")
+      - [AnimalTest.java]("./BackEnd/HelloWorld/src/chapter_33/AnimalTest.java") - Thu Sep 19 2024
+      - [Animal.java]("./BackEnd/HelloWorld/src/chapter_33/Animal.java") - Thu Sep 19 2024
+      - [Bird.java]("./BackEnd/HelloWorld/src/chapter_33/Bird.java") - Thu Sep 19 2024
+      - [AnimalDownCasting.java]("./BackEnd/HelloWorld/src/chapter_33/AnimalDownCasting.java") - Thu Sep 19 2024
+      - [AnimalCasting.java]("./BackEnd/HelloWorld/src/chapter_33/AnimalCasting.java") - Thu Sep 19 2024
+      - [Fish.java]("./BackEnd/HelloWorld/src/chapter_33/Fish.java") - Thu Sep 19 2024
+      - [Person.java]("./BackEnd/HelloWorld/src/chapter_33/Person.java") - Thu Sep 19 2024
+    - [chapter_30]("./BackEnd/HelloWorld/src/chapter_30")
+      - [Student.java]("./BackEnd/HelloWorld/src/chapter_30/Student.java") - Thu Sep 19 2024
+      - [StaticTest.java]("./BackEnd/HelloWorld/src/chapter_30/StaticTest.java") - Thu Sep 19 2024
+    - [chapter_21]("./BackEnd/HelloWorld/src/chapter_21")
+      - [DiamondTask.java]("./BackEnd/HelloWorld/src/chapter_21/DiamondTask.java") - Thu Sep 19 2024
+      - [CmdLineArgs.java]("./BackEnd/HelloWorld/src/chapter_21/CmdLineArgs.java") - Thu Sep 19 2024
+      - [TwoDimensionArray1.java]("./BackEnd/HelloWorld/src/chapter_21/TwoDimensionArray1.java") - Thu Sep 19 2024
+      - [TwoDimensionArrayCopy.java]("./BackEnd/HelloWorld/src/chapter_21/TwoDimensionArrayCopy.java") - Thu Sep 19 2024
+      - [TwoDimensionAdd.java]("./BackEnd/HelloWorld/src/chapter_21/TwoDimensionAdd.java") - Thu Sep 19 2024
+      - [ArrayCopyTwo.java]("./BackEnd/HelloWorld/src/chapter_21/ArrayCopyTwo.java") - Thu Sep 19 2024
+      - [ArrayCopy.java]("./BackEnd/HelloWorld/src/chapter_21/ArrayCopy.java") - Thu Sep 19 2024
+    - [chapter_24]("./BackEnd/HelloWorld/src/chapter_24")
+      - [MethodExamples.java]("./BackEnd/HelloWorld/src/chapter_24/MethodExamples.java") - Thu Sep 19 2024
+      - [Scores.java]("./BackEnd/HelloWorld/src/chapter_24/Scores.java") - Thu Sep 19 2024
+    - [Main.java]("./BackEnd/HelloWorld/src/Main.java") - Thu Sep 19 2024
+    - [chapter_27]("./BackEnd/HelloWorld/src/chapter_27")
+      - [Teacher.java]("./BackEnd/HelloWorld/src/chapter_27/Teacher.java") - Thu Sep 19 2024
+      - [Student.java]("./BackEnd/HelloWorld/src/chapter_27/Student.java") - Thu Sep 19 2024
+      - [packageOne]("./BackEnd/HelloWorld/src/chapter_27/packageOne")
+        - [ClassAA.java]("./BackEnd/HelloWorld/src/chapter_27/packageOne/ClassAA.java") - Thu Sep 19 2024
+        - [ClassA.java]("./BackEnd/HelloWorld/src/chapter_27/packageOne/ClassA.java") - Thu Sep 19 2024
+      - [packageTwo/ClassB.java]("./BackEnd/HelloWorld/src/chapter_27/packageTwo/ClassB.java") - Thu Sep 19 2024
+      - [Subject.java]("./BackEnd/HelloWorld/src/chapter_27/Subject.java") - Thu Sep 19 2024
+    - [chapter_32/fish]("./BackEnd/HelloWorld/src/chapter_32/fish")
+      - [SeaSituation.java]("./BackEnd/HelloWorld/src/chapter_32/fish/SeaSituation.java") - Thu Sep 19 2024
+      - [FishChild.java]("./BackEnd/HelloWorld/src/chapter_32/fish/FishChild.java") - Thu Sep 19 2024
+      - [Fish.java]("./BackEnd/HelloWorld/src/chapter_32/fish/Fish.java") - Thu Sep 19 2024
+    - [chapter_29]("./BackEnd/HelloWorld/src/chapter_29")
+      - [Barista.java]("./BackEnd/HelloWorld/src/chapter_29/Barista.java") - Thu Sep 19 2024
+      - [Coffee.java]("./BackEnd/HelloWorld/src/chapter_29/Coffee.java") - Thu Sep 19 2024
+      - [Customer.java]("./BackEnd/HelloWorld/src/chapter_29/Customer.java") - Thu Sep 19 2024
+      - [Casher.java]("./BackEnd/HelloWorld/src/chapter_29/Casher.java") - Thu Sep 19 2024
+      - [CoffeeShopSituation.java]("./BackEnd/HelloWorld/src/chapter_29/CoffeeShopSituation.java") - Thu Sep 19 2024
+    - [mission]("./BackEnd/HelloWorld/src/mission")
+      - [ChuncheonTicket2.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket2.java") - Thu Sep 19 2024
+      - [ChuncheonTicket1.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket1.java") - Thu Sep 19 2024
+      - [ChuncheonTicket3.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket3.java") - Thu Sep 19 2024
+    - [chapter_31]("./BackEnd/HelloWorld/src/chapter_31")
+      - [SeaSituation.java]("./BackEnd/HelloWorld/src/chapter_31/SeaSituation.java") - Thu Sep 19 2024
+      - [FishChild.java]("./BackEnd/HelloWorld/src/chapter_31/FishChild.java") - Thu Sep 19 2024
+      - [Fish.java]("./BackEnd/HelloWorld/src/chapter_31/Fish.java") - Thu Sep 19 2024
+    - [chapter_16]("./BackEnd/HelloWorld/src/chapter_16")
+      - [AvocadoSituation.java]("./BackEnd/HelloWorld/src/chapter_16/AvocadoSituation.java") - Thu Sep 19 2024
+      - [avocardo.png]("./BackEnd/HelloWorld/src/chapter_16/avocardo.png") - Thu Sep 19 2024
+    - [chapter_34]("./BackEnd/HelloWorld/src/chapter_34")
+      - [Staff.java]("./BackEnd/HelloWorld/src/chapter_34/Staff.java") - Thu Sep 19 2024
+      - [DepartmentStoreSituation.java]("./BackEnd/HelloWorld/src/chapter_34/DepartmentStoreSituation.java") - Thu Sep 19 2024
+      - [Customer.java]("./BackEnd/HelloWorld/src/chapter_34/Customer.java") - Thu Sep 19 2024
+      - [VIPCustomer.java]("./BackEnd/HelloWorld/src/chapter_34/VIPCustomer.java") - Thu Sep 19 2024
+      - [Test.java]("./BackEnd/HelloWorld/src/chapter_34/Test.java") - Thu Sep 19 2024
+      - [GolderCustomer.java]("./BackEnd/HelloWorld/src/chapter_34/GolderCustomer.java") - Thu Sep 19 2024
+    - [chapter_28]("./BackEnd/HelloWorld/src/chapter_28")
+      - [Teacher.java]("./BackEnd/HelloWorld/src/chapter_28/Teacher.java") - Thu Sep 19 2024
+      - [Student.java]("./BackEnd/HelloWorld/src/chapter_28/Student.java") - Thu Sep 19 2024
+      - [Subject.java]("./BackEnd/HelloWorld/src/chapter_28/Subject.java") - Thu Sep 19 2024
+      - [ThisTest.java]("./BackEnd/HelloWorld/src/chapter_28/ThisTest.java") - Thu Sep 19 2024
+      - [BirthDay.java]("./BackEnd/HelloWorld/src/chapter_28/BirthDay.java") - Thu Sep 19 2024
+      - [Person.java]("./BackEnd/HelloWorld/src/chapter_28/Person.java") - Thu Sep 19 2024
+    - [chapter_25]("./BackEnd/HelloWorld/src/chapter_25")
+      - [Teacher.java]("./BackEnd/HelloWorld/src/chapter_25/Teacher.java") - Thu Sep 19 2024
+      - [Student.java]("./BackEnd/HelloWorld/src/chapter_25/Student.java") - Thu Sep 19 2024
+      - [Fish.java]("./BackEnd/HelloWorld/src/chapter_25/Fish.java") - Thu Sep 19 2024
+      - [Subject.java]("./BackEnd/HelloWorld/src/chapter_25/Subject.java") - Thu Sep 19 2024
+      - [Desk.java]("./BackEnd/HelloWorld/src/chapter_25/Desk.java") - Thu Sep 19 2024
+      - [Test.java]("./BackEnd/HelloWorld/src/chapter_25/Test.java") - Thu Sep 19 2024
+    - [chapter_13]("./BackEnd/HelloWorld/src/chapter_13")
+      - [ExplicitCasting.java]("./BackEnd/HelloWorld/src/chapter_13/ExplicitCasting.java") - Thu Sep 19 2024
+      - [ImplicitCasting1.java]("./BackEnd/HelloWorld/src/chapter_13/ImplicitCasting1.java") - Thu Sep 19 2024
+      - [IntegerRange.java]("./BackEnd/HelloWorld/src/chapter_13/IntegerRange.java") - Thu Sep 19 2024
+      - [FloatRange.java]("./BackEnd/HelloWorld/src/chapter_13/FloatRange.java") - Thu Sep 19 2024
+      - [ImplicitCasting2.java]("./BackEnd/HelloWorld/src/chapter_13/ImplicitCasting2.java") - Thu Sep 19 2024
+    - [Question/NaverCloud]("./BackEnd/HelloWorld/src/Question/NaverCloud")
+      - [Week2Day4]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day4")
+        - [Rectangle.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day4/Rectangle.java") - Thu Sep 19 2024
+        - [Main.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day4/Main.java") - Thu Sep 19 2024
+        - [Shape.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day4/Shape.java") - Thu Sep 19 2024
+        - [Circle.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day4/Circle.java") - Thu Sep 19 2024
+      - [Week2Day3]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day3")
+        - [Main.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day3/Main.java") - Thu Sep 19 2024
+        - [StudentScore.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day3/StudentScore.java") - Thu Sep 19 2024
+      - [Week2Day2]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2")
+        - [Student.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Student.java") - Thu Sep 19 2024
+        - [Main1.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Main1.java") - Thu Sep 19 2024
+        - [StudentManagementSystem.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/StudentManagementSystem.java") - Thu Sep 19 2024
+  - [.idea]("./BackEnd/HelloWorld/.idea")
+    - [misc.xml]("./BackEnd/HelloWorld/.idea/misc.xml") - Thu Sep 19 2024
+    - [.gitignore]("./BackEnd/HelloWorld/.idea/.gitignore") - Thu Sep 19 2024
+    - [uiDesigner.xml]("./BackEnd/HelloWorld/.idea/uiDesigner.xml") - Thu Sep 19 2024
+    - [vcs.xml]("./BackEnd/HelloWorld/.idea/vcs.xml") - Thu Sep 19 2024
+    - [modules.xml]("./BackEnd/HelloWorld/.idea/modules.xml") - Thu Sep 19 2024
+  - [.gitignore]("./BackEnd/HelloWorld/.gitignore") - Thu Sep 19 2024
+  - [HelloWorld.iml]("./BackEnd/HelloWorld/HelloWorld.iml") - Thu Sep 19 2024
+- [SQL문 기초.md]("./BackEnd/SQL문_기초.md") - Thu Sep 19 2024
+- [API.md]("./BackEnd/API.md") - Thu Sep 19 2024
+- [Java 문자열.md]("./BackEnd/Java_문자열.md") - Thu Sep 19 2024
+- [Python.md]("./BackEnd/Python.md") - Thu Sep 19 2024
+- [Java static과 변수 유효범위.md]("./BackEnd/Java_static과_변수_유효범위.md") - Thu Sep 19 2024
+- [Java 객체 간의 협력.md]("./BackEnd/Java_객체_간의_협력.md") - Thu Sep 19 2024
+- [Java 조건문.md]("./BackEnd/Java_조건문.md") - Thu Sep 19 2024
+- [Java Type.md]("./BackEnd/Java_Type.md") - Thu Sep 19 2024
+- [Java 메소드.md]("./BackEnd/Java_메소드.md") - Thu Sep 19 2024
+- [Web Socket.md]("./BackEnd/Web_Socket.md") - Thu Sep 19 2024
+- [데이터베이스.md]("./BackEnd/데이터베이스.md") - Thu Sep 19 2024
+- [FastAPI.md]("./BackEnd/FastAPI.md") - Thu Sep 19 2024
+- [BackEnd.md]("./BackEnd/BackEnd.md") - Thu Sep 19 2024
+- [데이터베이스를 시각적으로 볼 수 있는 ERD.md]("./BackEnd/데이터베이스를_시각적으로_볼_수_있는_ERD.md") - Thu Sep 19 2024
+- [CRUD.md]("./BackEnd/CRUD.md") - Thu Sep 19 2024
+- [Java?.md]("./BackEnd/Java?.md") - Thu Sep 19 2024
+- [Java 자기 자신을 가르키는 “this”.md]("./BackEnd/Java_자기_자신을_가르키는_“this”.md") - Thu Sep 19 2024
+- [deta space로 메모앱 배포하기.md]("./BackEnd/deta_space로_메모앱_배포하기.md") - Thu Sep 19 2024
+- [JAVA 메인 메소드.md]("./BackEnd/JAVA_메인_메소드.md") - Thu Sep 19 2024
+- [Java Class 정보은닉.md]("./BackEnd/Java_Class_정보은닉.md") - Thu Sep 19 2024
+- [From 태그와 POST API를 이용해 이미지 저장하기.md]("./BackEnd/From_태그와_POST_API를_이용해_이미지_저장하기.md") - Thu Sep 19 2024
+- [IntelliJ IDEA.md]("./BackEnd/IntelliJ_IDEA.md") - Thu Sep 19 2024
+- [서버는 우리를 모른다! Stateless.md]("./BackEnd/서버는_우리를_모른다!_Stateless.md") - Thu Sep 19 2024
+- [Java 반복문.md]("./BackEnd/Java_반복문.md") - Thu Sep 19 2024
+- [Java array 복사와 다차원 array.md]("./BackEnd/Java_array_복사와_다차원_array.md") - Thu Sep 19 2024
+- [Java 클래스와 객체.md]("./BackEnd/Java_클래스와_객체.md") - Thu Sep 19 2024
+- [브라우저가 닫혀도 로그인 유지하는 방법.md]("./BackEnd/브라우저가_닫혀도_로그인_유지하는_방법.md") - Thu Sep 19 2024
+- [Java 객체의 상속.md]("./BackEnd/Java_객체의_상속.md") - Thu Sep 19 2024
+- [Java OOP (= 객체 지향 프로그래밍).md]("./BackEnd/Java_OOP_(=_객체_지향_프로그래밍).md") - Thu Sep 19 2024
+- [백엔드에게 정보를 보내는 방식.md]("./BackEnd/백엔드에게_정보를_보내는_방식.md") - Thu Sep 19 2024
+- [Java 클래스 소개.md]("./BackEnd/Java_클래스_소개.md") - Thu Sep 19 2024
+- [PyMongo.md]("./BackEnd/PyMongo.md") - Thu Sep 19 2024
+- [컴퓨터 간단 구조.md]("./BackEnd/컴퓨터_간단_구조.md") - Thu Sep 19 2024
+- [Java 상수와 리터럴.md]("./BackEnd/Java_상수와_리터럴.md") - Thu Sep 19 2024
 
 ### [ErrorResolve]({#ErrorResolve})
-- [The document “” could not be autosaved. The file doesn’t exist.md]("./ErrorResolve/The_document_“”_could_not_be_autosaved._The_file_doesn’t_exist.md") - Wed Sep 18 2024
-- [IPHONEOS_DEPLOYMENT_TARGET.md]("./ErrorResolve/IPHONEOS_DEPLOYMENT_TARGET.md") - Wed Sep 18 2024
-- [.gitignore에 xcuserdata를 넣었는데 실행 되지 않는다.md]("./ErrorResolve/.gitignore에_xcuserdata를_넣었는데_실행_되지_않는다.md") - Wed Sep 18 2024
-- [Xcode Can't build in device.md]("./ErrorResolve/Xcode_Can't_build_in_device.md") - Wed Sep 18 2024
-- [Distill failed for unknown reasons.md]("./ErrorResolve/Distill_failed_for_unknown_reasons.md") - Wed Sep 18 2024
-- [Stored property 'productData' without initial value prevents synthesized initializers.md]("./ErrorResolve/Stored_property_'productData'_without_initial_value_prevents_synthesized_initializers.md") - Wed Sep 18 2024
-- [Failed to verify code signature.md]("./ErrorResolve/Failed_to_verify_code_signature.md") - Wed Sep 18 2024
-- [Invalid update: invalid number of rows in section 1.md]("./ErrorResolve/Invalid_update:_invalid_number_of_rows_in_section_1.md") - Wed Sep 18 2024
+- [The document “” could not be autosaved. The file doesn’t exist.md]("./ErrorResolve/The_document_“”_could_not_be_autosaved._The_file_doesn’t_exist.md") - Thu Sep 19 2024
+- [Stored property 'productData' without initial value prevents synthesized initializers.md]("./ErrorResolve/Stored_property_'productData'_without_initial_value_prevents_synthesized_initializers.md") - Thu Sep 19 2024
+- [Invalid update: invalid number of rows in section 1.md]("./ErrorResolve/Invalid_update:_invalid_number_of_rows_in_section_1.md") - Thu Sep 19 2024
+- [Distill failed for unknown reasons.md]("./ErrorResolve/Distill_failed_for_unknown_reasons.md") - Thu Sep 19 2024
+- [IPHONEOS_DEPLOYMENT_TARGET.md]("./ErrorResolve/IPHONEOS_DEPLOYMENT_TARGET.md") - Thu Sep 19 2024
+- [Xcode Can't build in device.md]("./ErrorResolve/Xcode_Can't_build_in_device.md") - Thu Sep 19 2024
+- [Failed to verify code signature.md]("./ErrorResolve/Failed_to_verify_code_signature.md") - Thu Sep 19 2024
+- [.gitignore에 xcuserdata를 넣었는데 실행 되지 않는다.md]("./ErrorResolve/.gitignore에_xcuserdata를_넣었는데_실행_되지_않는다.md") - Thu Sep 19 2024
 
-### [Android]({#Android})
-- [ViewPager, ViewPager2, RecyclerView.md]("./Android/ViewPager,_ViewPager2,_RecyclerView.md") - Wed Sep 18 2024
-- [Hello World.md]("./Android/Hello_World.md") - Wed Sep 18 2024
-- [2024.02]("./Android/2024.02")
-  - [2024.02.27/2024.02.27.md]("./Android/2024.02/2024.02.27/2024.02.27.md") - Wed Sep 18 2024
-  - [2024.02.14]("./Android/2024.02/2024.02.14")
-    - [gradlew.bat]("./Android/2024.02/2024.02.14/gradlew.bat") - Wed Sep 18 2024
-    - [.gitignore]("./Android/2024.02/2024.02.14/.gitignore") - Wed Sep 18 2024
-    - [app]("./Android/2024.02/2024.02.14/app")
-      - [proguard-rules.pro]("./Android/2024.02/2024.02.14/app/proguard-rules.pro") - Wed Sep 18 2024
-      - [.gitignore]("./Android/2024.02/2024.02.14/app/.gitignore") - Wed Sep 18 2024
-      - [src]("./Android/2024.02/2024.02.14/app/src")
-        - [test/java/com/example/myapplication/ExampleUnitTest.kt]("./Android/2024.02/2024.02.14/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt") - Wed Sep 18 2024
-        - [main]("./Android/2024.02/2024.02.14/app/src/main")
-          - [AndroidManifest.xml]("./Android/2024.02/2024.02.14/app/src/main/AndroidManifest.xml") - Wed Sep 18 2024
-          - [res]("./Android/2024.02/2024.02.14/app/src/main/res")
-            - [mipmap-hdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi")
-              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi/ic_launcher.webp") - Wed Sep 18 2024
-            - [xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml")
-              - [backup_rules.xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml/backup_rules.xml") - Wed Sep 18 2024
-              - [data_extraction_rules.xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml/data_extraction_rules.xml") - Wed Sep 18 2024
-            - [values]("./Android/2024.02/2024.02.14/app/src/main/res/values")
-              - [colors.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/colors.xml") - Wed Sep 18 2024
-              - [themes.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/themes.xml") - Wed Sep 18 2024
-              - [strings.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/strings.xml") - Wed Sep 18 2024
-            - [mipmap-xxxhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi")
-              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp") - Wed Sep 18 2024
-            - [mipmap-xxhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi")
-              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp") - Wed Sep 18 2024
-            - [drawable]("./Android/2024.02/2024.02.14/app/src/main/res/drawable")
-              - [ic_launcher_background.xml]("./Android/2024.02/2024.02.14/app/src/main/res/drawable/ic_launcher_background.xml") - Wed Sep 18 2024
-              - [ic_launcher_foreground.xml]("./Android/2024.02/2024.02.14/app/src/main/res/drawable/ic_launcher_foreground.xml") - Wed Sep 18 2024
-            - [mipmap-xhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi")
-              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi/ic_launcher.webp") - Wed Sep 18 2024
-            - [mipmap-anydpi-v26]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26")
-              - [ic_launcher_round.xml]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml") - Wed Sep 18 2024
-              - [ic_launcher.xml]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml") - Wed Sep 18 2024
-            - [mipmap-mdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi")
-              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi/ic_launcher.webp") - Wed Sep 18 2024
-          - [java]("./Android/2024.02/2024.02.14/app/src/main/java")
-            - [sample.kt]("./Android/2024.02/2024.02.14/app/src/main/java/sample.kt") - Wed Sep 18 2024
-            - [com/example/myapplication]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication")
-              - [MainActivity.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/MainActivity.kt") - Wed Sep 18 2024
-              - [ui/theme]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme")
-                - [Theme.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Theme.kt") - Wed Sep 18 2024
-                - [Color.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Color.kt") - Wed Sep 18 2024
-                - [Type.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Type.kt") - Wed Sep 18 2024
-        - [androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt]("./Android/2024.02/2024.02.14/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt") - Wed Sep 18 2024
-      - [build.gradle.kts]("./Android/2024.02/2024.02.14/app/build.gradle.kts") - Wed Sep 18 2024
-    - [gradlew]("./Android/2024.02/2024.02.14/gradlew") - Wed Sep 18 2024
-    - [gradle.properties]("./Android/2024.02/2024.02.14/gradle.properties") - Wed Sep 18 2024
-    - [build.gradle.kts]("./Android/2024.02/2024.02.14/build.gradle.kts") - Wed Sep 18 2024
-    - [settings.gradle.kts]("./Android/2024.02/2024.02.14/settings.gradle.kts") - Wed Sep 18 2024
-    - [gradle/wrapper]("./Android/2024.02/2024.02.14/gradle/wrapper")
-      - [gradle-wrapper.properties]("./Android/2024.02/2024.02.14/gradle/wrapper/gradle-wrapper.properties") - Wed Sep 18 2024
-      - [gradle-wrapper.jar]("./Android/2024.02/2024.02.14/gradle/wrapper/gradle-wrapper.jar") - Wed Sep 18 2024
-  - [2024.02.23/2024.02.23.md]("./Android/2024.02/2024.02.23/2024.02.23.md") - Wed Sep 18 2024
-  - [2024.02.26/2024.02.26.md]("./Android/2024.02/2024.02.26/2024.02.26.md") - Wed Sep 18 2024
-  - [2024.02.28/2024.02.28.md]("./Android/2024.02/2024.02.28/2024.02.28.md") - Wed Sep 18 2024
-- [ViewPager]("./Android/ViewPager")
-  - [settings.gradle]("./Android/ViewPager/settings.gradle") - Wed Sep 18 2024
-  - [gradlew.bat]("./Android/ViewPager/gradlew.bat") - Wed Sep 18 2024
-  - [.gitignore]("./Android/ViewPager/.gitignore") - Wed Sep 18 2024
-  - [build.gradle]("./Android/ViewPager/build.gradle") - Wed Sep 18 2024
-  - [app]("./Android/ViewPager/app")
-    - [proguard-rules.pro]("./Android/ViewPager/app/proguard-rules.pro") - Wed Sep 18 2024
-    - [.gitignore]("./Android/ViewPager/app/.gitignore") - Wed Sep 18 2024
-    - [build.gradle]("./Android/ViewPager/app/build.gradle") - Wed Sep 18 2024
-    - [src]("./Android/ViewPager/app/src")
-      - [test/java/com/firstpartners/viewpager/ExampleUnitTest.java]("./Android/ViewPager/app/src/test/java/com/firstpartners/viewpager/ExampleUnitTest.java") - Wed Sep 18 2024
-      - [main]("./Android/ViewPager/app/src/main")
-        - [AndroidManifest.xml]("./Android/ViewPager/app/src/main/AndroidManifest.xml") - Wed Sep 18 2024
-        - [res]("./Android/ViewPager/app/src/main/res")
-          - [mipmap-hdpi]("./Android/ViewPager/app/src/main/res/mipmap-hdpi")
-            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-hdpi/ic_launcher.webp") - Wed Sep 18 2024
-          - [xml]("./Android/ViewPager/app/src/main/res/xml")
-            - [backup_rules.xml]("./Android/ViewPager/app/src/main/res/xml/backup_rules.xml") - Wed Sep 18 2024
-            - [data_extraction_rules.xml]("./Android/ViewPager/app/src/main/res/xml/data_extraction_rules.xml") - Wed Sep 18 2024
-          - [values]("./Android/ViewPager/app/src/main/res/values")
-            - [colors.xml]("./Android/ViewPager/app/src/main/res/values/colors.xml") - Wed Sep 18 2024
-            - [themes.xml]("./Android/ViewPager/app/src/main/res/values/themes.xml") - Wed Sep 18 2024
-            - [strings.xml]("./Android/ViewPager/app/src/main/res/values/strings.xml") - Wed Sep 18 2024
-          - [mipmap-xxxhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xxxhdpi")
-            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp") - Wed Sep 18 2024
-          - [mipmap-xxhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi")
-            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp") - Wed Sep 18 2024
-          - [drawable]("./Android/ViewPager/app/src/main/res/drawable")
-            - [ic_launcher_background.xml]("./Android/ViewPager/app/src/main/res/drawable/ic_launcher_background.xml") - Wed Sep 18 2024
-            - [ic_launcher_foreground.xml]("./Android/ViewPager/app/src/main/res/drawable/ic_launcher_foreground.xml") - Wed Sep 18 2024
-          - [mipmap-xhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xhdpi")
-            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xhdpi/ic_launcher.webp") - Wed Sep 18 2024
-          - [mipmap-anydpi-v26]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26")
-            - [ic_launcher_round.xml]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml") - Wed Sep 18 2024
-            - [ic_launcher.xml]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml") - Wed Sep 18 2024
-          - [mipmap-mdpi]("./Android/ViewPager/app/src/main/res/mipmap-mdpi")
-            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp") - Wed Sep 18 2024
-            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-mdpi/ic_launcher.webp") - Wed Sep 18 2024
-          - [values-night/themes.xml]("./Android/ViewPager/app/src/main/res/values-night/themes.xml") - Wed Sep 18 2024
-      - [androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.java]("./Android/ViewPager/app/src/androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.java") - Wed Sep 18 2024
-  - [gradlew]("./Android/ViewPager/gradlew") - Wed Sep 18 2024
-  - [gradle.properties]("./Android/ViewPager/gradle.properties") - Wed Sep 18 2024
-  - [gradle]("./Android/ViewPager/gradle")
-    - [wrapper]("./Android/ViewPager/gradle/wrapper")
-      - [gradle-wrapper.properties]("./Android/ViewPager/gradle/wrapper/gradle-wrapper.properties") - Wed Sep 18 2024
-      - [gradle-wrapper.jar]("./Android/ViewPager/gradle/wrapper/gradle-wrapper.jar") - Wed Sep 18 2024
-    - [libs.versions.toml]("./Android/ViewPager/gradle/libs.versions.toml") - Wed Sep 18 2024
-- [Kotlin/Youtube full screen 전체 화면.md]("./Android/Kotlin/Youtube_full_screen_전체_화면.md") - Wed Sep 18 2024
-- [Java]("./Android/Java")
-  - [ViewBinding.md]("./Android/Java/ViewBinding.md") - Wed Sep 18 2024
-  - [Exoplayer → AndroidX Media3.md]("./Android/Java/Exoplayer_→_AndroidX_Media3.md") - Wed Sep 18 2024
-  - [string to int.md]("./Android/Java/string_to_int.md") - Wed Sep 18 2024
-  - ['execute(Params...)' is deprecated.md]("./Android/Java/'execute(Params...)'_is_deprecated.md") - Wed Sep 18 2024
-  - [migration]("./Android/Java/migration")
-    - ['runFinalizersOnExit(boolean)' is deprecated as of API 15 ("IceCreamSandwich"; Android 4.0.3).md]("./Android/Java/migration/'runFinalizersOnExit(boolean)'_is_deprecated_as_of_API_15_("IceCreamSandwich";_Android_4.0.3).md") - Wed Sep 18 2024
-    - ['create(okhttp3.MediaType, java.lang.String)' is deprecated.md]("./Android/Java/migration/'create(okhttp3.MediaType,_java.lang.String)'_is_deprecated.md") - Wed Sep 18 2024
-    - ['onActivityCreated(android.os.Bundle)' is deprecated.md]("./Android/Java/migration/'onActivityCreated(android.os.Bundle)'_is_deprecated.md") - Wed Sep 18 2024
-    - ['execute(Params...)' is deprecated.md]("./Android/Java/migration/'execute(Params...)'_is_deprecated.md") - Wed Sep 18 2024
-    - [JCenter → Maven Central.md]("./Android/Java/migration/JCenter_→_Maven_Central.md") - Wed Sep 18 2024
-    - [Pageindicatorview → ViewPager2.md]("./Android/Java/migration/Pageindicatorview_→_ViewPager2.md") - Wed Sep 18 2024
-    - ['getColor(int)' is deprecated as of API 23 ("Marshmallow"; Android 6.0).md]("./Android/Java/migration/'getColor(int)'_is_deprecated_as_of_API_23_("Marshmallow";_Android_6.0).md") - Wed Sep 18 2024
-  - [Clean Architecture.md]("./Android/Java/Clean_Architecture.md") - Wed Sep 18 2024
-- [안드로이드 앱 구조.md]("./Android/안드로이드_앱_구조.md") - Wed Sep 18 2024
-- [2024.02.14.md]("./Android/2024.02.14.md") - Wed Sep 18 2024
-- [키보드 타입.md]("./Android/키보드_타입.md") - Wed Sep 18 2024
-- [웹앱 인터페이스 설정.md]("./Android/웹앱_인터페이스_설정.md") - Wed Sep 18 2024
-- [인앱 결제.md]("./Android/인앱_결제.md") - Wed Sep 18 2024
-- [String to Date.md]("./Android/String_to_Date.md") - Wed Sep 18 2024
-- [Control flow.md]("./Android/Control_flow.md") - Wed Sep 18 2024
-- [* -> red 표시(특정 문자 색상 변경).md]("./Android/*_->_red_표시(특정_문자_색상_변경).md") - Wed Sep 18 2024
-- [image file 크기 낮추기.md]("./Android/image_file_크기_낮추기.md") - Wed Sep 18 2024
-- [텍스트 모든 공백, 줄바꿈 등 빼기.md]("./Android/텍스트_모든_공백,_줄바꿈_등_빼기.md") - Wed Sep 18 2024
-- [string이 한 글자일 때 두 글자로.md]("./Android/string이_한_글자일_때_두_글자로.md") - Wed Sep 18 2024
-- [Basic types.md]("./Android/Basic_types.md") - Wed Sep 18 2024
-- [Collections.md]("./Android/Collections.md") - Wed Sep 18 2024
-- [2024.03/2024.03.05/2024.03.05.md]("./Android/2024.03/2024.03.05/2024.03.05.md") - Wed Sep 18 2024
+### [Firebase]({#Firebase})
+- [Firebase Cloud Message api key.md]("./Firebase/Firebase_Cloud_Message_api_key.md") - Thu Sep 19 2024
+- [이미지 수신하기.md]("./Firebase/이미지_수신하기.md") - Thu Sep 19 2024
+- [Firestore 배열 내용 수정하기.md]("./Firebase/Firestore_배열_내용_수정하기.md") - Thu Sep 19 2024
 
 ### [Flutter/Webapp ↔ Flutter 통신.md]({#Flutter/Webapp ↔ Flutter 통신.md})
 
 ### [Swift]({#Swift})
-- [Storyboard vs xib vs code.md]("./Swift/Storyboard_vs_xib_vs_code.md") - Wed Sep 18 2024
-- [ARKit 증강현실.md]("./Swift/ARKit_증강현실.md") - Wed Sep 18 2024
-- [Grammar]("./Swift/Grammar")
-  - [Basic.md]("./Swift/Grammar/Basic.md") - Wed Sep 18 2024
-  - [OOP.md]("./Swift/Grammar/OOP.md") - Wed Sep 18 2024
-  - [Optional.md]("./Swift/Grammar/Optional.md") - Wed Sep 18 2024
-  - [ARC, Memory.md]("./Swift/Grammar/ARC,_Memory.md") - Wed Sep 18 2024
-  - [Property.md]("./Swift/Grammar/Property.md") - Wed Sep 18 2024
-  - [Closure.md]("./Swift/Grammar/Closure.md") - Wed Sep 18 2024
-  - [Calculation&Repeat.md]("./Swift/Grammar/Calculation&Repeat.md") - Wed Sep 18 2024
+- [Storyboard vs xib vs code.md]("./Swift/Storyboard_vs_xib_vs_code.md") - Thu Sep 19 2024
+- [RxSwift.md]("./Swift/RxSwift.md") - Thu Sep 19 2024
+- [urlCache.md]("./Swift/urlCache.md") - Thu Sep 19 2024
 - [2024.02]("./Swift/2024.02")
   - [2024.02.10]("./Swift/2024.02/2024.02.10")
     - [RandomBingoMobile]("./Swift/2024.02/2024.02.10/RandomBingoMobile")
       - [RandomBingoMobile]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile")
         - [Base.lproj]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Base.lproj")
-          - [LaunchScreen.storyboard]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Base.lproj/LaunchScreen.storyboard") - Wed Sep 18 2024
-          - [Main.storyboard]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Base.lproj/Main.storyboard") - Wed Sep 18 2024
-        - [SceneDelegate.swift]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/SceneDelegate.swift") - Wed Sep 18 2024
+          - [LaunchScreen.storyboard]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Base.lproj/LaunchScreen.storyboard") - Thu Sep 19 2024
+          - [Main.storyboard]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Base.lproj/Main.storyboard") - Thu Sep 19 2024
+        - [ViewController.swift]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/ViewController.swift") - Thu Sep 19 2024
+        - [SceneDelegate.swift]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/SceneDelegate.swift") - Thu Sep 19 2024
+        - [Info.plist]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Info.plist") - Thu Sep 19 2024
         - [Assets.xcassets]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets")
-          - [AccentColor.colorset/Contents.json]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets/AccentColor.colorset/Contents.json") - Wed Sep 18 2024
-          - [Contents.json]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets/Contents.json") - Wed Sep 18 2024
-          - [AppIcon.appiconset/Contents.json]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets/AppIcon.appiconset/Contents.json") - Wed Sep 18 2024
-        - [Info.plist]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Info.plist") - Wed Sep 18 2024
-        - [AppDelegate.swift]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/AppDelegate.swift") - Wed Sep 18 2024
-        - [ViewController.swift]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/ViewController.swift") - Wed Sep 18 2024
+          - [AccentColor.colorset/Contents.json]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets/AccentColor.colorset/Contents.json") - Thu Sep 19 2024
+          - [Contents.json]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets/Contents.json") - Thu Sep 19 2024
+          - [AppIcon.appiconset/Contents.json]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/Assets.xcassets/AppIcon.appiconset/Contents.json") - Thu Sep 19 2024
+        - [AppDelegate.swift]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile/AppDelegate.swift") - Thu Sep 19 2024
       - [RandomBingoMobile.xcodeproj]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj")
-        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Wed Sep 18 2024
         - [project.xcworkspace]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace")
-          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Wed Sep 18 2024
-          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Wed Sep 18 2024
-          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Wed Sep 18 2024
-        - [project.pbxproj]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.pbxproj") - Wed Sep 18 2024
-    - [2024.02.10.md]("./Swift/2024.02/2024.02.10/2024.02.10.md") - Wed Sep 18 2024
+          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Thu Sep 19 2024
+          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Thu Sep 19 2024
+          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Thu Sep 19 2024
+        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Thu Sep 19 2024
+        - [project.pbxproj]("./Swift/2024.02/2024.02.10/RandomBingoMobile/RandomBingoMobile.xcodeproj/project.pbxproj") - Thu Sep 19 2024
     - [RandomBingo]("./Swift/2024.02/2024.02.10/RandomBingo")
+      - [RandomBingo/main.swift]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo/main.swift") - Thu Sep 19 2024
       - [RandomBingo.xcodeproj]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj")
-        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Wed Sep 18 2024
         - [project.xcworkspace]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace")
-          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Wed Sep 18 2024
-          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Wed Sep 18 2024
-          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Wed Sep 18 2024
-        - [project.pbxproj]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.pbxproj") - Wed Sep 18 2024
-      - [RandomBingo/main.swift]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo/main.swift") - Wed Sep 18 2024
-  - [2024.02.11/2024.02.11.md]("./Swift/2024.02/2024.02.11/2024.02.11.md") - Wed Sep 18 2024
-  - [2024.02.22/2024.02.22.md]("./Swift/2024.02/2024.02.22/2024.02.22.md") - Wed Sep 18 2024
-  - [2024.02.13/2024.02.13.md]("./Swift/2024.02/2024.02.13/2024.02.13.md") - Wed Sep 18 2024
-  - [2024.02.20/2024.02.20.md]("./Swift/2024.02/2024.02.20/2024.02.20.md") - Wed Sep 18 2024
-  - [2024.02.18]("./Swift/2024.02/2024.02.18")
-    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.18/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
-    - [2024.02.18.md]("./Swift/2024.02/2024.02.18/2024.02.18.md") - Wed Sep 18 2024
+          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Thu Sep 19 2024
+          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Thu Sep 19 2024
+          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Thu Sep 19 2024
+        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Thu Sep 19 2024
+        - [project.pbxproj]("./Swift/2024.02/2024.02.10/RandomBingo/RandomBingo.xcodeproj/project.pbxproj") - Thu Sep 19 2024
+    - [2024.02.10.md]("./Swift/2024.02/2024.02.10/2024.02.10.md") - Thu Sep 19 2024
+  - [2024.02.26/2024.02.26.md]("./Swift/2024.02/2024.02.26/2024.02.26.md") - Thu Sep 19 2024
+  - [2024.02.06/2024.02.06.md]("./Swift/2024.02/2024.02.06/2024.02.06.md") - Thu Sep 19 2024
+  - [2024.02.08/Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.08/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
+  - [2024.02.01]("./Swift/2024.02/2024.02.01")
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.01/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
+    - [2024.02.01.md]("./Swift/2024.02/2024.02.01/2024.02.01.md") - Thu Sep 19 2024
   - [2024.02.09]("./Swift/2024.02/2024.02.09")
     - [RPSGame]("./Swift/2024.02/2024.02.09/RPSGame")
       - [RPSGame]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame")
         - [Base.lproj]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Base.lproj")
-          - [LaunchScreen.storyboard]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Base.lproj/LaunchScreen.storyboard") - Wed Sep 18 2024
-          - [Main.storyboard]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Base.lproj/Main.storyboard") - Wed Sep 18 2024
-        - [SceneDelegate.swift]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/SceneDelegate.swift") - Wed Sep 18 2024
+          - [LaunchScreen.storyboard]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Base.lproj/LaunchScreen.storyboard") - Thu Sep 19 2024
+          - [Main.storyboard]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Base.lproj/Main.storyboard") - Thu Sep 19 2024
+        - [Rps.swift]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Rps.swift") - Thu Sep 19 2024
+        - [ViewController.swift]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/ViewController.swift") - Thu Sep 19 2024
+        - [SceneDelegate.swift]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/SceneDelegate.swift") - Thu Sep 19 2024
+        - [Info.plist]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Info.plist") - Thu Sep 19 2024
         - [Assets.xcassets]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets")
-          - [AccentColor.colorset/Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/AccentColor.colorset/Contents.json") - Wed Sep 18 2024
-          - [ready.imageset]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/ready.imageset")
-            - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/ready.imageset/Contents.json") - Wed Sep 18 2024
-            - [ready.png]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/ready.imageset/ready.png") - Wed Sep 18 2024
-          - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/Contents.json") - Wed Sep 18 2024
-          - [rock.imageset]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/rock.imageset")
-            - [rock.png]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/rock.imageset/rock.png") - Wed Sep 18 2024
-            - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/rock.imageset/Contents.json") - Wed Sep 18 2024
+          - [AccentColor.colorset/Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/AccentColor.colorset/Contents.json") - Thu Sep 19 2024
           - [scissors.imageset]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/scissors.imageset")
-            - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/scissors.imageset/Contents.json") - Wed Sep 18 2024
-            - [scissors.png]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/scissors.imageset/scissors.png") - Wed Sep 18 2024
+            - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/scissors.imageset/Contents.json") - Thu Sep 19 2024
+            - [scissors.png]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/scissors.imageset/scissors.png") - Thu Sep 19 2024
+          - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/Contents.json") - Thu Sep 19 2024
           - [paper.imageset]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/paper.imageset")
-            - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/paper.imageset/Contents.json") - Wed Sep 18 2024
-            - [paper.png]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/paper.imageset/paper.png") - Wed Sep 18 2024
-          - [AppIcon.appiconset/Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/AppIcon.appiconset/Contents.json") - Wed Sep 18 2024
-        - [Info.plist]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Info.plist") - Wed Sep 18 2024
-        - [AppDelegate.swift]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/AppDelegate.swift") - Wed Sep 18 2024
-        - [ViewController.swift]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/ViewController.swift") - Wed Sep 18 2024
-        - [Rps.swift]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Rps.swift") - Wed Sep 18 2024
+            - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/paper.imageset/Contents.json") - Thu Sep 19 2024
+            - [paper.png]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/paper.imageset/paper.png") - Thu Sep 19 2024
+          - [ready.imageset]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/ready.imageset")
+            - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/ready.imageset/Contents.json") - Thu Sep 19 2024
+            - [ready.png]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/ready.imageset/ready.png") - Thu Sep 19 2024
+          - [AppIcon.appiconset/Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/AppIcon.appiconset/Contents.json") - Thu Sep 19 2024
+          - [rock.imageset]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/rock.imageset")
+            - [rock.png]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/rock.imageset/rock.png") - Thu Sep 19 2024
+            - [Contents.json]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/Assets.xcassets/rock.imageset/Contents.json") - Thu Sep 19 2024
+        - [AppDelegate.swift]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame/AppDelegate.swift") - Thu Sep 19 2024
       - [RPSGame.xcodeproj]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj")
-        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Wed Sep 18 2024
         - [project.xcworkspace]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.xcworkspace")
-          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Wed Sep 18 2024
-          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Wed Sep 18 2024
-          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Wed Sep 18 2024
-        - [project.pbxproj]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.pbxproj") - Wed Sep 18 2024
+          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Thu Sep 19 2024
+          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Thu Sep 19 2024
+          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Thu Sep 19 2024
+        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Thu Sep 19 2024
+        - [project.pbxproj]("./Swift/2024.02/2024.02.09/RPSGame/RPSGame.xcodeproj/project.pbxproj") - Thu Sep 19 2024
     - [DiceGame]("./Swift/2024.02/2024.02.09/DiceGame")
-      - [DiceGame.xcodeproj]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj")
-        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Wed Sep 18 2024
-        - [project.xcworkspace]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.xcworkspace")
-          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Wed Sep 18 2024
-          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Wed Sep 18 2024
-          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Wed Sep 18 2024
-        - [project.pbxproj]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.pbxproj") - Wed Sep 18 2024
       - [DiceGame]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame")
         - [Base.lproj]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Base.lproj")
-          - [LaunchScreen.storyboard]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Base.lproj/LaunchScreen.storyboard") - Wed Sep 18 2024
-          - [Main.storyboard]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Base.lproj/Main.storyboard") - Wed Sep 18 2024
-        - [SceneDelegate.swift]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/SceneDelegate.swift") - Wed Sep 18 2024
+          - [LaunchScreen.storyboard]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Base.lproj/LaunchScreen.storyboard") - Thu Sep 19 2024
+          - [Main.storyboard]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Base.lproj/Main.storyboard") - Thu Sep 19 2024
+        - [ViewController.swift]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/ViewController.swift") - Thu Sep 19 2024
+        - [SceneDelegate.swift]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/SceneDelegate.swift") - Thu Sep 19 2024
+        - [Info.plist]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Info.plist") - Thu Sep 19 2024
         - [Assets.xcassets]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets")
-          - [black2.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black2.imageset")
-            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black2.imageset/Contents.json") - Wed Sep 18 2024
-            - [black2.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black2.imageset/black2.png") - Wed Sep 18 2024
-          - [AccentColor.colorset/Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/AccentColor.colorset/Contents.json") - Wed Sep 18 2024
-          - [black5.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black5.imageset")
-            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black5.imageset/Contents.json") - Wed Sep 18 2024
-            - [black5.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black5.imageset/black5.png") - Wed Sep 18 2024
-          - [black3.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black3.imageset")
-            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black3.imageset/Contents.json") - Wed Sep 18 2024
-            - [black3.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black3.imageset/black3.png") - Wed Sep 18 2024
-          - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/Contents.json") - Wed Sep 18 2024
-          - [black6.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black6.imageset")
-            - [black6.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black6.imageset/black6.png") - Wed Sep 18 2024
-            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black6.imageset/Contents.json") - Wed Sep 18 2024
           - [black1.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black1.imageset")
-            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black1.imageset/Contents.json") - Wed Sep 18 2024
-            - [black1.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black1.imageset/black1.png") - Wed Sep 18 2024
-          - [AppIcon.appiconset/Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/AppIcon.appiconset/Contents.json") - Wed Sep 18 2024
+            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black1.imageset/Contents.json") - Thu Sep 19 2024
+            - [black1.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black1.imageset/black1.png") - Thu Sep 19 2024
+          - [black5.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black5.imageset")
+            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black5.imageset/Contents.json") - Thu Sep 19 2024
+            - [black5.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black5.imageset/black5.png") - Thu Sep 19 2024
+          - [black2.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black2.imageset")
+            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black2.imageset/Contents.json") - Thu Sep 19 2024
+            - [black2.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black2.imageset/black2.png") - Thu Sep 19 2024
+          - [AccentColor.colorset/Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/AccentColor.colorset/Contents.json") - Thu Sep 19 2024
+          - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/Contents.json") - Thu Sep 19 2024
+          - [AppIcon.appiconset/Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/AppIcon.appiconset/Contents.json") - Thu Sep 19 2024
           - [black4.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black4.imageset")
-            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black4.imageset/Contents.json") - Wed Sep 18 2024
-            - [black4.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black4.imageset/black4.png") - Wed Sep 18 2024
-        - [Info.plist]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Info.plist") - Wed Sep 18 2024
-        - [AppDelegate.swift]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/AppDelegate.swift") - Wed Sep 18 2024
-        - [ViewController.swift]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/ViewController.swift") - Wed Sep 18 2024
-  - [2024.02.07/2024.02.07.md]("./Swift/2024.02/2024.02.07/2024.02.07.md") - Wed Sep 18 2024
-  - [2024.02.06/2024.02.06.md]("./Swift/2024.02/2024.02.06/2024.02.06.md") - Wed Sep 18 2024
-  - [2024.02.08/Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.08/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
-  - [2024.02.12/Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.12/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
+            - [black4.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black4.imageset/black4.png") - Thu Sep 19 2024
+            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black4.imageset/Contents.json") - Thu Sep 19 2024
+          - [black6.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black6.imageset")
+            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black6.imageset/Contents.json") - Thu Sep 19 2024
+            - [black6.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black6.imageset/black6.png") - Thu Sep 19 2024
+          - [black3.imageset]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black3.imageset")
+            - [Contents.json]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black3.imageset/Contents.json") - Thu Sep 19 2024
+            - [black3.png]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/Assets.xcassets/black3.imageset/black3.png") - Thu Sep 19 2024
+        - [AppDelegate.swift]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame/AppDelegate.swift") - Thu Sep 19 2024
+      - [DiceGame.xcodeproj]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj")
+        - [project.xcworkspace]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.xcworkspace")
+          - [xcshareddata/IDEWorkspaceChecks.plist]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist") - Thu Sep 19 2024
+          - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Thu Sep 19 2024
+          - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.xcworkspace/contents.xcworkspacedata") - Thu Sep 19 2024
+        - [xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/xcuserdata/gimjieun.xcuserdatad/xcschemes/xcschememanagement.plist") - Thu Sep 19 2024
+        - [project.pbxproj]("./Swift/2024.02/2024.02.09/DiceGame/DiceGame.xcodeproj/project.pbxproj") - Thu Sep 19 2024
+  - [2024.02.18]("./Swift/2024.02/2024.02.18")
+    - [2024.02.18.md]("./Swift/2024.02/2024.02.18/2024.02.18.md") - Thu Sep 19 2024
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.18/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
+  - [2024.02.28/2024.02.28.md]("./Swift/2024.02/2024.02.28/2024.02.28.md") - Thu Sep 19 2024
+  - [2024.02.02/2024.02.02.md]("./Swift/2024.02/2024.02.02/2024.02.02.md") - Thu Sep 19 2024
+  - [2024.02.21/2024.02.21.md]("./Swift/2024.02/2024.02.21/2024.02.21.md") - Thu Sep 19 2024
   - [2024.02.03]("./Swift/2024.02/2024.02.03")
-    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.03/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
-    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.03/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
-  - [2024.02.16/2024.02.16.md]("./Swift/2024.02/2024.02.16/2024.02.16.md") - Wed Sep 18 2024
-  - [2024.02.04]("./Swift/2024.02/2024.02.04")
-    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.04/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
-    - [Factorial.playground]("./Swift/2024.02/2024.02.04/Factorial.playground")
-      - [contents.xcplayground]("./Swift/2024.02/2024.02.04/Factorial.playground/contents.xcplayground") - Wed Sep 18 2024
-      - [Contents.swift]("./Swift/2024.02/2024.02.04/Factorial.playground/Contents.swift") - Wed Sep 18 2024
-      - [playground.xcworkspace]("./Swift/2024.02/2024.02.04/Factorial.playground/playground.xcworkspace")
-        - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.04/Factorial.playground/playground.xcworkspace/contents.xcworkspacedata") - Wed Sep 18 2024
-        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.04/Factorial.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Wed Sep 18 2024
-    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.04/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
-    - [PrimeNumber.playground]("./Swift/2024.02/2024.02.04/PrimeNumber.playground")
-      - [contents.xcplayground]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/contents.xcplayground") - Wed Sep 18 2024
-      - [Contents.swift]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/Contents.swift") - Wed Sep 18 2024
-      - [playground.xcworkspace]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/playground.xcworkspace")
-        - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/playground.xcworkspace/contents.xcworkspacedata") - Wed Sep 18 2024
-        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Wed Sep 18 2024
-  - [2024.02.19/2024.02.19.md]("./Swift/2024.02/2024.02.19/2024.02.19.md") - Wed Sep 18 2024
-  - [2024.02.01]("./Swift/2024.02/2024.02.01")
-    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.01/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
-    - [2024.02.01.md]("./Swift/2024.02/2024.02.01/2024.02.01.md") - Wed Sep 18 2024
-  - [2024.02.02/2024.02.02.md]("./Swift/2024.02/2024.02.02/2024.02.02.md") - Wed Sep 18 2024
-  - [2024.02.05]("./Swift/2024.02/2024.02.05")
-    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.05/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
-    - [2024.02.05.md]("./Swift/2024.02/2024.02.05/2024.02.05.md") - Wed Sep 18 2024
-  - [2024.02.21/2024.02.21.md]("./Swift/2024.02/2024.02.21/2024.02.21.md") - Wed Sep 18 2024
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.03/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.03/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
   - [2024.02.17]("./Swift/2024.02/2024.02.17")
-    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.17/Swift_마스터_스쿨_30기.md") - Wed Sep 18 2024
-    - [2024.02.17.md]("./Swift/2024.02/2024.02.17/2024.02.17.md") - Wed Sep 18 2024
-  - [2024.02.23/2024.02.23.md]("./Swift/2024.02/2024.02.23/2024.02.23.md") - Wed Sep 18 2024
-  - [2024.02.26/2024.02.26.md]("./Swift/2024.02/2024.02.26/2024.02.26.md") - Wed Sep 18 2024
-  - [2024.02.29/2024.02.29.md]("./Swift/2024.02/2024.02.29/2024.02.29.md") - Wed Sep 18 2024
-  - [2024.02.28/2024.02.28.md]("./Swift/2024.02/2024.02.28/2024.02.28.md") - Wed Sep 18 2024
-- [앱 이름 로컬라이징.md]("./Swift/앱_이름_로컬라이징.md") - Wed Sep 18 2024
-- [Data Access.md]("./Swift/Data_Access.md") - Wed Sep 18 2024
-- [About Swift.md]("./Swift/About_Swift.md") - Wed Sep 18 2024
-- [Singleton.md]("./Swift/Singleton.md") - Wed Sep 18 2024
-- [urlCache.md]("./Swift/urlCache.md") - Wed Sep 18 2024
-- [iOS Jailbreak(iOS 탈옥).md]("./Swift/iOS_Jailbreak(iOS_탈옥).md") - Wed Sep 18 2024
-- [Notification Service 추가 시.md]("./Swift/Notification_Service_추가_시.md") - Wed Sep 18 2024
+    - [2024.02.17.md]("./Swift/2024.02/2024.02.17/2024.02.17.md") - Thu Sep 19 2024
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.17/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
+  - [2024.02.04]("./Swift/2024.02/2024.02.04")
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.04/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
+    - [Factorial.playground]("./Swift/2024.02/2024.02.04/Factorial.playground")
+      - [contents.xcplayground]("./Swift/2024.02/2024.02.04/Factorial.playground/contents.xcplayground") - Thu Sep 19 2024
+      - [playground.xcworkspace]("./Swift/2024.02/2024.02.04/Factorial.playground/playground.xcworkspace")
+        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.04/Factorial.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Thu Sep 19 2024
+        - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.04/Factorial.playground/playground.xcworkspace/contents.xcworkspacedata") - Thu Sep 19 2024
+      - [Contents.swift]("./Swift/2024.02/2024.02.04/Factorial.playground/Contents.swift") - Thu Sep 19 2024
+    - [PrimeNumber.playground]("./Swift/2024.02/2024.02.04/PrimeNumber.playground")
+      - [contents.xcplayground]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/contents.xcplayground") - Thu Sep 19 2024
+      - [playground.xcworkspace]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/playground.xcworkspace")
+        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Thu Sep 19 2024
+        - [contents.xcworkspacedata]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/playground.xcworkspace/contents.xcworkspacedata") - Thu Sep 19 2024
+      - [Contents.swift]("./Swift/2024.02/2024.02.04/PrimeNumber.playground/Contents.swift") - Thu Sep 19 2024
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.04/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
+  - [2024.02.22/2024.02.22.md]("./Swift/2024.02/2024.02.22/2024.02.22.md") - Thu Sep 19 2024
+  - [2024.02.20/2024.02.20.md]("./Swift/2024.02/2024.02.20/2024.02.20.md") - Thu Sep 19 2024
+  - [2024.02.11/2024.02.11.md]("./Swift/2024.02/2024.02.11/2024.02.11.md") - Thu Sep 19 2024
+  - [2024.02.19/2024.02.19.md]("./Swift/2024.02/2024.02.19/2024.02.19.md") - Thu Sep 19 2024
+  - [2024.02.23/2024.02.23.md]("./Swift/2024.02/2024.02.23/2024.02.23.md") - Thu Sep 19 2024
+  - [2024.02.12/Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.12/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
+  - [2024.02.07/2024.02.07.md]("./Swift/2024.02/2024.02.07/2024.02.07.md") - Thu Sep 19 2024
+  - [2024.02.29/2024.02.29.md]("./Swift/2024.02/2024.02.29/2024.02.29.md") - Thu Sep 19 2024
+  - [2024.02.05]("./Swift/2024.02/2024.02.05")
+    - [2024.02.05.md]("./Swift/2024.02/2024.02.05/2024.02.05.md") - Thu Sep 19 2024
+    - [Swift 마스터 스쿨 30기.md]("./Swift/2024.02/2024.02.05/Swift_마스터_스쿨_30기.md") - Thu Sep 19 2024
+  - [2024.02.13/2024.02.13.md]("./Swift/2024.02/2024.02.13/2024.02.13.md") - Thu Sep 19 2024
+  - [2024.02.16/2024.02.16.md]("./Swift/2024.02/2024.02.16/2024.02.16.md") - Thu Sep 19 2024
+- [앱 이름 로컬라이징.md]("./Swift/앱_이름_로컬라이징.md") - Thu Sep 19 2024
+- [Tuist.md]("./Swift/Tuist.md") - Thu Sep 19 2024
+- [Grammar]("./Swift/Grammar")
+  - [Closure.md]("./Swift/Grammar/Closure.md") - Thu Sep 19 2024
+  - [Optional.md]("./Swift/Grammar/Optional.md") - Thu Sep 19 2024
+  - [OOP.md]("./Swift/Grammar/OOP.md") - Thu Sep 19 2024
+  - [Calculation&Repeat.md]("./Swift/Grammar/Calculation&Repeat.md") - Thu Sep 19 2024
+  - [Basic.md]("./Swift/Grammar/Basic.md") - Thu Sep 19 2024
+  - [Property.md]("./Swift/Grammar/Property.md") - Thu Sep 19 2024
+  - [ARC, Memory.md]("./Swift/Grammar/ARC,_Memory.md") - Thu Sep 19 2024
+- [Singleton.md]("./Swift/Singleton.md") - Thu Sep 19 2024
+- [iOS Jailbreak(iOS 탈옥).md]("./Swift/iOS_Jailbreak(iOS_탈옥).md") - Thu Sep 19 2024
 - [2024.01]("./Swift/2024.01")
-  - [2024.01.31]("./Swift/2024.01/2024.01.31")
-    - [2024.01.31.md]("./Swift/2024.01/2024.01.31/2024.01.31.md") - Wed Sep 18 2024
-    - [Swift Master School 30.md]("./Swift/2024.01/2024.01.31/Swift_Master_School_30.md") - Wed Sep 18 2024
   - [2024.01.30]("./Swift/2024.01/2024.01.30")
-    - [Swift Master School 30.md]("./Swift/2024.01/2024.01.30/Swift_Master_School_30.md") - Wed Sep 18 2024
-    - [2024.01.30.md]("./Swift/2024.01/2024.01.30/2024.01.30.md") - Wed Sep 18 2024
-  - [2024.01.29]("./Swift/2024.01/2024.01.29")
-    - [MultiplicationTable.playground]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground")
-      - [contents.xcplayground]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/contents.xcplayground") - Wed Sep 18 2024
-      - [Contents.swift]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/Contents.swift") - Wed Sep 18 2024
-      - [playground.xcworkspace]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/playground.xcworkspace")
-        - [contents.xcworkspacedata]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/playground.xcworkspace/contents.xcworkspacedata") - Wed Sep 18 2024
-        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Wed Sep 18 2024
-    - [Swift Master School 30.md]("./Swift/2024.01/2024.01.29/Swift_Master_School_30.md") - Wed Sep 18 2024
-    - [2024.01.29.md]("./Swift/2024.01/2024.01.29/2024.01.29.md") - Wed Sep 18 2024
-    - [RandomBingo.playground]("./Swift/2024.01/2024.01.29/RandomBingo.playground")
-      - [contents.xcplayground]("./Swift/2024.01/2024.01.29/RandomBingo.playground/contents.xcplayground") - Wed Sep 18 2024
-      - [Contents.swift]("./Swift/2024.01/2024.01.29/RandomBingo.playground/Contents.swift") - Wed Sep 18 2024
-      - [playground.xcworkspace]("./Swift/2024.01/2024.01.29/RandomBingo.playground/playground.xcworkspace")
-        - [contents.xcworkspacedata]("./Swift/2024.01/2024.01.29/RandomBingo.playground/playground.xcworkspace/contents.xcworkspacedata") - Wed Sep 18 2024
-        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.01/2024.01.29/RandomBingo.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Wed Sep 18 2024
-    - [RockPaperScissors.playground]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground")
-      - [contents.xcplayground]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/contents.xcplayground") - Wed Sep 18 2024
-      - [Contents.swift]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/Contents.swift") - Wed Sep 18 2024
-      - [playground.xcworkspace]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/playground.xcworkspace")
-        - [contents.xcworkspacedata]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/playground.xcworkspace/contents.xcworkspacedata") - Wed Sep 18 2024
-        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Wed Sep 18 2024
+    - [2024.01.30.md]("./Swift/2024.01/2024.01.30/2024.01.30.md") - Thu Sep 19 2024
+    - [Swift Master School 30.md]("./Swift/2024.01/2024.01.30/Swift_Master_School_30.md") - Thu Sep 19 2024
   - [2024.01.28]("./Swift/2024.01/2024.01.28")
-    - [Swift Master School 30.md]("./Swift/2024.01/2024.01.28/Swift_Master_School_30.md") - Wed Sep 18 2024
-    - [2024.01.28.md]("./Swift/2024.01/2024.01.28/2024.01.28.md") - Wed Sep 18 2024
-- [SwiftLint.md]("./Swift/SwiftLint.md") - Wed Sep 18 2024
-- [RxSwift.md]("./Swift/RxSwift.md") - Wed Sep 18 2024
-- [Tuist.md]("./Swift/Tuist.md") - Wed Sep 18 2024
-- [딥링크.md]("./Swift/딥링크.md") - Wed Sep 18 2024
-- [Firebase.md]("./Swift/Firebase.md") - Wed Sep 18 2024
+    - [2024.01.28.md]("./Swift/2024.01/2024.01.28/2024.01.28.md") - Thu Sep 19 2024
+    - [Swift Master School 30.md]("./Swift/2024.01/2024.01.28/Swift_Master_School_30.md") - Thu Sep 19 2024
+  - [2024.01.31]("./Swift/2024.01/2024.01.31")
+    - [2024.01.31.md]("./Swift/2024.01/2024.01.31/2024.01.31.md") - Thu Sep 19 2024
+    - [Swift Master School 30.md]("./Swift/2024.01/2024.01.31/Swift_Master_School_30.md") - Thu Sep 19 2024
+  - [2024.01.29]("./Swift/2024.01/2024.01.29")
+    - [RandomBingo.playground]("./Swift/2024.01/2024.01.29/RandomBingo.playground")
+      - [contents.xcplayground]("./Swift/2024.01/2024.01.29/RandomBingo.playground/contents.xcplayground") - Thu Sep 19 2024
+      - [playground.xcworkspace]("./Swift/2024.01/2024.01.29/RandomBingo.playground/playground.xcworkspace")
+        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.01/2024.01.29/RandomBingo.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Thu Sep 19 2024
+        - [contents.xcworkspacedata]("./Swift/2024.01/2024.01.29/RandomBingo.playground/playground.xcworkspace/contents.xcworkspacedata") - Thu Sep 19 2024
+      - [Contents.swift]("./Swift/2024.01/2024.01.29/RandomBingo.playground/Contents.swift") - Thu Sep 19 2024
+    - [RockPaperScissors.playground]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground")
+      - [contents.xcplayground]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/contents.xcplayground") - Thu Sep 19 2024
+      - [playground.xcworkspace]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/playground.xcworkspace")
+        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Thu Sep 19 2024
+        - [contents.xcworkspacedata]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/playground.xcworkspace/contents.xcworkspacedata") - Thu Sep 19 2024
+      - [Contents.swift]("./Swift/2024.01/2024.01.29/RockPaperScissors.playground/Contents.swift") - Thu Sep 19 2024
+    - [2024.01.29.md]("./Swift/2024.01/2024.01.29/2024.01.29.md") - Thu Sep 19 2024
+    - [Swift Master School 30.md]("./Swift/2024.01/2024.01.29/Swift_Master_School_30.md") - Thu Sep 19 2024
+    - [MultiplicationTable.playground]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground")
+      - [contents.xcplayground]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/contents.xcplayground") - Thu Sep 19 2024
+      - [playground.xcworkspace]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/playground.xcworkspace")
+        - [xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/playground.xcworkspace/xcuserdata/gimjieun.xcuserdatad/UserInterfaceState.xcuserstate") - Thu Sep 19 2024
+        - [contents.xcworkspacedata]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/playground.xcworkspace/contents.xcworkspacedata") - Thu Sep 19 2024
+      - [Contents.swift]("./Swift/2024.01/2024.01.29/MultiplicationTable.playground/Contents.swift") - Thu Sep 19 2024
+- [Firebase.md]("./Swift/Firebase.md") - Thu Sep 19 2024
+- [딥링크.md]("./Swift/딥링크.md") - Thu Sep 19 2024
+- [Data Access.md]("./Swift/Data_Access.md") - Thu Sep 19 2024
+- [SwiftLint.md]("./Swift/SwiftLint.md") - Thu Sep 19 2024
 - [2024.03]("./Swift/2024.03")
-  - [2024.03.06.md]("./Swift/2024.03/2024.03.06.md") - Wed Sep 18 2024
-  - [2024.03.08.md]("./Swift/2024.03/2024.03.08.md") - Wed Sep 18 2024
-  - [2024.03.04.md]("./Swift/2024.03/2024.03.04.md") - Wed Sep 18 2024
-  - [2024.03.13.md]("./Swift/2024.03/2024.03.13.md") - Wed Sep 18 2024
-  - [2024.03.12.md]("./Swift/2024.03/2024.03.12.md") - Wed Sep 18 2024
-  - [2024.03.09.md]("./Swift/2024.03/2024.03.09.md") - Wed Sep 18 2024
-  - [2024.03.02.md]("./Swift/2024.03/2024.03.02.md") - Wed Sep 18 2024
-
-### [Library/Alamofire.md]({#Library/Alamofire.md})
+  - [2024.03.08.md]("./Swift/2024.03/2024.03.08.md") - Thu Sep 19 2024
+  - [2024.03.06.md]("./Swift/2024.03/2024.03.06.md") - Thu Sep 19 2024
+  - [2024.03.13.md]("./Swift/2024.03/2024.03.13.md") - Thu Sep 19 2024
+  - [2024.03.04.md]("./Swift/2024.03/2024.03.04.md") - Thu Sep 19 2024
+  - [2024.03.09.md]("./Swift/2024.03/2024.03.09.md") - Thu Sep 19 2024
+  - [2024.03.12.md]("./Swift/2024.03/2024.03.12.md") - Thu Sep 19 2024
+  - [2024.03.02.md]("./Swift/2024.03/2024.03.02.md") - Thu Sep 19 2024
+- [ARKit 증강현실.md]("./Swift/ARKit_증강현실.md") - Thu Sep 19 2024
+- [About Swift.md]("./Swift/About_Swift.md") - Thu Sep 19 2024
+- [Notification Service 추가 시.md]("./Swift/Notification_Service_추가_시.md") - Thu Sep 19 2024
 
 ### [Link.md]({#Link.md})
 
-### [BackEnd]({#BackEnd})
-- [Java 클래스 소개.md]("./BackEnd/Java_클래스_소개.md") - Wed Sep 18 2024
-- [Java 다형성.md]("./BackEnd/Java_다형성.md") - Wed Sep 18 2024
-- [PyMongo.md]("./BackEnd/PyMongo.md") - Wed Sep 18 2024
-- [FastAPI.md]("./BackEnd/FastAPI.md") - Wed Sep 18 2024
-- [Java 클래스와 객체.md]("./BackEnd/Java_클래스와_객체.md") - Wed Sep 18 2024
-- [Java static과 변수 유효범위.md]("./BackEnd/Java_static과_변수_유효범위.md") - Wed Sep 18 2024
-- [Java 자기 자신을 가르키는 “this”.md]("./BackEnd/Java_자기_자신을_가르키는_“this”.md") - Wed Sep 18 2024
-- [Java array 복사와 다차원 array.md]("./BackEnd/Java_array_복사와_다차원_array.md") - Wed Sep 18 2024
-- [데이터베이스를 시각적으로 볼 수 있는 ERD.md]("./BackEnd/데이터베이스를_시각적으로_볼_수_있는_ERD.md") - Wed Sep 18 2024
-- [Web Socket.md]("./BackEnd/Web_Socket.md") - Wed Sep 18 2024
-- [Java Class 정보은닉.md]("./BackEnd/Java_Class_정보은닉.md") - Wed Sep 18 2024
-- [컴퓨터 간단 구조.md]("./BackEnd/컴퓨터_간단_구조.md") - Wed Sep 18 2024
-- [데이터베이스.md]("./BackEnd/데이터베이스.md") - Wed Sep 18 2024
-- [HelloWorld]("./BackEnd/HelloWorld")
-  - [.idea]("./BackEnd/HelloWorld/.idea")
-    - [misc.xml]("./BackEnd/HelloWorld/.idea/misc.xml") - Wed Sep 18 2024
-    - [.gitignore]("./BackEnd/HelloWorld/.idea/.gitignore") - Wed Sep 18 2024
-    - [modules.xml]("./BackEnd/HelloWorld/.idea/modules.xml") - Wed Sep 18 2024
-    - [uiDesigner.xml]("./BackEnd/HelloWorld/.idea/uiDesigner.xml") - Wed Sep 18 2024
-    - [vcs.xml]("./BackEnd/HelloWorld/.idea/vcs.xml") - Wed Sep 18 2024
-  - [.gitignore]("./BackEnd/HelloWorld/.gitignore") - Wed Sep 18 2024
-  - [HelloWorld.iml]("./BackEnd/HelloWorld/HelloWorld.iml") - Wed Sep 18 2024
-  - [src]("./BackEnd/HelloWorld/src")
-    - [chapter_19]("./BackEnd/HelloWorld/src/chapter_19")
-      - [ThreeSixNineGame.java]("./BackEnd/HelloWorld/src/chapter_19/ThreeSixNineGame.java") - Wed Sep 18 2024
-      - [OddNumberTotal.java]("./BackEnd/HelloWorld/src/chapter_19/OddNumberTotal.java") - Wed Sep 18 2024
-      - [EndlessLoop.java]("./BackEnd/HelloWorld/src/chapter_19/EndlessLoop.java") - Wed Sep 18 2024
-      - [starTriangle.java]("./BackEnd/HelloWorld/src/chapter_19/starTriangle.java") - Wed Sep 18 2024
-      - [Gugudan.java]("./BackEnd/HelloWorld/src/chapter_19/Gugudan.java") - Wed Sep 18 2024
-      - [Break.java]("./BackEnd/HelloWorld/src/chapter_19/Break.java") - Wed Sep 18 2024
-    - [chapter_31]("./BackEnd/HelloWorld/src/chapter_31")
-      - [FishChild.java]("./BackEnd/HelloWorld/src/chapter_31/FishChild.java") - Wed Sep 18 2024
-      - [SeaSituation.java]("./BackEnd/HelloWorld/src/chapter_31/SeaSituation.java") - Wed Sep 18 2024
-      - [Fish.java]("./BackEnd/HelloWorld/src/chapter_31/Fish.java") - Wed Sep 18 2024
-    - [chapter_18]("./BackEnd/HelloWorld/src/chapter_18")
-      - [ForLoop.java]("./BackEnd/HelloWorld/src/chapter_18/ForLoop.java") - Wed Sep 18 2024
-      - [Operator.java]("./BackEnd/HelloWorld/src/chapter_18/Operator.java") - Wed Sep 18 2024
-      - [WhileLoop.java]("./BackEnd/HelloWorld/src/chapter_18/WhileLoop.java") - Wed Sep 18 2024
-    - [chapter_14]("./BackEnd/HelloWorld/src/chapter_14")
-      - [StringFormat.java]("./BackEnd/HelloWorld/src/chapter_14/StringFormat.java") - Wed Sep 18 2024
-      - [Encoding.java]("./BackEnd/HelloWorld/src/chapter_14/Encoding.java") - Wed Sep 18 2024
-    - [chapter_30]("./BackEnd/HelloWorld/src/chapter_30")
-      - [StaticTest.java]("./BackEnd/HelloWorld/src/chapter_30/StaticTest.java") - Wed Sep 18 2024
-      - [Student.java]("./BackEnd/HelloWorld/src/chapter_30/Student.java") - Wed Sep 18 2024
-    - [chapter_20]("./BackEnd/HelloWorld/src/chapter_20")
-      - [ArrayIndex.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayIndex.java") - Wed Sep 18 2024
-      - [ArrayFor.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayFor.java") - Wed Sep 18 2024
-      - [ArrayDeclaration.java]("./BackEnd/HelloWorld/src/chapter_20/ArrayDeclaration.java") - Wed Sep 18 2024
-    - [chapter_29]("./BackEnd/HelloWorld/src/chapter_29")
-      - [Customer.java]("./BackEnd/HelloWorld/src/chapter_29/Customer.java") - Wed Sep 18 2024
-      - [Coffee.java]("./BackEnd/HelloWorld/src/chapter_29/Coffee.java") - Wed Sep 18 2024
-      - [Casher.java]("./BackEnd/HelloWorld/src/chapter_29/Casher.java") - Wed Sep 18 2024
-      - [CoffeeShopSituation.java]("./BackEnd/HelloWorld/src/chapter_29/CoffeeShopSituation.java") - Wed Sep 18 2024
-      - [Barista.java]("./BackEnd/HelloWorld/src/chapter_29/Barista.java") - Wed Sep 18 2024
-    - [chapter_15]("./BackEnd/HelloWorld/src/chapter_15")
-      - [Literal.java]("./BackEnd/HelloWorld/src/chapter_15/Literal.java") - Wed Sep 18 2024
-      - [SymbolicConstant.java]("./BackEnd/HelloWorld/src/chapter_15/SymbolicConstant.java") - Wed Sep 18 2024
-    - [chapter_33]("./BackEnd/HelloWorld/src/chapter_33")
-      - [AnimalCasting.java]("./BackEnd/HelloWorld/src/chapter_33/AnimalCasting.java") - Wed Sep 18 2024
-      - [Animal.java]("./BackEnd/HelloWorld/src/chapter_33/Animal.java") - Wed Sep 18 2024
-      - [Person.java]("./BackEnd/HelloWorld/src/chapter_33/Person.java") - Wed Sep 18 2024
-      - [Bird.java]("./BackEnd/HelloWorld/src/chapter_33/Bird.java") - Wed Sep 18 2024
-      - [AnimalDownCasting.java]("./BackEnd/HelloWorld/src/chapter_33/AnimalDownCasting.java") - Wed Sep 18 2024
-      - [AnimalTest.java]("./BackEnd/HelloWorld/src/chapter_33/AnimalTest.java") - Wed Sep 18 2024
-      - [Fish.java]("./BackEnd/HelloWorld/src/chapter_33/Fish.java") - Wed Sep 18 2024
-    - [mission]("./BackEnd/HelloWorld/src/mission")
-      - [ChuncheonTicket1.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket1.java") - Wed Sep 18 2024
-      - [ChuncheonTicket3.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket3.java") - Wed Sep 18 2024
-      - [ChuncheonTicket2.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket2.java") - Wed Sep 18 2024
-    - [chapter_17]("./BackEnd/HelloWorld/src/chapter_17")
-      - [ParkingLotMission.java]("./BackEnd/HelloWorld/src/chapter_17/ParkingLotMission.java") - Wed Sep 18 2024
-      - [Taxi.java]("./BackEnd/HelloWorld/src/chapter_17/Taxi.java") - Wed Sep 18 2024
-      - [Medal.java]("./BackEnd/HelloWorld/src/chapter_17/Medal.java") - Wed Sep 18 2024
-      - [StarbucksCoupon.java]("./BackEnd/HelloWorld/src/chapter_17/StarbucksCoupon.java") - Wed Sep 18 2024
-    - [chapter_24]("./BackEnd/HelloWorld/src/chapter_24")
-      - [Scores.java]("./BackEnd/HelloWorld/src/chapter_24/Scores.java") - Wed Sep 18 2024
-      - [MethodExamples.java]("./BackEnd/HelloWorld/src/chapter_24/MethodExamples.java") - Wed Sep 18 2024
-    - [chapter_34]("./BackEnd/HelloWorld/src/chapter_34")
-      - [Customer.java]("./BackEnd/HelloWorld/src/chapter_34/Customer.java") - Wed Sep 18 2024
-      - [Test.java]("./BackEnd/HelloWorld/src/chapter_34/Test.java") - Wed Sep 18 2024
-      - [DepartmentStoreSituation.java]("./BackEnd/HelloWorld/src/chapter_34/DepartmentStoreSituation.java") - Wed Sep 18 2024
-      - [VIPCustomer.java]("./BackEnd/HelloWorld/src/chapter_34/VIPCustomer.java") - Wed Sep 18 2024
-      - [Staff.java]("./BackEnd/HelloWorld/src/chapter_34/Staff.java") - Wed Sep 18 2024
-      - [GolderCustomer.java]("./BackEnd/HelloWorld/src/chapter_34/GolderCustomer.java") - Wed Sep 18 2024
-    - [chapter_28]("./BackEnd/HelloWorld/src/chapter_28")
-      - [Subject.java]("./BackEnd/HelloWorld/src/chapter_28/Subject.java") - Wed Sep 18 2024
-      - [ThisTest.java]("./BackEnd/HelloWorld/src/chapter_28/ThisTest.java") - Wed Sep 18 2024
-      - [Person.java]("./BackEnd/HelloWorld/src/chapter_28/Person.java") - Wed Sep 18 2024
-      - [Student.java]("./BackEnd/HelloWorld/src/chapter_28/Student.java") - Wed Sep 18 2024
-      - [BirthDay.java]("./BackEnd/HelloWorld/src/chapter_28/BirthDay.java") - Wed Sep 18 2024
-      - [Teacher.java]("./BackEnd/HelloWorld/src/chapter_28/Teacher.java") - Wed Sep 18 2024
-    - [chapter_21]("./BackEnd/HelloWorld/src/chapter_21")
-      - [TwoDimensionAdd.java]("./BackEnd/HelloWorld/src/chapter_21/TwoDimensionAdd.java") - Wed Sep 18 2024
-      - [ArrayCopy.java]("./BackEnd/HelloWorld/src/chapter_21/ArrayCopy.java") - Wed Sep 18 2024
-      - [CmdLineArgs.java]("./BackEnd/HelloWorld/src/chapter_21/CmdLineArgs.java") - Wed Sep 18 2024
-      - [TwoDimensionArrayCopy.java]("./BackEnd/HelloWorld/src/chapter_21/TwoDimensionArrayCopy.java") - Wed Sep 18 2024
-      - [TwoDimensionArray1.java]("./BackEnd/HelloWorld/src/chapter_21/TwoDimensionArray1.java") - Wed Sep 18 2024
-      - [DiamondTask.java]("./BackEnd/HelloWorld/src/chapter_21/DiamondTask.java") - Wed Sep 18 2024
-      - [ArrayCopyTwo.java]("./BackEnd/HelloWorld/src/chapter_21/ArrayCopyTwo.java") - Wed Sep 18 2024
-    - [chapter_32/fish]("./BackEnd/HelloWorld/src/chapter_32/fish")
-      - [FishChild.java]("./BackEnd/HelloWorld/src/chapter_32/fish/FishChild.java") - Wed Sep 18 2024
-      - [SeaSituation.java]("./BackEnd/HelloWorld/src/chapter_32/fish/SeaSituation.java") - Wed Sep 18 2024
-      - [Fish.java]("./BackEnd/HelloWorld/src/chapter_32/fish/Fish.java") - Wed Sep 18 2024
-    - [chapter_13]("./BackEnd/HelloWorld/src/chapter_13")
-      - [ExplicitCasting.java]("./BackEnd/HelloWorld/src/chapter_13/ExplicitCasting.java") - Wed Sep 18 2024
-      - [ImplicitCasting2.java]("./BackEnd/HelloWorld/src/chapter_13/ImplicitCasting2.java") - Wed Sep 18 2024
-      - [FloatRange.java]("./BackEnd/HelloWorld/src/chapter_13/FloatRange.java") - Wed Sep 18 2024
-      - [ImplicitCasting1.java]("./BackEnd/HelloWorld/src/chapter_13/ImplicitCasting1.java") - Wed Sep 18 2024
-      - [IntegerRange.java]("./BackEnd/HelloWorld/src/chapter_13/IntegerRange.java") - Wed Sep 18 2024
-    - [chapter_27]("./BackEnd/HelloWorld/src/chapter_27")
-      - [packageOne]("./BackEnd/HelloWorld/src/chapter_27/packageOne")
-        - [ClassA.java]("./BackEnd/HelloWorld/src/chapter_27/packageOne/ClassA.java") - Wed Sep 18 2024
-        - [ClassAA.java]("./BackEnd/HelloWorld/src/chapter_27/packageOne/ClassAA.java") - Wed Sep 18 2024
-      - [Subject.java]("./BackEnd/HelloWorld/src/chapter_27/Subject.java") - Wed Sep 18 2024
-      - [Student.java]("./BackEnd/HelloWorld/src/chapter_27/Student.java") - Wed Sep 18 2024
-      - [packageTwo/ClassB.java]("./BackEnd/HelloWorld/src/chapter_27/packageTwo/ClassB.java") - Wed Sep 18 2024
-      - [Teacher.java]("./BackEnd/HelloWorld/src/chapter_27/Teacher.java") - Wed Sep 18 2024
-    - [chapter_16]("./BackEnd/HelloWorld/src/chapter_16")
-      - [AvocadoSituation.java]("./BackEnd/HelloWorld/src/chapter_16/AvocadoSituation.java") - Wed Sep 18 2024
-      - [avocardo.png]("./BackEnd/HelloWorld/src/chapter_16/avocardo.png") - Wed Sep 18 2024
-    - [chapter_25]("./BackEnd/HelloWorld/src/chapter_25")
-      - [Test.java]("./BackEnd/HelloWorld/src/chapter_25/Test.java") - Wed Sep 18 2024
-      - [Subject.java]("./BackEnd/HelloWorld/src/chapter_25/Subject.java") - Wed Sep 18 2024
-      - [Desk.java]("./BackEnd/HelloWorld/src/chapter_25/Desk.java") - Wed Sep 18 2024
-      - [Student.java]("./BackEnd/HelloWorld/src/chapter_25/Student.java") - Wed Sep 18 2024
-      - [Fish.java]("./BackEnd/HelloWorld/src/chapter_25/Fish.java") - Wed Sep 18 2024
-      - [Teacher.java]("./BackEnd/HelloWorld/src/chapter_25/Teacher.java") - Wed Sep 18 2024
-    - [chapter_26]("./BackEnd/HelloWorld/src/chapter_26")
-      - [Question.java]("./BackEnd/HelloWorld/src/chapter_26/Question.java") - Wed Sep 18 2024
-      - [InstanceTest.java]("./BackEnd/HelloWorld/src/chapter_26/InstanceTest.java") - Wed Sep 18 2024
-      - [ClassroomDay.java]("./BackEnd/HelloWorld/src/chapter_26/ClassroomDay.java") - Wed Sep 18 2024
-    - [Question/NaverCloud]("./BackEnd/HelloWorld/src/Question/NaverCloud")
-      - [Week2Day2]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2")
-        - [Main1.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Main1.java") - Wed Sep 18 2024
-        - [StudentManagementSystem.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/StudentManagementSystem.java") - Wed Sep 18 2024
-        - [Student.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day2/Student.java") - Wed Sep 18 2024
-      - [Week2Day3]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day3")
-        - [StudentScore.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day3/StudentScore.java") - Wed Sep 18 2024
-        - [Main.java]("./BackEnd/HelloWorld/src/Question/NaverCloud/Week2Day3/Main.java") - Wed Sep 18 2024
-    - [Main.java]("./BackEnd/HelloWorld/src/Main.java") - Wed Sep 18 2024
-- [Java 문자열.md]("./BackEnd/Java_문자열.md") - Wed Sep 18 2024
-- [Java Type.md]("./BackEnd/Java_Type.md") - Wed Sep 18 2024
-- [Java 반복문.md]("./BackEnd/Java_반복문.md") - Wed Sep 18 2024
-- [서버는 우리를 모른다! Stateless.md]("./BackEnd/서버는_우리를_모른다!_Stateless.md") - Wed Sep 18 2024
-- [Java 메소드.md]("./BackEnd/Java_메소드.md") - Wed Sep 18 2024
-- [BackEnd.md]("./BackEnd/BackEnd.md") - Wed Sep 18 2024
-- [Java?.md]("./BackEnd/Java?.md") - Wed Sep 18 2024
-- [SQL문 기초.md]("./BackEnd/SQL문_기초.md") - Wed Sep 18 2024
-- [Java OOP (= 객체 지향 프로그래밍).md]("./BackEnd/Java_OOP_(=_객체_지향_프로그래밍).md") - Wed Sep 18 2024
-- [API.md]("./BackEnd/API.md") - Wed Sep 18 2024
-- [CRUD.md]("./BackEnd/CRUD.md") - Wed Sep 18 2024
-- [컴퓨터 OS 심화.md]("./BackEnd/컴퓨터_OS_심화.md") - Wed Sep 18 2024
-- [Java 객체 간의 협력.md]("./BackEnd/Java_객체_간의_협력.md") - Wed Sep 18 2024
-- [Java 조건문.md]("./BackEnd/Java_조건문.md") - Wed Sep 18 2024
-- [Java 객체의 상속.md]("./BackEnd/Java_객체의_상속.md") - Wed Sep 18 2024
-- [JAVA 메인 메소드.md]("./BackEnd/JAVA_메인_메소드.md") - Wed Sep 18 2024
-- [Python.md]("./BackEnd/Python.md") - Wed Sep 18 2024
-- [Java array.md]("./BackEnd/Java_array.md") - Wed Sep 18 2024
-- [deta space로 메모앱 배포하기.md]("./BackEnd/deta_space로_메모앱_배포하기.md") - Wed Sep 18 2024
-- [브라우저가 닫혀도 로그인 유지하는 방법.md]("./BackEnd/브라우저가_닫혀도_로그인_유지하는_방법.md") - Wed Sep 18 2024
-- [IntelliJ IDEA.md]("./BackEnd/IntelliJ_IDEA.md") - Wed Sep 18 2024
-- [From 태그와 POST API를 이용해 이미지 저장하기.md]("./BackEnd/From_태그와_POST_API를_이용해_이미지_저장하기.md") - Wed Sep 18 2024
-- [컴퓨터 OS 기본.md]("./BackEnd/컴퓨터_OS_기본.md") - Wed Sep 18 2024
-- [Java 상수와 리터럴.md]("./BackEnd/Java_상수와_리터럴.md") - Wed Sep 18 2024
-- [백엔드에게 정보를 보내는 방식.md]("./BackEnd/백엔드에게_정보를_보내는_방식.md") - Wed Sep 18 2024
+### [Android]({#Android})
+- [ViewPager]("./Android/ViewPager")
+  - [gradlew.bat]("./Android/ViewPager/gradlew.bat") - Thu Sep 19 2024
+  - [gradle]("./Android/ViewPager/gradle")
+    - [libs.versions.toml]("./Android/ViewPager/gradle/libs.versions.toml") - Thu Sep 19 2024
+    - [wrapper]("./Android/ViewPager/gradle/wrapper")
+      - [gradle-wrapper.properties]("./Android/ViewPager/gradle/wrapper/gradle-wrapper.properties") - Thu Sep 19 2024
+      - [gradle-wrapper.jar]("./Android/ViewPager/gradle/wrapper/gradle-wrapper.jar") - Thu Sep 19 2024
+  - [build.gradle]("./Android/ViewPager/build.gradle") - Thu Sep 19 2024
+  - [gradlew]("./Android/ViewPager/gradlew") - Thu Sep 19 2024
+  - [.gitignore]("./Android/ViewPager/.gitignore") - Thu Sep 19 2024
+  - [settings.gradle]("./Android/ViewPager/settings.gradle") - Thu Sep 19 2024
+  - [app]("./Android/ViewPager/app")
+    - [src]("./Android/ViewPager/app/src")
+      - [test/java/com/firstpartners/viewpager/ExampleUnitTest.java]("./Android/ViewPager/app/src/test/java/com/firstpartners/viewpager/ExampleUnitTest.java") - Thu Sep 19 2024
+      - [main]("./Android/ViewPager/app/src/main")
+        - [res]("./Android/ViewPager/app/src/main/res")
+          - [mipmap-xxxhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xxxhdpi")
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp") - Thu Sep 19 2024
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+          - [values]("./Android/ViewPager/app/src/main/res/values")
+            - [strings.xml]("./Android/ViewPager/app/src/main/res/values/strings.xml") - Thu Sep 19 2024
+            - [colors.xml]("./Android/ViewPager/app/src/main/res/values/colors.xml") - Thu Sep 19 2024
+            - [themes.xml]("./Android/ViewPager/app/src/main/res/values/themes.xml") - Thu Sep 19 2024
+          - [mipmap-hdpi]("./Android/ViewPager/app/src/main/res/mipmap-hdpi")
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-hdpi/ic_launcher.webp") - Thu Sep 19 2024
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+          - [drawable]("./Android/ViewPager/app/src/main/res/drawable")
+            - [ic_launcher_foreground.xml]("./Android/ViewPager/app/src/main/res/drawable/ic_launcher_foreground.xml") - Thu Sep 19 2024
+            - [ic_launcher_background.xml]("./Android/ViewPager/app/src/main/res/drawable/ic_launcher_background.xml") - Thu Sep 19 2024
+          - [mipmap-xhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xhdpi")
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xhdpi/ic_launcher.webp") - Thu Sep 19 2024
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+          - [mipmap-anydpi-v26]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26")
+            - [ic_launcher_round.xml]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml") - Thu Sep 19 2024
+            - [ic_launcher.xml]("./Android/ViewPager/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml") - Thu Sep 19 2024
+          - [xml]("./Android/ViewPager/app/src/main/res/xml")
+            - [data_extraction_rules.xml]("./Android/ViewPager/app/src/main/res/xml/data_extraction_rules.xml") - Thu Sep 19 2024
+            - [backup_rules.xml]("./Android/ViewPager/app/src/main/res/xml/backup_rules.xml") - Thu Sep 19 2024
+          - [mipmap-mdpi]("./Android/ViewPager/app/src/main/res/mipmap-mdpi")
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-mdpi/ic_launcher.webp") - Thu Sep 19 2024
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+          - [mipmap-xxhdpi]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi")
+            - [ic_launcher.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp") - Thu Sep 19 2024
+            - [ic_launcher_round.webp]("./Android/ViewPager/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+          - [values-night/themes.xml]("./Android/ViewPager/app/src/main/res/values-night/themes.xml") - Thu Sep 19 2024
+        - [AndroidManifest.xml]("./Android/ViewPager/app/src/main/AndroidManifest.xml") - Thu Sep 19 2024
+      - [androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.java]("./Android/ViewPager/app/src/androidTest/java/com/firstpartners/viewpager/ExampleInstrumentedTest.java") - Thu Sep 19 2024
+    - [build.gradle]("./Android/ViewPager/app/build.gradle") - Thu Sep 19 2024
+    - [proguard-rules.pro]("./Android/ViewPager/app/proguard-rules.pro") - Thu Sep 19 2024
+    - [.gitignore]("./Android/ViewPager/app/.gitignore") - Thu Sep 19 2024
+  - [gradle.properties]("./Android/ViewPager/gradle.properties") - Thu Sep 19 2024
+- [Kotlin/Youtube full screen 전체 화면.md]("./Android/Kotlin/Youtube_full_screen_전체_화면.md") - Thu Sep 19 2024
+- [웹앱 인터페이스 설정.md]("./Android/웹앱_인터페이스_설정.md") - Thu Sep 19 2024
+- [* -> red 표시(특정 문자 색상 변경).md]("./Android/*_->_red_표시(특정_문자_색상_변경).md") - Thu Sep 19 2024
+- [2024.02]("./Android/2024.02")
+  - [2024.02.14]("./Android/2024.02/2024.02.14")
+    - [gradlew.bat]("./Android/2024.02/2024.02.14/gradlew.bat") - Thu Sep 19 2024
+    - [settings.gradle.kts]("./Android/2024.02/2024.02.14/settings.gradle.kts") - Thu Sep 19 2024
+    - [gradle/wrapper]("./Android/2024.02/2024.02.14/gradle/wrapper")
+      - [gradle-wrapper.properties]("./Android/2024.02/2024.02.14/gradle/wrapper/gradle-wrapper.properties") - Thu Sep 19 2024
+      - [gradle-wrapper.jar]("./Android/2024.02/2024.02.14/gradle/wrapper/gradle-wrapper.jar") - Thu Sep 19 2024
+    - [gradlew]("./Android/2024.02/2024.02.14/gradlew") - Thu Sep 19 2024
+    - [.gitignore]("./Android/2024.02/2024.02.14/.gitignore") - Thu Sep 19 2024
+    - [build.gradle.kts]("./Android/2024.02/2024.02.14/build.gradle.kts") - Thu Sep 19 2024
+    - [app]("./Android/2024.02/2024.02.14/app")
+      - [src]("./Android/2024.02/2024.02.14/app/src")
+        - [test/java/com/example/myapplication/ExampleUnitTest.kt]("./Android/2024.02/2024.02.14/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt") - Thu Sep 19 2024
+        - [main]("./Android/2024.02/2024.02.14/app/src/main")
+          - [res]("./Android/2024.02/2024.02.14/app/src/main/res")
+            - [mipmap-xxxhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi")
+              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp") - Thu Sep 19 2024
+              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+            - [values]("./Android/2024.02/2024.02.14/app/src/main/res/values")
+              - [strings.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/strings.xml") - Thu Sep 19 2024
+              - [colors.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/colors.xml") - Thu Sep 19 2024
+              - [themes.xml]("./Android/2024.02/2024.02.14/app/src/main/res/values/themes.xml") - Thu Sep 19 2024
+            - [mipmap-hdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi")
+              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi/ic_launcher.webp") - Thu Sep 19 2024
+              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+            - [drawable]("./Android/2024.02/2024.02.14/app/src/main/res/drawable")
+              - [ic_launcher_foreground.xml]("./Android/2024.02/2024.02.14/app/src/main/res/drawable/ic_launcher_foreground.xml") - Thu Sep 19 2024
+              - [ic_launcher_background.xml]("./Android/2024.02/2024.02.14/app/src/main/res/drawable/ic_launcher_background.xml") - Thu Sep 19 2024
+            - [mipmap-xhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi")
+              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi/ic_launcher.webp") - Thu Sep 19 2024
+              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+            - [mipmap-anydpi-v26]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26")
+              - [ic_launcher_round.xml]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml") - Thu Sep 19 2024
+              - [ic_launcher.xml]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml") - Thu Sep 19 2024
+            - [xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml")
+              - [data_extraction_rules.xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml/data_extraction_rules.xml") - Thu Sep 19 2024
+              - [backup_rules.xml]("./Android/2024.02/2024.02.14/app/src/main/res/xml/backup_rules.xml") - Thu Sep 19 2024
+            - [mipmap-mdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi")
+              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi/ic_launcher.webp") - Thu Sep 19 2024
+              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+            - [mipmap-xxhdpi]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi")
+              - [ic_launcher.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp") - Thu Sep 19 2024
+              - [ic_launcher_round.webp]("./Android/2024.02/2024.02.14/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp") - Thu Sep 19 2024
+          - [java]("./Android/2024.02/2024.02.14/app/src/main/java")
+            - [com/example/myapplication]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication")
+              - [ui/theme]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme")
+                - [Type.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Type.kt") - Thu Sep 19 2024
+                - [Theme.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Theme.kt") - Thu Sep 19 2024
+                - [Color.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/ui/theme/Color.kt") - Thu Sep 19 2024
+              - [MainActivity.kt]("./Android/2024.02/2024.02.14/app/src/main/java/com/example/myapplication/MainActivity.kt") - Thu Sep 19 2024
+            - [sample.kt]("./Android/2024.02/2024.02.14/app/src/main/java/sample.kt") - Thu Sep 19 2024
+          - [AndroidManifest.xml]("./Android/2024.02/2024.02.14/app/src/main/AndroidManifest.xml") - Thu Sep 19 2024
+        - [androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt]("./Android/2024.02/2024.02.14/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt") - Thu Sep 19 2024
+      - [proguard-rules.pro]("./Android/2024.02/2024.02.14/app/proguard-rules.pro") - Thu Sep 19 2024
+      - [.gitignore]("./Android/2024.02/2024.02.14/app/.gitignore") - Thu Sep 19 2024
+      - [build.gradle.kts]("./Android/2024.02/2024.02.14/app/build.gradle.kts") - Thu Sep 19 2024
+    - [gradle.properties]("./Android/2024.02/2024.02.14/gradle.properties") - Thu Sep 19 2024
+  - [2024.02.27/2024.02.27.md]("./Android/2024.02/2024.02.27/2024.02.27.md") - Thu Sep 19 2024
+  - [2024.02.26/2024.02.26.md]("./Android/2024.02/2024.02.26/2024.02.26.md") - Thu Sep 19 2024
+  - [2024.02.28/2024.02.28.md]("./Android/2024.02/2024.02.28/2024.02.28.md") - Thu Sep 19 2024
+  - [2024.02.23/2024.02.23.md]("./Android/2024.02/2024.02.23/2024.02.23.md") - Thu Sep 19 2024
+- [안드로이드 앱 구조.md]("./Android/안드로이드_앱_구조.md") - Thu Sep 19 2024
+- [키보드 타입.md]("./Android/키보드_타입.md") - Thu Sep 19 2024
+- [Control flow.md]("./Android/Control_flow.md") - Thu Sep 19 2024
+- [Collections.md]("./Android/Collections.md") - Thu Sep 19 2024
+- [string이 한 글자일 때 두 글자로.md]("./Android/string이_한_글자일_때_두_글자로.md") - Thu Sep 19 2024
+- [Basic types.md]("./Android/Basic_types.md") - Thu Sep 19 2024
+- [Hello World.md]("./Android/Hello_World.md") - Thu Sep 19 2024
+- [인앱 결제.md]("./Android/인앱_결제.md") - Thu Sep 19 2024
+- [ViewPager, ViewPager2, RecyclerView.md]("./Android/ViewPager,_ViewPager2,_RecyclerView.md") - Thu Sep 19 2024
+- [Java]("./Android/Java")
+  - [string to int.md]("./Android/Java/string_to_int.md") - Thu Sep 19 2024
+  - [Clean Architecture.md]("./Android/Java/Clean_Architecture.md") - Thu Sep 19 2024
+  - [ViewBinding.md]("./Android/Java/ViewBinding.md") - Thu Sep 19 2024
+  - [Exoplayer → AndroidX Media3.md]("./Android/Java/Exoplayer_→_AndroidX_Media3.md") - Thu Sep 19 2024
+  - ['execute(Params...)' is deprecated.md]("./Android/Java/'execute(Params...)'_is_deprecated.md") - Thu Sep 19 2024
+  - [migration]("./Android/Java/migration")
+    - ['runFinalizersOnExit(boolean)' is deprecated as of API 15 ("IceCreamSandwich"; Android 4.0.3).md]("./Android/Java/migration/'runFinalizersOnExit(boolean)'_is_deprecated_as_of_API_15_("IceCreamSandwich";_Android_4.0.3).md") - Thu Sep 19 2024
+    - ['create(okhttp3.MediaType, java.lang.String)' is deprecated.md]("./Android/Java/migration/'create(okhttp3.MediaType,_java.lang.String)'_is_deprecated.md") - Thu Sep 19 2024
+    - [Pageindicatorview → ViewPager2.md]("./Android/Java/migration/Pageindicatorview_→_ViewPager2.md") - Thu Sep 19 2024
+    - ['getColor(int)' is deprecated as of API 23 ("Marshmallow"; Android 6.0).md]("./Android/Java/migration/'getColor(int)'_is_deprecated_as_of_API_23_("Marshmallow";_Android_6.0).md") - Thu Sep 19 2024
+    - ['execute(Params...)' is deprecated.md]("./Android/Java/migration/'execute(Params...)'_is_deprecated.md") - Thu Sep 19 2024
+    - [JCenter → Maven Central.md]("./Android/Java/migration/JCenter_→_Maven_Central.md") - Thu Sep 19 2024
+    - ['onActivityCreated(android.os.Bundle)' is deprecated.md]("./Android/Java/migration/'onActivityCreated(android.os.Bundle)'_is_deprecated.md") - Thu Sep 19 2024
+- [2024.02.14.md]("./Android/2024.02.14.md") - Thu Sep 19 2024
+- [2024.03/2024.03.05/2024.03.05.md]("./Android/2024.03/2024.03.05/2024.03.05.md") - Thu Sep 19 2024
+- [image file 크기 낮추기.md]("./Android/image_file_크기_낮추기.md") - Thu Sep 19 2024
+- [텍스트 모든 공백, 줄바꿈 등 빼기.md]("./Android/텍스트_모든_공백,_줄바꿈_등_빼기.md") - Thu Sep 19 2024
+- [String to Date.md]("./Android/String_to_Date.md") - Thu Sep 19 2024
+
+### [Knowledge]({#Knowledge})
+- [C, C++, C# difference.md]("./Knowledge/C,_C++,_C#_difference.md") - Thu Sep 19 2024
+- [프레임워크와 라이브러리 차이.md]("./Knowledge/프레임워크와_라이브러리_차이.md") - Thu Sep 19 2024
+- [version.md]("./Knowledge/version.md") - Thu Sep 19 2024
+
+### [CS]({#CS})
+- [Database.md]("./CS/Database.md") - Thu Sep 19 2024
+- [CDN.md]("./CS/CDN.md") - Thu Sep 19 2024
+- [서버의 종류.md]("./CS/서버의_종류.md") - Thu Sep 19 2024
 
 ### [Frontend]({#Frontend})
 - [javascript]("./Frontend/javascript")
-  - [javascript 역할.md]("./Frontend/javascript/javascript_역할.md") - Wed Sep 18 2024
-  - [CSS와 이벤트 다루기.md]("./Frontend/javascript/CSS와_이벤트_다루기.md") - Wed Sep 18 2024
-  - [문법 - 변수, 객체.md]("./Frontend/javascript/문법_-_변수,_객체.md") - Wed Sep 18 2024
-  - [시간과 문자열.md]("./Frontend/javascript/시간과_문자열.md") - Wed Sep 18 2024
-  - [함수와 조건문.md]("./Frontend/javascript/함수와_조건문.md") - Wed Sep 18 2024
-- [HTML]("./Frontend/HTML")
-  - [HTML(HyperText Markup Language).md]("./Frontend/HTML/HTML(HyperText_Markup_Language).md") - Wed Sep 18 2024
-  - [login.md]("./Frontend/HTML/login.md") - Wed Sep 18 2024
-- [거대한 프로그램을 만들기 위한 번들러의 이해.md]("./Frontend/거대한_프로그램을_만들기_위한_번들러의_이해.md") - Wed Sep 18 2024
-- [Svelte.md]("./Frontend/Svelte.md") - Wed Sep 18 2024
-- [Frontend?.md]("./Frontend/Frontend?.md") - Wed Sep 18 2024
+  - [시간과 문자열.md]("./Frontend/javascript/시간과_문자열.md") - Thu Sep 19 2024
+  - [함수와 조건문.md]("./Frontend/javascript/함수와_조건문.md") - Thu Sep 19 2024
+  - [문법 - 변수, 객체.md]("./Frontend/javascript/문법_-_변수,_객체.md") - Thu Sep 19 2024
+  - [javascript 역할.md]("./Frontend/javascript/javascript_역할.md") - Thu Sep 19 2024
+  - [CSS와 이벤트 다루기.md]("./Frontend/javascript/CSS와_이벤트_다루기.md") - Thu Sep 19 2024
+- [VS Code.md]("./Frontend/VS_Code.md") - Thu Sep 19 2024
 - [CSS]("./Frontend/CSS")
-  - [flexbox와 position.md]("./Frontend/CSS/flexbox와_position.md") - Wed Sep 18 2024
-  - [당근마켓 클론코딩.md]("./Frontend/CSS/당근마켓_클론코딩.md") - Wed Sep 18 2024
-  - [색상과 애니메이션.md]("./Frontend/CSS/색상과_애니메이션.md") - Wed Sep 18 2024
-  - [CSS 선택자와 상태.md]("./Frontend/CSS/CSS_선택자와_상태.md") - Wed Sep 18 2024
-  - [CSS Box Model.md]("./Frontend/CSS/CSS_Box_Model.md") - Wed Sep 18 2024
-  - [CSS.md]("./Frontend/CSS/CSS.md") - Wed Sep 18 2024
-- [VS Code.md]("./Frontend/VS_Code.md") - Wed Sep 18 2024
+  - [CSS 선택자와 상태.md]("./Frontend/CSS/CSS_선택자와_상태.md") - Thu Sep 19 2024
+  - [flexbox와 position.md]("./Frontend/CSS/flexbox와_position.md") - Thu Sep 19 2024
+  - [색상과 애니메이션.md]("./Frontend/CSS/색상과_애니메이션.md") - Thu Sep 19 2024
+  - [CSS Box Model.md]("./Frontend/CSS/CSS_Box_Model.md") - Thu Sep 19 2024
+  - [CSS.md]("./Frontend/CSS/CSS.md") - Thu Sep 19 2024
+  - [당근마켓 클론코딩.md]("./Frontend/CSS/당근마켓_클론코딩.md") - Thu Sep 19 2024
+- [Frontend?.md]("./Frontend/Frontend?.md") - Thu Sep 19 2024
+- [HTML]("./Frontend/HTML")
+  - [HTML(HyperText Markup Language).md]("./Frontend/HTML/HTML(HyperText_Markup_Language).md") - Thu Sep 19 2024
+  - [login.md]("./Frontend/HTML/login.md") - Thu Sep 19 2024
+- [거대한 프로그램을 만들기 위한 번들러의 이해.md]("./Frontend/거대한_프로그램을_만들기_위한_번들러의_이해.md") - Thu Sep 19 2024
+- [Svelte.md]("./Frontend/Svelte.md") - Thu Sep 19 2024
 
-### [CS]({#CS})
-- [서버의 종류.md]("./CS/서버의_종류.md") - Wed Sep 18 2024
-- [CDN.md]("./CS/CDN.md") - Wed Sep 18 2024
-- [Database.md]("./CS/Database.md") - Wed Sep 18 2024
+### [Library/Alamofire.md]({#Library/Alamofire.md})
 
