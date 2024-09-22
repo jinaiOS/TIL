@@ -43,6 +43,7 @@ Today I Learned!!
 
 ### [BackEnd]({#BackEnd})
 - [Java array.md]("./BackEnd/Java_array.md") - Sun Sep 22 2024
+- [Java 인터페이스.md]("./BackEnd/Java_인터페이스.md") - Sun Sep 22 2024
 - [컴퓨터 OS 심화.md]("./BackEnd/컴퓨터_OS_심화.md") - Sun Sep 22 2024
 - [컴퓨터 OS 기본.md]("./BackEnd/컴퓨터_OS_기본.md") - Sun Sep 22 2024
 - [Java 다형성.md]("./BackEnd/Java_다형성.md") - Sun Sep 22 2024
