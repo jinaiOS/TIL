@@ -240,6 +240,7 @@ Today I Learned!!
 - [Java 문자열.md]("./BackEnd/Java_문자열.md") - Wed Sep 25 2024
 - [Python.md]("./BackEnd/Python.md") - Wed Sep 25 2024
 - [Java static과 변수 유효범위.md]("./BackEnd/Java_static과_변수_유효범위.md") - Wed Sep 25 2024
+- [Java JVM 메모리 런타임.md]("./BackEnd/Java_JVM_메모리_런타임.md") - Wed Sep 25 2024
 - [Java 객체 간의 협력.md]("./BackEnd/Java_객체_간의_협력.md") - Wed Sep 25 2024
 - [Java 조건문.md]("./BackEnd/Java_조건문.md") - Wed Sep 25 2024
 - [Java 추상화.md]("./BackEnd/Java_추상화.md") - Wed Sep 25 2024
