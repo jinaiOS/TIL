@@ -86,6 +86,13 @@ Today I Learned!!
       - [Medal.java]("./BackEnd/HelloWorld/src/chapter_17/Medal.java") - Wed Sep 25 2024
       - [StarbucksCoupon.java]("./BackEnd/HelloWorld/src/chapter_17/StarbucksCoupon.java") - Wed Sep 25 2024
       - [Taxi.java]("./BackEnd/HelloWorld/src/chapter_17/Taxi.java") - Wed Sep 25 2024
+    - [chapter_41]("./BackEnd/HelloWorld/src/chapter_41")
+      - [Staff.java]("./BackEnd/HelloWorld/src/chapter_41/Staff.java") - Wed Sep 25 2024
+      - [DepartmentStoreSituation.java]("./BackEnd/HelloWorld/src/chapter_41/DepartmentStoreSituation.java") - Wed Sep 25 2024
+      - [Heap1]("./BackEnd/HelloWorld/src/chapter_41/Heap1") - Wed Sep 25 2024
+      - [Customer.java]("./BackEnd/HelloWorld/src/chapter_41/Customer.java") - Wed Sep 25 2024
+      - [VIPCustomer.java]("./BackEnd/HelloWorld/src/chapter_41/VIPCustomer.java") - Wed Sep 25 2024
+      - [GolderCustomer.java]("./BackEnd/HelloWorld/src/chapter_41/GolderCustomer.java") - Wed Sep 25 2024
     - [chapter_18]("./BackEnd/HelloWorld/src/chapter_18")
       - [ForLoop.java]("./BackEnd/HelloWorld/src/chapter_18/ForLoop.java") - Wed Sep 25 2024
       - [Operator.java]("./BackEnd/HelloWorld/src/chapter_18/Operator.java") - Wed Sep 25 2024
