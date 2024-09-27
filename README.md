@@ -263,6 +263,7 @@ Today I Learned!!
 - [데이터베이스.md]("./BackEnd/데이터베이스.md") - Fri Sep 27 2024
 - [FastAPI.md]("./BackEnd/FastAPI.md") - Fri Sep 27 2024
 - [BackEnd.md]("./BackEnd/BackEnd.md") - Fri Sep 27 2024
+- [Java 어머니 클래스 Object.md]("./BackEnd/Java_어머니_클래스_Object.md") - Fri Sep 27 2024
 - [데이터베이스를 시각적으로 볼 수 있는 ERD.md]("./BackEnd/데이터베이스를_시각적으로_볼_수_있는_ERD.md") - Fri Sep 27 2024
 - [CRUD.md]("./BackEnd/CRUD.md") - Fri Sep 27 2024
 - [Java?.md]("./BackEnd/Java?.md") - Fri Sep 27 2024
