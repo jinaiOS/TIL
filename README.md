@@ -112,6 +112,12 @@ Today I Learned!!
     - [chapter_30]("./BackEnd/HelloWorld/src/chapter_30")
       - [Student.java]("./BackEnd/HelloWorld/src/chapter_30/Student.java") - Fri Sep 27 2024
       - [StaticTest.java]("./BackEnd/HelloWorld/src/chapter_30/StaticTest.java") - Fri Sep 27 2024
+    - [chapter_42]("./BackEnd/HelloWorld/src/chapter_42")
+      - [GarbageCollectorTest.java]("./BackEnd/HelloWorld/src/chapter_42/GarbageCollectorTest.java") - Fri Sep 27 2024
+      - [heap]("./BackEnd/HelloWorld/src/chapter_42/heap") - Fri Sep 27 2024
+      - [Customer.java]("./BackEnd/HelloWorld/src/chapter_42/Customer.java") - Fri Sep 27 2024
+      - [heap2]("./BackEnd/HelloWorld/src/chapter_42/heap2") - Fri Sep 27 2024
+      - [heap3]("./BackEnd/HelloWorld/src/chapter_42/heap3") - Fri Sep 27 2024
     - [chapter_21]("./BackEnd/HelloWorld/src/chapter_21")
       - [DiamondTask.java]("./BackEnd/HelloWorld/src/chapter_21/DiamondTask.java") - Fri Sep 27 2024
       - [CmdLineArgs.java]("./BackEnd/HelloWorld/src/chapter_21/CmdLineArgs.java") - Fri Sep 27 2024
