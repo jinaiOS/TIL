@@ -341,6 +341,7 @@ Today I Learned!!
 - [Java Type.md]("./BackEnd/Java_Type.md") - Sun Sep 29 2024
 - [Java 메소드.md]("./BackEnd/Java_메소드.md") - Sun Sep 29 2024
 - [Web Socket.md]("./BackEnd/Web_Socket.md") - Sun Sep 29 2024
+- [Java 강력한 데이터 관리(Enum, DateTime, Optional).md]("./BackEnd/Java_강력한_데이터_관리(Enum,_DateTime,_Optional).md") - Sun Sep 29 2024
 - [데이터베이스.md]("./BackEnd/데이터베이스.md") - Sun Sep 29 2024
 - [FastAPI.md]("./BackEnd/FastAPI.md") - Sun Sep 29 2024
 - [BackEnd.md]("./BackEnd/BackEnd.md") - Sun Sep 29 2024
