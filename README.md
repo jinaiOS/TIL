@@ -88,8 +88,11 @@ Today I Learned!!
       - [ThreeSixNineGame.java]("./BackEnd/HelloWorld/src/chapter_19/ThreeSixNineGame.java") - Sun Sep 29 2024
       - [OddNumberTotal.java]("./BackEnd/HelloWorld/src/chapter_19/OddNumberTotal.java") - Sun Sep 29 2024
     - [chapter_44]("./BackEnd/HelloWorld/src/chapter_44")
+      - [ClassTest.java]("./BackEnd/HelloWorld/src/chapter_44/ClassTest.java") - Sun Sep 29 2024
       - [StringCharArrayTest.java]("./BackEnd/HelloWorld/src/chapter_44/StringCharArrayTest.java") - Sun Sep 29 2024
+      - [Customer.java]("./BackEnd/HelloWorld/src/chapter_44/Customer.java") - Sun Sep 29 2024
       - [StringEqualsTest.java]("./BackEnd/HelloWorld/src/chapter_44/StringEqualsTest.java") - Sun Sep 29 2024
+      - [StringBuilderTest.java]("./BackEnd/HelloWorld/src/chapter_44/StringBuilderTest.java") - Sun Sep 29 2024
     - [chapter_14]("./BackEnd/HelloWorld/src/chapter_14")
       - [StringFormat.java]("./BackEnd/HelloWorld/src/chapter_14/StringFormat.java") - Sun Sep 29 2024
       - [Encoding.java]("./BackEnd/HelloWorld/src/chapter_14/Encoding.java") - Sun Sep 29 2024
