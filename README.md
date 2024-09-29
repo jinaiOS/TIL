@@ -274,6 +274,7 @@ Today I Learned!!
     - [modules.xml]("./BackEnd/HelloWorld/.idea/modules.xml") - Sun Sep 29 2024
   - [.gitignore]("./BackEnd/HelloWorld/.gitignore") - Sun Sep 29 2024
   - [HelloWorld.iml]("./BackEnd/HelloWorld/HelloWorld.iml") - Sun Sep 29 2024
+- [Java 컬렉션 List 만들기 (데이터 구조 기본 원리).md]("./BackEnd/Java_컬렉션_List_만들기_(데이터_구조_기본_원리).md") - Sun Sep 29 2024
 - [Java JVM 메모리 구조.md]("./BackEnd/Java_JVM_메모리_구조.md") - Sun Sep 29 2024
 - [SQL문 기초.md]("./BackEnd/SQL문_기초.md") - Sun Sep 29 2024
 - [API.md]("./BackEnd/API.md") - Sun Sep 29 2024
