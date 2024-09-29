@@ -76,6 +76,18 @@ Today I Learned!!
       - [Fish.java]("./BackEnd/HelloWorld/src/chapter_35/Fish.java") - Sun Sep 29 2024
       - [Dog.java]("./BackEnd/HelloWorld/src/chapter_35/Dog.java") - Sun Sep 29 2024
       - [Person.java]("./BackEnd/HelloWorld/src/chapter_35/Person.java") - Sun Sep 29 2024
+    - [chapter_52]("./BackEnd/HelloWorld/src/chapter_52")
+      - [Day.java]("./BackEnd/HelloWorld/src/chapter_52/Day.java") - Sun Sep 29 2024
+      - [DayEnumTest.java]("./BackEnd/HelloWorld/src/chapter_52/DayEnumTest.java") - Sun Sep 29 2024
+      - [DayTest.java]("./BackEnd/HelloWorld/src/chapter_52/DayTest.java") - Sun Sep 29 2024
+      - [PTMember.java]("./BackEnd/HelloWorld/src/chapter_52/PTMember.java") - Sun Sep 29 2024
+      - [DateTimeTest.java]("./BackEnd/HelloWorld/src/chapter_52/DateTimeTest.java") - Sun Sep 29 2024
+      - [Gender.java]("./BackEnd/HelloWorld/src/chapter_52/Gender.java") - Sun Sep 29 2024
+      - [StringNullThrowTest.java]("./BackEnd/HelloWorld/src/chapter_52/StringNullThrowTest.java") - Sun Sep 29 2024
+      - [OptionalDefaultTest.java]("./BackEnd/HelloWorld/src/chapter_52/OptionalDefaultTest.java") - Sun Sep 29 2024
+      - [PTMemberTest.java]("./BackEnd/HelloWorld/src/chapter_52/PTMemberTest.java") - Sun Sep 29 2024
+      - [StringNullDefault.java]("./BackEnd/HelloWorld/src/chapter_52/StringNullDefault.java") - Sun Sep 29 2024
+      - [OptionalThrowTest.java]("./BackEnd/HelloWorld/src/chapter_52/OptionalThrowTest.java") - Sun Sep 29 2024
     - [chapter_15]("./BackEnd/HelloWorld/src/chapter_15")
       - [Literal.java]("./BackEnd/HelloWorld/src/chapter_15/Literal.java") - Sun Sep 29 2024
       - [SymbolicConstant.java]("./BackEnd/HelloWorld/src/chapter_15/SymbolicConstant.java") - Sun Sep 29 2024
@@ -145,6 +157,13 @@ Today I Learned!!
       - [Customer.java]("./BackEnd/HelloWorld/src/chapter_47/Customer.java") - Sun Sep 29 2024
       - [VIPCustomer.java]("./BackEnd/HelloWorld/src/chapter_47/VIPCustomer.java") - Sun Sep 29 2024
       - [MapInterfaceTest.java]("./BackEnd/HelloWorld/src/chapter_47/MapInterfaceTest.java") - Sun Sep 29 2024
+    - [chapter_50]("./BackEnd/HelloWorld/src/chapter_50")
+      - [TryCatchTest2.java]("./BackEnd/HelloWorld/src/chapter_50/TryCatchTest2.java") - Sun Sep 29 2024
+      - [ExceptionTest.java]("./BackEnd/HelloWorld/src/chapter_50/ExceptionTest.java") - Sun Sep 29 2024
+      - [TryCatchTest1.java]("./BackEnd/HelloWorld/src/chapter_50/TryCatchTest1.java") - Sun Sep 29 2024
+      - [ErrorTest.java]("./BackEnd/HelloWorld/src/chapter_50/ErrorTest.java") - Sun Sep 29 2024
+      - [test.txt]("./BackEnd/HelloWorld/src/chapter_50/test.txt") - Sun Sep 29 2024
+      - [TryCatchTest3.java]("./BackEnd/HelloWorld/src/chapter_50/TryCatchTest3.java") - Sun Sep 29 2024
     - [chapter_21]("./BackEnd/HelloWorld/src/chapter_21")
       - [DiamondTask.java]("./BackEnd/HelloWorld/src/chapter_21/DiamondTask.java") - Sun Sep 29 2024
       - [CmdLineArgs.java]("./BackEnd/HelloWorld/src/chapter_21/CmdLineArgs.java") - Sun Sep 29 2024
@@ -236,6 +255,17 @@ Today I Learned!!
       - [Subject.java]("./BackEnd/HelloWorld/src/chapter_25/Subject.java") - Sun Sep 29 2024
       - [Desk.java]("./BackEnd/HelloWorld/src/chapter_25/Desk.java") - Sun Sep 29 2024
       - [Test.java]("./BackEnd/HelloWorld/src/chapter_25/Test.java") - Sun Sep 29 2024
+    - [chapter_51]("./BackEnd/HelloWorld/src/chapter_51")
+      - [exceptions]("./BackEnd/HelloWorld/src/chapter_51/exceptions")
+        - [IDFormatException.java]("./BackEnd/HelloWorld/src/chapter_51/exceptions/IDFormatException.java") - Sun Sep 29 2024
+        - [PositiveNumberException.java]("./BackEnd/HelloWorld/src/chapter_51/exceptions/PositiveNumberException.java") - Sun Sep 29 2024
+      - [ThrowUncheckException.java]("./BackEnd/HelloWorld/src/chapter_51/ThrowUncheckException.java") - Sun Sep 29 2024
+      - [PTMember.java]("./BackEnd/HelloWorld/src/chapter_51/PTMember.java") - Sun Sep 29 2024
+      - [TryCatchFinallyTest.java]("./BackEnd/HelloWorld/src/chapter_51/TryCatchFinallyTest.java") - Sun Sep 29 2024
+      - [TryMultiCatchTest.java]("./BackEnd/HelloWorld/src/chapter_51/TryMultiCatchTest.java") - Sun Sep 29 2024
+      - [test.txt]("./BackEnd/HelloWorld/src/chapter_51/test.txt") - Sun Sep 29 2024
+      - [PTMemberTest.java]("./BackEnd/HelloWorld/src/chapter_51/PTMemberTest.java") - Sun Sep 29 2024
+      - [PushExceptionTest.java]("./BackEnd/HelloWorld/src/chapter_51/PushExceptionTest.java") - Sun Sep 29 2024
     - [chapter_13]("./BackEnd/HelloWorld/src/chapter_13")
       - [ExplicitCasting.java]("./BackEnd/HelloWorld/src/chapter_13/ExplicitCasting.java") - Sun Sep 29 2024
       - [ImplicitCasting1.java]("./BackEnd/HelloWorld/src/chapter_13/ImplicitCasting1.java") - Sun Sep 29 2024
