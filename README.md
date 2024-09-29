@@ -299,6 +299,7 @@ Today I Learned!!
 - [Java array 복사와 다차원 array.md]("./BackEnd/Java_array_복사와_다차원_array.md") - Sun Sep 29 2024
 - [Java 클래스와 객체.md]("./BackEnd/Java_클래스와_객체.md") - Sun Sep 29 2024
 - [브라우저가 닫혀도 로그인 유지하는 방법.md]("./BackEnd/브라우저가_닫혀도_로그인_유지하는_방법.md") - Sun Sep 29 2024
+- [Java 제너릭과 Wrapper.md]("./BackEnd/Java_제너릭과_Wrapper.md") - Sun Sep 29 2024
 - [Java 객체의 상속.md]("./BackEnd/Java_객체의_상속.md") - Sun Sep 29 2024
 - [Java OOP (= 객체 지향 프로그래밍).md]("./BackEnd/Java_OOP_(=_객체_지향_프로그래밍).md") - Sun Sep 29 2024
 - [백엔드에게 정보를 보내는 방식.md]("./BackEnd/백엔드에게_정보를_보내는_방식.md") - Sun Sep 29 2024
