@@ -33,7 +33,7 @@ Today I Learned!!
 
 - [Library/Alamofire.md]({#Library/Alamofire.md})
 
-- [Keras/인공 지능과 머신 러닝, 딥러닝.md]({#Keras/인공 지능과 머신 러닝, 딥러닝.md})
+- [Keras]({#Keras})
 
 ### [앱 심사]({#앱 심사})
 - [인앱 결제 시 회사 설정.md]("./앱_심사/인앱_결제_시_회사_설정.md") - Sun Sep 29 2024
@@ -782,5 +782,7 @@ Today I Learned!!
 
 ### [Library/Alamofire.md]({#Library/Alamofire.md})
 
-### [Keras/인공 지능과 머신 러닝, 딥러닝.md]({#Keras/인공 지능과 머신 러닝, 딥러닝.md})
+### [Keras]({#Keras})
+- [인공 지능과 머신 러닝, 딥러닝.md]("./Keras/인공_지능과_머신_러닝,_딥러닝.md") - Sun Sep 29 2024
+- [신경망을 위한 데이터 표현.md]("./Keras/신경망을_위한_데이터_표현.md") - Sun Sep 29 2024
 
