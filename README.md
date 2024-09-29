@@ -274,6 +274,7 @@ Today I Learned!!
     - [modules.xml]("./BackEnd/HelloWorld/.idea/modules.xml") - Sun Sep 29 2024
   - [.gitignore]("./BackEnd/HelloWorld/.gitignore") - Sun Sep 29 2024
   - [HelloWorld.iml]("./BackEnd/HelloWorld/HelloWorld.iml") - Sun Sep 29 2024
+- [Java 컬렉션 List 만들기 (데이터 구조 기본 원리).md]("./BackEnd/Java_컬렉션_List_만들기_(데이터_구조_기본_원리).md") - Sun Sep 29 2024
 - [Java JVM 메모리 구조.md]("./BackEnd/Java_JVM_메모리_구조.md") - Sun Sep 29 2024
 - [SQL문 기초.md]("./BackEnd/SQL문_기초.md") - Sun Sep 29 2024
 - [API.md]("./BackEnd/API.md") - Sun Sep 29 2024
@@ -285,6 +286,7 @@ Today I Learned!!
 - [Java 객체 간의 협력.md]("./BackEnd/Java_객체_간의_협력.md") - Sun Sep 29 2024
 - [Java 조건문.md]("./BackEnd/Java_조건문.md") - Sun Sep 29 2024
 - [Java 추상화.md]("./BackEnd/Java_추상화.md") - Sun Sep 29 2024
+- [Java 컬렉션 Set과 Map 만들기(Hash에 대하여).md]("./BackEnd/Java_컬렉션_Set과_Map_만들기(Hash에_대하여).md") - Sun Sep 29 2024
 - [Java Type.md]("./BackEnd/Java_Type.md") - Sun Sep 29 2024
 - [Java 메소드.md]("./BackEnd/Java_메소드.md") - Sun Sep 29 2024
 - [Web Socket.md]("./BackEnd/Web_Socket.md") - Sun Sep 29 2024
