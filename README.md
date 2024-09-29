@@ -302,6 +302,7 @@ Today I Learned!!
 - [Python.md]("./BackEnd/Python.md") - Sun Sep 29 2024
 - [Java static과 변수 유효범위.md]("./BackEnd/Java_static과_변수_유효범위.md") - Sun Sep 29 2024
 - [Java 여러 기본 클래스.md]("./BackEnd/Java_여러_기본_클래스.md") - Sun Sep 29 2024
+- [Java 예외 처리.md]("./BackEnd/Java_예외_처리.md") - Sun Sep 29 2024
 - [Java JVM 메모리 런타임.md]("./BackEnd/Java_JVM_메모리_런타임.md") - Sun Sep 29 2024
 - [Java 객체 간의 협력.md]("./BackEnd/Java_객체_간의_협력.md") - Sun Sep 29 2024
 - [Java 조건문.md]("./BackEnd/Java_조건문.md") - Sun Sep 29 2024
