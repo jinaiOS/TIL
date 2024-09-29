@@ -139,6 +139,12 @@ Today I Learned!!
       - [Customer.java]("./BackEnd/HelloWorld/src/chapter_42/Customer.java") - Sun Sep 29 2024
       - [heap2]("./BackEnd/HelloWorld/src/chapter_42/heap2") - Sun Sep 29 2024
       - [heap3]("./BackEnd/HelloWorld/src/chapter_42/heap3") - Sun Sep 29 2024
+    - [chapter_47]("./BackEnd/HelloWorld/src/chapter_47")
+      - [HashTest.java]("./BackEnd/HelloWorld/src/chapter_47/HashTest.java") - Sun Sep 29 2024
+      - [SetInterfaceTest.java]("./BackEnd/HelloWorld/src/chapter_47/SetInterfaceTest.java") - Sun Sep 29 2024
+      - [Customer.java]("./BackEnd/HelloWorld/src/chapter_47/Customer.java") - Sun Sep 29 2024
+      - [VIPCustomer.java]("./BackEnd/HelloWorld/src/chapter_47/VIPCustomer.java") - Sun Sep 29 2024
+      - [MapInterfaceTest.java]("./BackEnd/HelloWorld/src/chapter_47/MapInterfaceTest.java") - Sun Sep 29 2024
     - [chapter_21]("./BackEnd/HelloWorld/src/chapter_21")
       - [DiamondTask.java]("./BackEnd/HelloWorld/src/chapter_21/DiamondTask.java") - Sun Sep 29 2024
       - [CmdLineArgs.java]("./BackEnd/HelloWorld/src/chapter_21/CmdLineArgs.java") - Sun Sep 29 2024
@@ -194,6 +200,10 @@ Today I Learned!!
       - [InterfaceTest2.java]("./BackEnd/HelloWorld/src/chapter_36/InterfaceTest2.java") - Sun Sep 29 2024
       - [Person.java]("./BackEnd/HelloWorld/src/chapter_36/Person.java") - Sun Sep 29 2024
       - [Flyable.java]("./BackEnd/HelloWorld/src/chapter_36/Flyable.java") - Sun Sep 29 2024
+    - [chapter_46]("./BackEnd/HelloWorld/src/chapter_46")
+      - [ListInsertRemovePerformanceTest.java]("./BackEnd/HelloWorld/src/chapter_46/ListInsertRemovePerformanceTest.java") - Sun Sep 29 2024
+      - [ListInterfaceTest.java]("./BackEnd/HelloWorld/src/chapter_46/ListInterfaceTest.java") - Sun Sep 29 2024
+      - [ListGetPerformanceTest.java]("./BackEnd/HelloWorld/src/chapter_46/ListGetPerformanceTest.java") - Sun Sep 29 2024
     - [mission]("./BackEnd/HelloWorld/src/mission")
       - [ChuncheonTicket2.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket2.java") - Sun Sep 29 2024
       - [ChuncheonTicket1.java]("./BackEnd/HelloWorld/src/mission/ChuncheonTicket1.java") - Sun Sep 29 2024
