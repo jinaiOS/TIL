@@ -368,6 +368,7 @@ Today I Learned!!
 - [Java 클래스 소개.md]("./BackEnd/Java_클래스_소개.md") - Sun Sep 29 2024
 - [PyMongo.md]("./BackEnd/PyMongo.md") - Sun Sep 29 2024
 - [컴퓨터 간단 구조.md]("./BackEnd/컴퓨터_간단_구조.md") - Sun Sep 29 2024
+- [Java 내부 클래스와 유틸클래스.md]("./BackEnd/Java_내부_클래스와_유틸클래스.md") - Sun Sep 29 2024
 - [Java 상수와 리터럴.md]("./BackEnd/Java_상수와_리터럴.md") - Sun Sep 29 2024
 
 ### [ErrorResolve]({#ErrorResolve})
