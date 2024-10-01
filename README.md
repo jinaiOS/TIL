@@ -33,7 +33,7 @@ Today I Learned!!
 
 - [Library/Alamofire.md]({#Library/Alamofire.md})
 
-- [Keras/인공 지능과 머신 러닝, 딥러닝.md]({#Keras/인공 지능과 머신 러닝, 딥러닝.md})
+- [Keras]({#Keras})
 
 ### [앱 심사]({#앱 심사})
 - [인앱 결제 시 회사 설정.md]("./앱_심사/인앱_결제_시_회사_설정.md") - Sun Sep 29 2024
@@ -341,6 +341,7 @@ Today I Learned!!
 - [Java Type.md]("./BackEnd/Java_Type.md") - Sun Sep 29 2024
 - [Java 메소드.md]("./BackEnd/Java_메소드.md") - Sun Sep 29 2024
 - [Web Socket.md]("./BackEnd/Web_Socket.md") - Sun Sep 29 2024
+- [Java 강력한 데이터 관리(Enum, DateTime, Optional).md]("./BackEnd/Java_강력한_데이터_관리(Enum,_DateTime,_Optional).md") - Sun Sep 29 2024
 - [데이터베이스.md]("./BackEnd/데이터베이스.md") - Sun Sep 29 2024
 - [FastAPI.md]("./BackEnd/FastAPI.md") - Sun Sep 29 2024
 - [BackEnd.md]("./BackEnd/BackEnd.md") - Sun Sep 29 2024
@@ -367,6 +368,7 @@ Today I Learned!!
 - [Java 클래스 소개.md]("./BackEnd/Java_클래스_소개.md") - Sun Sep 29 2024
 - [PyMongo.md]("./BackEnd/PyMongo.md") - Sun Sep 29 2024
 - [컴퓨터 간단 구조.md]("./BackEnd/컴퓨터_간단_구조.md") - Sun Sep 29 2024
+- [Java 내부 클래스와 유틸클래스.md]("./BackEnd/Java_내부_클래스와_유틸클래스.md") - Sun Sep 29 2024
 - [Java 상수와 리터럴.md]("./BackEnd/Java_상수와_리터럴.md") - Sun Sep 29 2024
 
 ### [ErrorResolve]({#ErrorResolve})
@@ -780,5 +782,7 @@ Today I Learned!!
 
 ### [Library/Alamofire.md]({#Library/Alamofire.md})
 
-### [Keras/인공 지능과 머신 러닝, 딥러닝.md]({#Keras/인공 지능과 머신 러닝, 딥러닝.md})
+### [Keras]({#Keras})
+- [인공 지능과 머신 러닝, 딥러닝.md]("./Keras/인공_지능과_머신_러닝,_딥러닝.md") - Sun Sep 29 2024
+- [신경망을 위한 데이터 표현.md]("./Keras/신경망을_위한_데이터_표현.md") - Sun Sep 29 2024
 
