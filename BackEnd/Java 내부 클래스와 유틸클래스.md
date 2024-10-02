@@ -176,5 +176,5 @@ public class LocalTest {
 
         anonymousWalk.walk();
     }
-}
+} 
 ```
